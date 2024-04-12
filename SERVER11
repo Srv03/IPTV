@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://ottepg.ru/ottepg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #EXTINF:0 group-title="Федеральные" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="7",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:0 group-title="Федеральные" tvg-id="146" tvg-logo="http://epg.one/img/983.png" tvg-rec="7",Первый канал HD
@@ -202,11 +202,11 @@ http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:0 group-title="Фильмовые" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTI5ODIxMDQsImlhdCI6MTcxMjg5NTcwNCwiY2lkIjo2LCJ1aWQiOjc2MTQxMTA5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xM-aoNIzEjWeaPSYtpPsTY6q05KUmDtHDCiHt6O39CU&offset=10
 #EXTINF:0 group-title="Фильмовые" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
-http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=c70daac55c0cd8e99560f4e83672d1d71673a30c-1877811966-1712939756-1712896556
+http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=3097aa25fcae4ed0b4830b1ed84c7115cc25212d-1877811966-1712958976-1712915776
 #EXTINF:0 group-title="Фильмовые" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал
-http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=18e3d1dfc0fe82638ccbb80b69aa93761df0dd3a-1877811966-1712939756-1712896556
+http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=0c13a104560ae69205b79ce02ad144316208b857-1877811966-1712958976-1712915776
 #EXTINF:0 group-title="Фильмовые" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит 
-http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=13f8355c364397b03192f1b8b3f9e47fd701f524-1877811966-1712939756-1712896556
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=2c397621f440d3dbeb8fe207579b26bc7d97cd93-1877811966-1712958976-1712915776
 #EXTINF:0 group-title="Познавательные" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="7",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="1753" tvg-logo="http://epg.one/img/1753.png" tvg-rec="7",НТВ Право
@@ -238,7 +238,7 @@ http://iptv.iptvin.fun:2134/channel/56b16276/index.m3u8?q=39a58296a7abd1f4de5d70
 #EXTINF:0 group-title="Познавательные" tvg-id="2026" tvg-logo="http://epg.one/img/2026.png" tvg-rec="7",Бобёр
 http://iptv.iptvin.fun:2134/channel/5e8d1c4f/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:0 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда
-http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=3d536bbed588eef09bc25a2930df9e6a97dfea1f-1877811966-1712939756-1712896556
+http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=392a6869e4a5e074515a0e438821358b29ddf578-1877811966-1712958976-1712915776
 #EXTINF:0 group-title="Познавательные" tvg-id="614" tvg-logo="http://epg.one/img/614.png" tvg-rec="7",Кухня ТВ
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTI5ODIxMDQsImlhdCI6MTcxMjg5NTcwNCwiY2lkIjo2LCJ1aWQiOjc2MTQxMTA5NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xM-aoNIzEjWeaPSYtpPsTY6q05KUmDtHDCiHt6O39CU&offset=10
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
