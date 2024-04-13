@@ -202,21 +202,23 @@ http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 group-title="Фильмовые",Русский Иллюзион
 http://iptv.iptvin.fun:2134/channel/nff29fa0/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:-1 group-title="Фильмовые",Русская комедия
-http://srv-5-streaming.iptvin.fun:34768/komedia/video.m3u8?token=54d7cd97525b6c8e50aee580deaacc668355af89-1877811966-1713037064-1712993864
+http://srv-5-streaming.iptvin.fun:34768/komedia/video.m3u8?token=9681d02a8e21a947549f40a11e3c3f3948c23c96-1877811966-1713072225-1713029025
 #EXTINF:-1 group-title="Фильмовые",Иллюзион+
 http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
 http://46.17.46.31:2021/channel/68a9a3f4/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://46.17.46.31:2021/channel/f9a23cd/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+#EXTINF:-1 group-title="Фильмовые",Победа
+http://46.17.46.31:2021/channel/n2299fdc6/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=739fd2cd7bc4e317b0b818e06241594887ab5fff-1877811966-1713037064-1712993864
+http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=febe1d3de8cdff804e4d6f36dcf63ce53199c788-1877811966-1713072225-1713029025
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
-http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=f598ff2d2f062881e6c253d919e7ef6d2146c43c-1877811966-1713037064-1712993864
+http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=fd4a7d1d6c8437790b5dd1933b7e1f9f0b3beee1-1877811966-1713072225-1713029025
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=cce0d47ff6037b9b27f76b49e4469a0bb73d34ef-1877811966-1713037064-1712993864
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=6459c74425a84ba636d1679cafdca76120c76d8f-1877811966-1713072225-1713029025
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Познавательные",НТВ Право
@@ -241,6 +243,8 @@ http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 http://46.17.46.31:2021/channel/5a53915b/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
+#EXTINF:-1 group-title="Фильмовые",Родное кино
+http://45.15.43.12:80/rodnoekino/video.m3u8?token=test
 #EXTINF:-1 group-title="Фильмовые",Индийское Кино
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
 #EXTINF:-1 group-title="Фильмовые",Еврокино
@@ -249,19 +253,27 @@ http://iptv.iptvin.fun:2134/channel/56b16276/index.m3u8?q=39a58296a7abd1f4de5d70
 http://iptv.iptvin.fun:2134/channel/5e8d1c4f/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:-1 group-title="Познавательные",Еда
 http://46.17.46.31:2021/channel/n26d9ff0a/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
-#EXTINF:-1 group-title="Познанательные",Food time
+#EXTINF:-1 group-title="Познавательные",Food time
 http://46.17.46.31:2021/channel/n723486ec/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
-https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+http://46.17.46.31:2021/channel/17b213b0/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+#EXTINF:-1 group-title="Познавательные",Viju Explore HD
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
+#EXTINF:-1 group-title="Познавательные",Viju Nature HD
+http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
+#EXTINF:-1 group-title="Познавательные",Viju History HD
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
 http://176.113.48.221:8986/98
-#EXTINF:-1 group-title="Позновательные",Телепутешествия
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
 http://46.17.46.31:2021/channel/1543b25c/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://46.17.46.31:2021/channel/21ddc775/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
 http://46.17.46.31:2021/channel/5ddf1954/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
-#EXTINF:-1 group-title="Позновательные",Оружие
+#EXTINF:-1 group-title="Познавательные",Оружие
 http://46.17.46.31:2021/channel/n22587c53/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
@@ -269,6 +281,8 @@ http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJ
 http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
 #EXTINF:-1 group-title="Познавательные",Т24
 http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMwNzk5NDgsImlhdCI6MTcxMjk5MzU0OCwiY2lkIjo2LCJ1aWQiOjc2MTk2MDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.IhTo2BR4f4rk_ZM56AGc0qOFk10H1VjDWk_ikR1bxg8&offset=10
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://46.17.46.31:2021/channel/23a20d1e/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Музыка",RU TV
