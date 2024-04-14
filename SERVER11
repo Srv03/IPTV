@@ -94,7 +94,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.YjuSrj-exsq513nNGODWugEiavFGryATcrHNbQDpFpw.adITIYVRYngfLizRzj720z5tJRWEsIMI8P0qAYoI-UQ.1713683958.d417d0d76e3197e9f0dda067a5dbd889
+http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.YjuSrj-exsq513nNGODWugEiavFGryATcrHNbQDpFpw.adITIYVRYngfLizRzj720z5tJRWEsIMI8P0qAYoI-UQ.1713683958.d417d0d76e3197e9f0dda067a5dbd889
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -194,7 +194,11 @@ http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 group-title="Фильмовые",Русский Иллюзион
 http://iptv.iptvin.fun:2134/channel/nff29fa0/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:-1 group-title="Фильмовые",Русская комедия
-http://srv-5-streaming.iptvin.fun:34768/komedia/video.m3u8?token=1d00b9779111ca941071bda28743bcbc806bd81b-1877811966-1713115388-1713072188
+http://srv-5-streaming.iptvin.fun:34768/komedia/video.m3u8?token=36643c17c88c91e9035a1ff9d44604d3244a40a1-1877811966-1713145175-1713101975
+#EXTINF:-1 group-title="Фильмовые",FAN HD
+http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
+#EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 group-title="Фильмовые",Иллюзион+
 http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
@@ -206,11 +210,11 @@ http://46.17.46.31:2021/channel/n2299fdc6/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af7
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=dfcfbba8afeff92a886fa78517d2a5408c32a003-1877811966-1713122567-1713079367
+http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=b02681658e208f4accd39c4b6af98ae0b09b6404-1877811966-1713145175-1713101975
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
-http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=1c1fedeb56e453f69da8622e70f82066ec4cd217-1877811966-1713122567-1713079367
+http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=c1d0dcb28460dfe3647cc8f7ea85dad3129f7db1-1877811966-1713145175-1713101975
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=0bd1a86f8380804d9ac200a8173a723dc8d0aab2-1877811966-1713122567-1713079367
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=bede87649f3d8b97bc6b72edd9340bb95146fc16-1877811966-1713145175-1713101975
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Познавательные",НТВ Право
@@ -246,7 +250,7 @@ http://iptv.iptvin.fun:2134/channel/5e8d1c4f/index.m3u8?q=39a58296a7abd1f4de5d70
 #EXTINF:-1 group-title="Познавательные",Еда
 http://46.17.46.31:2021/channel/n26d9ff0a/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
 #EXTINF:-1 group-title="Познавательные",Food time HD
-http://46.17.46.31:2021/channel/n723486ec/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTMxNjU1NTMsImlhdCI6MTcxMzA3OTE1MywiY2lkIjo2LCJ1aWQiOjc2MjQzNDI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.Gln-0Lykg8DdAlkEbVUKduu0amHhOwXa5Xo4jmlUlWY&offset=10
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
