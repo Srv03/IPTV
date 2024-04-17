@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,,https://bcumedia.pro/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://bcumedia.pro/epg.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://player.smotrim.ru/iframe/stream/live_id/2961?43e=5.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия-1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия-1 +4
@@ -26,11 +26,11 @@ http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",НТВ +2
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +4
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -64,23 +64,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://92.53.64.197:5050/tv3_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +2
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +4
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h4/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +7
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h7/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница HD
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",Пятница +2
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Пятница +4
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Пятница +7
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир HD
@@ -96,11 +96,11 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
 http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +7
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.LfbHKQ87mdvBs5E0YgvdV7Qvukc5cgl4u_bH99oB3II.cVhdagHW4AjjLYXGuUsoX-VmDYitWOiVbTvJvnpSUwg.1713942157.41ecce093a8d776902cb57ac158070a3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
@@ -108,61 +108,61 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
-http://158.101.194.132:8888/channel/n7feb114d/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n7feb114d/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Russian HD
-http://158.101.194.132:8888/channel/n432181b8/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n432181b8/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 1 HD
-http://158.101.194.132:8888/channel/n3ebb86d/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n3ebb86d/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 2 HD
-http://158.101.194.132:8888/channel/n3eb440e/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n3eb440e/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 3 HD
-http://158.101.194.132:8888/channel/n3eacfaf/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n3eacfaf/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Action HD
-http://158.101.194.132:8888/channel/3e645a7/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/3e645a7/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Catastrophe HD
-http://158.101.194.132:8888/channel/n7848ede9/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n7848ede9/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema HD
-http://158.101.194.132:8888/channel/575b530c/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/575b530c/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema+ HD
-http://158.101.194.132:8888/channel/n6bec86df/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n6bec86df/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Comedy HD
-http://158.101.194.132:8888/channel/n6eb7c59c/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n6eb7c59c/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Cosmo HD
-http://158.101.194.132:8888/channel/30698872/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/30698872/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Criminal HD
-http://158.101.194.132:8888/channel/2454e01a/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/2454e01a/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Fantastic HD
-http://158.101.194.132:8888/channel/574fe120/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/574fe120/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU FilMystic HD
-http://158.101.194.132:8888/channel/3c91e0ab/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/3c91e0ab/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU History HD
-http://158.101.194.132:8888/channel/7ee2bda7/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/7ee2bda7/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Kinorating HD
-http://158.101.194.132:8888/channel/3eca43a1/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/3eca43a1/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Media HD
-http://158.101.194.132:8888/channel/3f2b9417/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/3f2b9417/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Marvel HD
-http://158.101.194.132:8888/channel/n2cd22a42/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n2cd22a42/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
-http://158.101.194.132:8888/channel/607e37f3/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/607e37f3/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU RuSerial HD
-http://158.101.194.132:8888/channel/36b4de26/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/36b4de26/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Reality HD
-http://158.101.194.132:8888/channel/n46787995/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n46787995/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Romantic HD
-http://158.101.194.132:8888/channel/n797477b4/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n797477b4/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Stars HD
-http://158.101.194.132:8888/channel/n67737586/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n67737586/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Survival HD
-http://158.101.194.132:8888/channel/3a759f5f/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/3a759f5f/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU TruMotion HD
-http://158.101.194.132:8888/channel/n71691872/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n71691872/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU Ultra 4K
-http://158.101.194.132:8888/channel/n1e7f1316/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/n1e7f1316/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU VHS HD
-http://158.101.194.132:8888/channel/36c5b29a/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/36c5b29a/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Кинозалы",BCU СССР HD
-http://158.101.194.132:8888/channel/f772f5e/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://158.101.194.132:8888/channel/f772f5e/index.m3u8?q=20d22265bc17348a761f2ff3f06652cd
 #EXTINF:-1 group-title="Фильмовые",.black
 http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -171,7 +171,7 @@ http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
-#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла HD
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское 
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
@@ -190,9 +190,9 @@ http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 #EXTINF:-1 group-title="Фильмовые",Русский детектив
 http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
-http://srv-6-streaming.iptvin.fun:8080/rusiluzhd/video.m3u8?token=c9b28ccc423827d6dfe49241aa685db8b750b5a8-1877811966-1713388693-1713345493
+http://ru02.spr24.net/294/mpegts?token=45UYwCTbAVBazU
 #EXTINF:-1 group-title="Фильмовые",Русская комедия
-http://srv-5-streaming.iptvin.fun:34768/komedia/video.m3u8?token=252899216dc8b0c72b76e7af71af3cddf266e707-1877811966-1713388693-1713345493
+http://srv-5-streaming.iptvin.fun:34768/komedia/video.m3u8?token=0d572c57dea88270e354d67b77f8dcbac014e770-1877811966-1713414539-1713371339
 #EXTINF:-1 group-title="Фильмовые",FAN HD
 http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
@@ -208,11 +208,11 @@ http://46.17.46.31:2021/channel/n2299fdc6/index.m3u8?q=ab97a53c9e9996b0a558e8a6c
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=4d42d5cb004fea30ea00e10965fb67d8b63a3f65-1877811966-1713388693-1713345493
+http://ru02.spr24.net/108/mpegts?token=45UYwCTbAVBazU
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
-http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=ab90d29f4d6dd30629ef188ac3f3d6aa1b6c0ba9-1877811966-1713388693-1713345493
+http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=5bd0c92c8bc1e53bf4c49fb31e035bb952f5184e-1877811966-1713414539-1713371339
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=ff1d9cb02e8637821cfd32be85a0fdedcbf77ee4-1877811966-1713388693-1713345493
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=0e9fce9fe8b233761ee9a013428287d6b2ea2b3f-1877811966-1713414539-1713371339
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Познавательные",НТВ Право
@@ -234,7 +234,7 @@ http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 group-title="Фильмовые",Киносвидание
 http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",Мужское Кино 
-http://srv-4-streaming.iptvin.fun:8080/muzhskoe-kino_hd/index.m3u8?token=43f9b1c288fe9e2076e4afd4d3ef31b6d1320fcf-1877811966-1713388693-1713345493
+http://srv-4-streaming.iptvin.fun:8080/muzhskoe-kino_hd/index.m3u8?token=d5bbd6b7fb203d3c65918f6cc99cb832e43b4605-1877811966-1713414539-1713371339
 #EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM0MjM3NTYsImlhdCI6MTcxMzMzNzM1NiwiY2lkIjo2LCJ1aWQiOjc2Mzk1OTc4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.1jBDop9qvtL7DeKMMl0GCDOFkRl_EvjTImh4zrphrlA&offset=10
 #EXTINF:-1 group-title="Фильмовые",Родное кино
