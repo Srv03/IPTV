@@ -78,7 +78,7 @@ http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",Пятница +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Пятница +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Пятница +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир
