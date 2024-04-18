@@ -208,7 +208,7 @@ http://46.17.46.31:2021/channel/n2299fdc6/index.m3u8?q=ab97a53c9e9996b0a558e8a6c
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://ru02.spr24.net/108/mpegts?token=45UYwCTbAVBazU
+http://tinyurl.com/%64%65ool%65%678/6799/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
 http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=4215e36f40090d26c2eeaba9b694d96a0b19d305-1877811966-1713476962-1713433762
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
@@ -228,17 +228,17 @@ http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTINF:-1 group-title="Фильмовые",Кинохит
 http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
 #EXTINF:-1 group-title="Фильмовые",Киноужас 
-http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
+http://3.troya.one:34000/ch652/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iPHfAQHk79Cq7M8uO6KhGqmOYui75Qcx1g3rfVWR-FXxw.dubldot
 #EXTINF:-1 group-title="Фильмовые",Киносерия
-http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
+http://3.troya.one:34000/ch668/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iOs4kgH8L8XGRmIcpdWzGLrILmdUvIfGxEEjlg8DlPLaw.dubldot
 #EXTINF:-1 group-title="Фильмовые",Киносвидание
 http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
 #EXTINF:-1 group-title="Фильмовые",Мужское Кино 
-http://srv-4-streaming.iptvin.fun:8080/muzhskoe-kino_hd/index.m3u8?token=5596f7e1fa82ed39f3d379c29dd9c13e3b7212a6-1877811966-1713476962-1713433762
+http://3.troya.one:34000/ch112/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iMw0S-5pAeE0WJ1rMcRbKdflw6CHpIkhuwKuNftfCyqYA.dubldot
 #EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
 #EXTINF:-1 group-title="Фильмовые",Родное кино
-http://45.15.43.12:80/rodnoekino/video.m3u8?token=test
+http://3.troya.one:34000/ch116/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iOT9Re-M8uVIyZGwxprhSz47DVDnbwiBMVAYQQfwWfxAA.dubldot
 #EXTINF:-1 group-title="Фильмовые",Индийское Кино
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1MDk4NzMsImlhdCI6MTcxMzQyMzQ3MywiY2lkIjo2LCJ1aWQiOjc2NDUwODg3NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTQ3MTgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.6v5-Nw7YVghHasOkrrBkffpceouNRXuFXeu7qVspv50&offset=10
 #EXTINF:-1 group-title="Фильмовые",Еврокино
