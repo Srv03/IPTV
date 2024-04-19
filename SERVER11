@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://ottepg.ru/ottepg.xml.gz"
+#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz,http://epg.one/epg2.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
@@ -15,13 +15,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия-1 +2
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия-1 +4
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
 http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия-1 +6
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +6
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия-1 +8
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
@@ -54,7 +54,7 @@ http://api.peers.tv/timeshift/mir24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
-http://46.17.46.31:2021/channel/69ffaf0e/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
+http://3.troya.one:34000/ch021/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iPShV4AgJDApeX2rsY6zM5IOy-27UuHqMncljIXSqpEeA.dubldot
 #EXTINF:-1 group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС +4
@@ -262,7 +262,7 @@ http://tinyurl.com/%64%65ool%65%678/5240/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Познавательные",Бобёр
 http://tinyurl.com/%64%65ool%65%678/5063/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",Еда
-http://46.17.46.31:2021/channel/n26d9ff0a/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
+http://3.troya.one:34000/ch538/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iM4QDtt1vShbDIZfbHwwlbHu5jP_P_-1FvuNYaS22W3HQ.dubldot
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM1OTcxNzEsImlhdCI6MTcxMzUxMDc3MSwiY2lkIjo2LCJ1aWQiOjc2NTEwOTI2NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.iZyyUu6OTc7jRxzLuSNzaVyqqBcuKTfkBYOV0yZrgt0&offset=10
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
