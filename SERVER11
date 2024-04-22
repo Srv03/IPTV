@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
-https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
+http://176.113.48.221:8986/90
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -261,6 +261,30 @@ http://tinyurl.com/%64%65ool%65%67ip2/1265.m3u8
 http://tinyurl.com/%64%65ool%65%67ip2/1261.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Универ
 http://tinyurl.com/%64%65ool%65%67ip2/1582.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 1
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18126/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 2
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18127/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 3
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18128/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 4
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18129/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 5
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18130/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 6
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18131/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 7
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18132/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 8
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18133/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 9
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18134/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 10
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18135/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 11
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18136/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал 12
+http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18137/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.black
 http://3.troya.one:34000/ch465/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iPuaVhGy0kXB5gACE0VuWqdcbCZY0vJCHFAxUtrSw1l8g.dubldot
 #EXTINF:-1 group-title="Фильмовые",.red
