@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://193.201.98.10:5000/c99
+http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -44,13 +44,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Новости",РБК 
-http://api.peers.tv/timeshift/rbk/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 group-title="Новости",Москва 24
-http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
 #EXTINF:-1 group-title="Новости",Известия
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Новости",Мир 24
-http://api.peers.tv/timeshift/mir24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Новости",Соловьев Live HD
+http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
@@ -104,7 +106,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/1337/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -191,7 +193,7 @@ http://tinyurl.com/%64%65ool%65%678/7994/vi%64%65o.m3u8?token=2d34acb49a75270beb
 http://tinyurl.com/%64%65ool%65%678/1740/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Media HD
 http://tinyurl.com/%64%65ool%65%678/1231/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere HD
+#EXTINF:-1 group-title="Кинозалы",BCU Premiere HD
 http://tinyurl.com/%64%65ool%65%678/3078/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 1 HD
 http://tinyurl.com/%64%65ool%65%678/7167/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
@@ -199,7 +201,7 @@ http://tinyurl.com/%64%65ool%65%678/7167/vi%64%65o.m3u8?token=2d34acb49a75270beb
 http://tinyurl.com/%64%65ool%65%678/2938/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 3 HD
 http://tinyurl.com/%64%65ool%65%678/7597/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere Ultra 4K
+#EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
 http://tinyurl.com/%64%65ool%65%678/3408/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Reality HD
 http://tinyurl.com/%64%65ool%65%678/2310/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
@@ -292,7 +294,7 @@ http://3.troya.one:34000/ch070/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://3.troya.one:34000/ch464/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iMvbhuG6pa1KGCx4nODy5wBBtb_9H2BDzoiR07rdn8W4Q.dubldot
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/1411/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
@@ -300,27 +302,27 @@ http://tinyurl.com/%64%65ool%65%678/1502/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
 http://tinyurl.com/%64%65ool%65%678/9080/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/9807/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/7787/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Premiere HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/8785/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/1514/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
-http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/7525/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Русский детектив
-http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/6590/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
 http://tinyurl.com/%64%65ool%65%678/9282/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Русская комедия
 http://tinyurl.com/%64%65ool%65%678/4167/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",FAN HD
-http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://3.troya.one:34000/ch501/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iM2A8Fs2EMe6kWLXTzQtWgUUUzS5SoZcLvNpPswjf0h_Q.dubldot
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
-#EXTINF:-1 group-title="Фильмовые",Иллюзион+
-http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTM5NDMwNzQsImlhdCI6MTcxMzg1NjY3NCwiY2lkIjo2LCJ1aWQiOjc2NzA3NTQ3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.krj1hwyi1smQUHSrpZsby8BhTaWzPPLNRWRD1y2cUcE&offset=1
+http://tinyurl.com/%64%65ool%65%678/4178/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+#EXTINF:-1 group-title="Фильмовые",Иллюзион+ HD
+http://tinyurl.com/%64%65ool%65%678/9804/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
 http://tinyurl.com/%64%65ool%65%678/3574/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
