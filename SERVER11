@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://176.113.48.221:8986/90
+http://188.113.190.15:80/172/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -28,9 +28,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
 http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",НТВ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -51,8 +51,6 @@ http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
 http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Новости",Мир 24
 http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Новости",Соловьев Live HD
-http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
@@ -229,64 +227,66 @@ http://tinyurl.com/%64%65ool%65%678/8590/vi%64%65o.m3u8?token=2d34acb49a75270beb
 http://tinyurl.com/%64%65ool%65%678/9118/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
 http://tinyurl.com/%64%65ool%65%678/2307/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы",CineMan
+#EXTINF:-1 group-title="Кино и сериалы",CineMan
 http://tinyurl.com/%64%65ool%65%67ip2/1255.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Action
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Action
 http://tinyurl.com/%64%65ool%65%67ip2/1257.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Marvel
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Marvel
 http://tinyurl.com/%64%65ool%65%67ip2/1260.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Melodrama
 http://tinyurl.com/%64%65ool%65%67ip2/1259.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Premium
-http://tinyurl.com/%64%65ool%65%67ip2/1426.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan VHS
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Thriller
+http://tinyurl.com/%64%65ool%65%67ip2/1258.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Top
+http://tinyurl.com/%64%65ool%65%67ip2/1256.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",CineMan VHS
 http://tinyurl.com/%64%65ool%65%67ip2/1263.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Глухарь + Карпов
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Глухарь + Карпов
 http://tinyurl.com/%64%65ool%65%67ip2/1580.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Интерны
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Интерны
 http://tinyurl.com/%64%65ool%65%67ip2/1581.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Катастрофы
 http://tinyurl.com/%64%65ool%65%67ip2/1271.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Комедия
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Комедия
 http://tinyurl.com/%64%65ool%65%67ip2/1262.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Лесник
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Лесник
 http://tinyurl.com/%64%65ool%65%67ip2/1297.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Ментовские войны
 http://tinyurl.com/%64%65ool%65%67ip2/1295.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Пёс
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Пес + Лихач
 http://tinyurl.com/%64%65ool%65%67ip2/1296.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan РуКино
+#EXTINF:-1 group-title="Кино и сериалы",CineMan РуКино
 http://tinyurl.com/%64%65ool%65%67ip2/1264.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Сваты
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Сваты
 http://tinyurl.com/%64%65ool%65%67ip2/1265.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Ужасы
 http://tinyurl.com/%64%65ool%65%67ip2/1261.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Универ
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Универ
 http://tinyurl.com/%64%65ool%65%67ip2/1582.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 1
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18126/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18126/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 2
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18127/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18127/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 3
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18128/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18128/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 4
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18129/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18129/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 5
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18130/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18130/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 6
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18131/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18131/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 7
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18132/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18132/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 8
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18133/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18133/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 9
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18134/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18134/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 10
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18135/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18135/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 11
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18136/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18136/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 12
-http://43zvd7dq.megatv.fun/iptv/7XBZV8CQEYWT3U/18137/index.m3u8
+http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18137/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.black
 http://3.troya.one:34000/ch465/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iPuaVhGy0kXB5gACE0VuWqdcbCZY0vJCHFAxUtrSw1l8g.dubldot
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -296,7 +296,7 @@ http://3.troya.one:34000/ch464/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://tinyurl.com/%64%65ool%65%678/1411/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
-http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+http://158.101.214.187:8080/channel/n51877d66/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
 http://tinyurl.com/%64%65ool%65%678/1502/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
