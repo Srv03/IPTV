@@ -113,11 +113,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +2
+#EXTINF:-1 group-title="Каналы (+)",Муз-ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +4
+#EXTINF:-1 group-title="Каналы (+)",Муз-ТВ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +7
+#EXTINF:-1 group-title="Каналы (+)",Муз-ТВ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -253,7 +253,7 @@ http://tinyurl.com/%64%65ool%65%67ip2/1262.m3u8
 http://tinyurl.com/%64%65ool%65%67ip2/1297.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
 http://tinyurl.com/%64%65ool%65%67ip2/1295.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Пес 
+#EXTINF:-1 group-title="Кинозалы",CineMan Пёс 
 http://tinyurl.com/%64%65ool%65%67ip2/1296.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
 http://tinyurl.com/%64%65ool%65%67ip2/1264.m3u8
@@ -288,11 +288,11 @@ http://43zvd7dq.megatv.fun/iptv/BQUC5BFQVP4A3A/18136/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозал 12
 http://46.8.29.51:2020/channel/68dc1e0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Фильмовые",.black
-http://3.troya.one:34000/ch465/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iPuaVhGy0kXB5gACE0VuWqdcbCZY0vJCHFAxUtrSw1l8g.dubldot
+http://tinyurl.com/%64%65ool%65%67ip2/506.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
-http://3.troya.one:34000/ch070/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iNxpuj5WA-QCLw195L0lp47uggbp6j5qps9dZ6CCewo5g.dubldot
+http://3.troya.one:34000/ch070/mono.m3u8?token=1978ando.kqNI0ZTZU547RDcp73a9OOUmjraS26OSNBSPBqfw42MdKkVfKlyps0qhllMnlGTC
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
-http://3.troya.one:34000/ch464/mono.m3u8?token=rl_eduard-estonskiy.FAP2jAkghooW4ytCnynSU8wNarvWQal85h8MLV9z5iMvbhuG6pa1KGCx4nODy5wBBtb_9H2BDzoiR07rdn8W4Q.dubldot
+http://3.troya.one:34000/ch464/mono.m3u8?token=1978ando.kqNI0ZTZU547RDcp73a9OM3RKXCGfy7OgAuR3oNd5xkJiS-NZuO2HD63QDV-AVIT
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://tinyurl.com/%64%65ool%65%678/1411/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
