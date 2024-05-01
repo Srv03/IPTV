@@ -3,43 +3,43 @@
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
 http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +2
+#EXTINF:-1 group-title="Каналы (+)",Первый канал (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +4
+#EXTINF:-1 group-title="Каналы (+)",Первый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +6
+#EXTINF:-1 group-title="Каналы (+)",Первый канал (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +8
+#EXTINF:-1 group-title="Каналы (+)",Первый канал (+8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
 http://188.113.190.15:80/172/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 (+2)
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 (+4)
 http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +6
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 (+6)
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 (+8)
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
 http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)",НТВ +2
+#EXTINF:-1 group-title="Каналы (+)",НТВ (+2)
 https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)",НТВ +4
+#EXTINF:-1 group-title="Каналы (+)",НТВ (+4)
 https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)",НТВ +7
+#EXTINF:-1 group-title="Каналы (+)",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятый Канал +2
+#EXTINF:-1 group-title="Каналы (+)",Пятый Канал (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятый канал +4
+#EXTINF:-1 group-title="Каналы (+)",Пятый канал (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятый канал +7
+#EXTINF:-1 group-title="Каналы (+)",Пятый канал (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -53,8 +53,6 @@ http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Новости",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Новости",RT Документальный 
-http://tv.streams.baikal-telecom.net/RTD_HD/index.m3u8
 #EXTINF:-1 group-title="Новости",Дума ТВ
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ
@@ -63,95 +61,95 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
 http://tinyurl.com/%64%65ool%65%678/8082/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
+#EXTINF:-1 group-title="Каналы (+)",Рен ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
+#EXTINF:-1 group-title="Каналы (+)",Рен ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +7
+#EXTINF:-1 group-title="Каналы (+)",Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
 http://tinyurl.com/%64%65ool%65%678/2990/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)",СТС +2
+#EXTINF:-1 group-title="Каналы (+)",СТС (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС +4
+#EXTINF:-1 group-title="Каналы (+)",СТС (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС +7
+#EXTINF:-1 group-title="Каналы (+)",СТС (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний HD
 http://tinyurl.com/%64%65ool%65%678/4131/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)",Домашний +2
+#EXTINF:-1 group-title="Каналы (+)",Домашний (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Домашний +4
+#EXTINF:-1 group-title="Каналы (+)",Домашний (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Домашний +7
+#EXTINF:-1 group-title="Каналы (+)",Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)",ТВ3 +2
+#EXTINF:-1 group-title="Каналы (+)",ТВ3 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ3 +4
+#EXTINF:-1 group-title="Каналы (+)",ТВ3 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ3 +7
+#EXTINF:-1 group-title="Каналы (+)",ТВ3 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница HD
 http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)",Пятница +2
+#EXTINF:-1 group-title="Каналы (+)",Пятница (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятница +4
+#EXTINF:-1 group-title="Каналы (+)",Пятница (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятница +7
+#EXTINF:-1 group-title="Каналы (+)",Пятница (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Мир +2
+#EXTINF:-1 group-title="Каналы (+)",Мир (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Мир +4
+#EXTINF:-1 group-title="Каналы (+)",Мир (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8			
-#EXTINF:-1 group-title="Каналы (+)",Мир +7
+#EXTINF:-1 group-title="Каналы (+)",Мир (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
 http://tinyurl.com/%64%65ool%65%678/1337/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)",ТНТ +2
+#EXTINF:-1 group-title="Каналы (+)",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ +4
+#EXTINF:-1 group-title="Каналы (+)",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ +7
+#EXTINF:-1 group-title="Каналы (+)",ТНТ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +4
+#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +7
+#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
 http://tinyurl.com/%64%65ool%65%678/2304/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
+#EXTINF:-1 group-title="Каналы (+)",ТНТ4 (+2)
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
+#EXTINF:-1 group-title="Каналы (+)",ТНТ4 (+4)
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +7
+#EXTINF:-1 group-title="Каналы (+)",ТНТ4 (+7)
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Детские",Солнце
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце +2
+#EXTINF:-1 group-title="Каналы (+)",Солнце (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце +4
+#EXTINF:-1 group-title="Каналы (+)",Солнце (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
@@ -159,25 +157,25 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
 http://tinyurl.com/%64%65ool%65%678/3894/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)",Суббота +2
+#EXTINF:-1 group-title="Каналы (+)",Суббота (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Суббота +4
+#EXTINF:-1 group-title="Каналы (+)",Суббота (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Суббота +7
+#EXTINF:-1 group-title="Каналы (+)",Суббота (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС Love +2
+#EXTINF:-1 group-title="Каналы (+)",СТС Love (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС Love +4
+#EXTINF:-1 group-title="Каналы (+)",СТС Love (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Че +2
+#EXTINF:-1 group-title="Каналы (+)",Че (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Че +4
+#EXTINF:-1 group-title="Каналы (+)",Че (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Че +7
+#EXTINF:-1 group-title="Каналы (+)",Че (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Кинозалы",BCU Action HD
 http://tinyurl.com/%64%65ool%65%678/7255/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
@@ -375,7 +373,7 @@ http://tinyurl.com/%64%65ool%65%678/5240/vi%64%65o.m3u8?token=2d34acb49a75270beb
 http://tinyurl.com/%64%65ool%65%678/5063/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",Еда
 http://tinyurl.com/%64%65ool%65%678/2048/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные",Food Time 
+#EXTINF:-1 group-title="Познавательные",FoodTime
 http://tinyurl.com/%64%65ool%65%678/9940/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://tinyurl.com/%64%65ool%65%678/9708/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
@@ -430,7 +428,7 @@ http://tinyurl.com/%64%65ool%65%678/7952/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Детские",КиноМульт
 http://46.17.46.31:2021/channel/6786b5b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Детские",О!
-http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=f6e936c9450d0f71fe22e622d9151bd5
+http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://tinyurl.com/%64%65ool%65%678/2229/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Детские",Рыжий
