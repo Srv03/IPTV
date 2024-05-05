@@ -1,131 +1,133 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/9195.png",Первый канал
+#EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/2214.png",Первый канал HD
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
 http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/9429.png",Первый канал +2
+#EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/9664.png",Первый канал +4
+#EXTINF:-1 group-title="Каналы (+)",Первый канал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/8664.png",Первый канал +6
+#EXTINF:-1 group-title="Каналы (+)",Первый канал +6
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/7295.png",Первый канал +8
+#EXTINF:-1 group-title="Каналы (+)",Первый канал +8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/9226.png",Россия 1
+#EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/5963.png",Россия 1 HD
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
 http://188.113.190.15:80/172/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/4936.png",Россия 1 +2
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/5445.png",Россия 1 +4
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
 http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/5764.png",Россия 1 +6
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +6
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/1503.png",Россия 1 +8
+#EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/9413.png",НТВ
+#EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/8711.png",НТВ HD 
+#EXTINF:-1 group-title="Федеральные",НТВ HD 
 http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/8004.png",НТВ +2
+#EXTINF:-1 group-title="Каналы (+)",НТВ +2
 https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/7454.png",НТВ +4
+#EXTINF:-1 group-title="Каналы (+)",НТВ +4
 https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/5040.png",НТВ +6
+#EXTINF:-1 group-title="Каналы (+)",НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/4239.png",НТВ +8
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/4750.png",Пятый канал
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/4447.png",Пятый Канал +2
+#EXTINF:-1 group-title="Каналы (+)",Пятый Канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/8598.png",Пятый канал +4
+#EXTINF:-1 group-title="Каналы (+)",Пятый канал +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/5413.png",Пятый канал +6
+#EXTINF:-1 group-title="Каналы (+)",Пятый канал +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Новости",РБК 
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://pl.ottglanz.tv/icon/7554.png",Москва 24
+#EXTINF:-1 group-title="Новости",Москва 24
 http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://pl.ottglanz.tv/icon/4933.png",Известия
+#EXTINF:-1 group-title="Новости",Известия
 http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Новости" tvg-logo="http://pl.ottglanz.tv/icon/3082.png",360 Новости
+#EXTINF:-1 group-title="Новости",Мир 24
+http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Новости",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://pl.ottglanz.tv/icon/2211.png",ЛДПР ТВ
+#EXTINF:-1 group-title="Новости",Дума ТВ
+https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/6401.png",Рен ТВ
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/8082.png",Рен ТВ HD
+#EXTINF:-1 group-title="Федеральные",Рен ТВ HD
 http://tinyurl.com/%64%65ool%65%678/8082/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/7175.png",Рен ТВ +2
+#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/9716.png",СТС
+#EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/2990.png",СТС HD
+#EXTINF:-1 group-title="Федеральные",СТС HD
 http://tinyurl.com/%64%65ool%65%678/2990/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/6885.png",СТС +2
+#EXTINF:-1 group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/8715.png",СТС +4
+#EXTINF:-1 group-title="Каналы (+)",СТС +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/9505.png",Домашний
+#EXTINF:-1 group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/4131.png",Домашний HD
+#EXTINF:-1 group-title="Федеральные",Домашний HD
 http://tinyurl.com/%64%65ool%65%678/4131/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/6944.png",Домашний +2
+#EXTINF:-1 group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/7473.png",ТВ3
+#EXTINF:-1 group-title="Федеральные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/1500.png",ТВ3 +2
+#EXTINF:-1 group-title="Каналы (+)",ТВ3 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/4946.png",ТВ3 +4
+#EXTINF:-1 group-title="Каналы (+)",ТВ3 +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/3755.png",Пятница
+#EXTINF:-1 group-title="Федеральные",Пятница
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/9657.png",Пятница HD
+#EXTINF:-1 group-title="Федеральные",Пятница HD
 http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/9345.png",Пятница +2
+#EXTINF:-1 group-title="Каналы (+)",Пятница +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Пятница +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Пятница +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/2810.png",Мир
+#EXTINF:-1 group-title="Федеральные",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" ,Мир HD
+#EXTINF:-1 group-title="Федеральные",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/9635.png",Мир +2
+#EXTINF:-1 group-title="Каналы (+)",Мир +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Мир +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8			
 #EXTINF:-1 group-title="Каналы (+)",Мир +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/2468.png",ТНТ
+#EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/1337.png",ТНТ HD
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
 http://tinyurl.com/%64%65ool%65%678/1337/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/7754.png",ТНТ +2
+#EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/8594.png",ТНТ +4
+#EXTINF:-1 group-title="Каналы (+)",ТНТ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://pl.ottglanz.tv/icon/1806.png",Муз ТВ
+#EXTINF:-1 group-title="Музыка",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
@@ -133,257 +135,333 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/4848.png",ТНТ4
+#EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/2304.png",ТНТ4 HD
+#EXTINF:-1 group-title="Федеральные",ТНТ4 HD
 http://tinyurl.com/%64%65ool%65%678/2304/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/5288.png",ТНТ4 +2
+#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/5156.png",ТНТ4 +4
+#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +7
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/7528.png",Солнце
+#EXTINF:-1 group-title="Детские",Солнце
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/3573.png",Суббота
+#EXTINF:-1 group-title="Каналы (+)",Солнце +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Солнце +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Солнце (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/3894.png",Суббота HD
+#EXTINF:-1 group-title="Федеральные",Суббота HD
 http://tinyurl.com/%64%65ool%65%678/3894/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/6621.png",СТС Love
+#EXTINF:-1 group-title="Каналы (+)",Суббота +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Суббота +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Суббота +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://pl.ottglanz.tv/icon/8708.png",Че
+#EXTINF:-1 group-title="Каналы (+)",СТС Love +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",СТС Love +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Че +2
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)" tvg-logo="http://pl.ottglanz.tv/icon/2519.png",Че +4
+#EXTINF:-1 group-title="Каналы (+)",Че +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Че +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/7255.png",BCU Action HD
+#EXTINF:-1 group-title="Кинозалы",BCU Action HD
 http://tinyurl.com/%64%65ool%65%678/7255/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/5577.png",BCU Catastrophe HD
+#EXTINF:-1 group-title="Кинозалы",BCU Catastrophe HD
 http://tinyurl.com/%64%65ool%65%678/5577/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/1665.png",BCU Charm HD
+#EXTINF:-1 group-title="Кинозалы",BCU Charm HD
 http://tinyurl.com/%64%65ool%65%678/1665/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/1086.png",BCU Cinema HD
+#EXTINF:-1 group-title="Кинозалы",BCU Cinema HD
 http://tinyurl.com/%64%65ool%65%678/1086/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/6536.png",BCU Cinema+ HD
+#EXTINF:-1 group-title="Кинозалы",BCU Cinema+ HD
 http://tinyurl.com/%64%65ool%65%678/6536/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2718.png",BCU Comedy HD
+#EXTINF:-1 group-title="Кинозалы",BCU Comedy HD
 http://tinyurl.com/%64%65ool%65%678/2718/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/3559.png",BCU Cosmo HD
+#EXTINF:-1 group-title="Кинозалы",BCU Cosmo HD
 http://tinyurl.com/%64%65ool%65%678/3559/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/3871.png",BCU Criminal HD
+#EXTINF:-1 group-title="Кинозалы",BCU Criminal HD
 http://tinyurl.com/%64%65ool%65%678/3871/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/7834.png",BCU Fantastic HD
+#EXTINF:-1 group-title="Кинозалы",BCU Fantastic HD
 http://tinyurl.com/%64%65ool%65%678/7834/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/6071.png",BCU FilMystic HD
+#EXTINF:-1 group-title="Кинозалы",BCU FilMystic HD
 http://tinyurl.com/%64%65ool%65%678/6071/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/8129.png",BCU History HD
+#EXTINF:-1 group-title="Кинозалы",BCU History HD
 http://tinyurl.com/%64%65ool%65%678/8129/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/6996.png",BCU Kids 4K
+#EXTINF:-1 group-title="Кинозалы",BCU Kids 4K
 http://tinyurl.com/%64%65ool%65%678/6996/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/8585.png",BCU Kids HD
+#EXTINF:-1 group-title="Кинозалы",BCU Kids HD
 http://tinyurl.com/%64%65ool%65%678/8585/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/6398.png",BCU Kids+ HD
+#EXTINF:-1 group-title="Кинозалы",BCU Kids+ HD
 http://tinyurl.com/%64%65ool%65%678/6398/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2071.png",BCU Kinorating HD
+#EXTINF:-1 group-title="Кинозалы",BCU Kinorating HD
 http://tinyurl.com/%64%65ool%65%678/2071/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/7994.png",BCU Little HD
+#EXTINF:-1 group-title="Кинозалы",BCU Little HD
 http://tinyurl.com/%64%65ool%65%678/7994/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/1740.png",BCU Marvel HD
+#EXTINF:-1 group-title="Кинозалы",BCU Marvel HD
 http://tinyurl.com/%64%65ool%65%678/1740/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/3078.png",BCU Premiere HD
+#EXTINF:-1 group-title="Кинозалы",BCU Premiere HD
 http://tinyurl.com/%64%65ool%65%678/3078/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/7167.png",BCU Кинозал Premiere 1 HD
+#EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 1 HD
 http://tinyurl.com/%64%65ool%65%678/7167/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2938.png",BCU Кинозал Premiere 2 HD
+#EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 2 HD
 http://tinyurl.com/%64%65ool%65%678/2938/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/7597.png",BCU Кинозал Premiere 3 HD
+#EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 3 HD
 http://tinyurl.com/%64%65ool%65%678/7597/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/3408.png",BCU Premiere Ultra 4K
+#EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
 http://tinyurl.com/%64%65ool%65%678/3408/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2310.png",BCU Reality HD
+#EXTINF:-1 group-title="Кинозалы",BCU Reality HD
 http://tinyurl.com/%64%65ool%65%678/2310/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/8010.png",BCU Romantic HD
+#EXTINF:-1 group-title="Кинозалы",BCU Romantic HD
 http://tinyurl.com/%64%65ool%65%678/8010/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2420.png",BCU Ruserial HD
+#EXTINF:-1 group-title="Кинозалы",BCU Ruserial HD
 http://tinyurl.com/%64%65ool%65%678/2420/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2563.png",BCU Russia 90s HD
+#EXTINF:-1 group-title="Кинозалы",BCU Russia 90s HD
 http://tinyurl.com/%64%65ool%65%678/2563/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/4165.png",BCU Russian HD
+#EXTINF:-1 group-title="Кинозалы",BCU Russian HD
 http://tinyurl.com/%64%65ool%65%678/4165/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/9944.png",BCU Stars HD
+#EXTINF:-1 group-title="Кинозалы",BCU Stars HD
 http://tinyurl.com/%64%65ool%65%678/9944/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/6035.png",BCU Survival HD
+#EXTINF:-1 group-title="Кинозалы",BCU Survival HD
 http://tinyurl.com/%64%65ool%65%678/6035/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/8885.png",BCU TruMotion HD
+#EXTINF:-1 group-title="Кинозалы",BCU TruMotion HD
 http://tinyurl.com/%64%65ool%65%678/8885/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/3906.png",BCU Ultra 4K
+#EXTINF:-1 group-title="Кинозалы",BCU Ultra 4K
 http://tinyurl.com/%64%65ool%65%678/3906/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/3239.png",BCU VHS HD
+#EXTINF:-1 group-title="Кинозалы",BCU VHS HD
 http://tinyurl.com/%64%65ool%65%678/3239/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/8590.png",BCU Мультсериал HD
+#EXTINF:-1 group-title="Кинозалы",BCU Мультсериал HD
 http://tinyurl.com/%64%65ool%65%678/8590/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/9118.png",BCU СССР HD
+#EXTINF:-1 group-title="Кинозалы",BCU СССР HD
 http://tinyurl.com/%64%65ool%65%678/9118/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/2307.png",BCU Сваты HD
+#EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
 http://tinyurl.com/%64%65ool%65%678/2307/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/4668.png",.black
+#EXTINF:-1 group-title="Кинозалы",CineMan
+http://tinyurl.com/%64%65ool%65%67ip2/1255.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Action
+http://tinyurl.com/%64%65ool%65%67ip2/1257.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Marvel
+http://tinyurl.com/%64%65ool%65%67ip2/1260.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
+http://tinyurl.com/%64%65ool%65%67ip2/1259.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Thriller
+http://tinyurl.com/%64%65ool%65%67ip2/1258.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Top
+http://tinyurl.com/%64%65ool%65%67ip2/1256.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan VHS
+http://tinyurl.com/%64%65ool%65%67ip2/1263.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Глухарь + Карпов
+http://tinyurl.com/%64%65ool%65%67ip2/1580.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Интерны
+http://tinyurl.com/%64%65ool%65%67ip2/1581.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
+http://tinyurl.com/%64%65ool%65%67ip2/1271.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Комедия
+http://tinyurl.com/%64%65ool%65%67ip2/1262.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Лесник
+http://tinyurl.com/%64%65ool%65%67ip2/1297.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
+http://tinyurl.com/%64%65ool%65%67ip2/1295.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Пёс 
+http://tinyurl.com/%64%65ool%65%67ip2/1296.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan РуКино
+http://tinyurl.com/%64%65ool%65%67ip2/1264.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Сваты
+http://tinyurl.com/%64%65ool%65%67ip2/1265.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
+http://tinyurl.com/%64%65ool%65%67ip2/1261.m3u8
+#EXTINF:-1 group-title="Кинозалы",CineMan Универ
+http://tinyurl.com/%64%65ool%65%67ip2/1582.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://bxn1m0ok.ottclub.xyz/iptv/EDK4ZVBNNRYT9Z/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://rhsbjv7k.tvclub.xyz/iptv/WLSZPSAMXB5A47/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://rhsbjv7k.tvclub.xyz/iptv/7XBZV8CQEYWT3U/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://rhsbjv7k.tvclub.xyz/iptv/BQUC5BFQVP4A3A/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://j2jrm3as.tvclub.xyz/iptv/23QYU6W9W9EVLP/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://6ecdef55.cbilant.com/iptv/5PKX3L8AFMX83T/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://gyn3jfva.ottclub.xyz/iptv/BMFKVKCFHB9QU2/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://kspf5lzf.megatv.fun/iptv/NFLDPPKDDY984R/18130/index.m3u8
+#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
+http://5ox7bdgd.rostelekom.xyz/iptv/993MQNA3R6Z3WL/18130/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",.black
 http://tinyurl.com/%64%65ool%65%67ip2/506.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/4830.png",.red
+#EXTINF:-1 group-title="Фильмовые",.red
 http://tinyurl.com/%64%65ool%65%678/4830/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2251.png",.sci-fi
+#EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://tinyurl.com/%64%65ool%65%678/2251/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9948.png",Viju TV1000 HD
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://tinyurl.com/%64%65ool%65%678/1411/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/1502.png",Viju TV1000 Русское HD
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
 http://tinyurl.com/%64%65ool%65%678/1502/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9080.png",Viju TV1000 Action HD
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
 http://tinyurl.com/%64%65ool%65%678/9080/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2903.png",Viju+ Comedy HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
 http://tinyurl.com/%64%65ool%65%678/9807/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/8448.png",Viju+ Megahit HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
 http://tinyurl.com/%64%65ool%65%678/7787/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/8785.png",Viju+ Premiere HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Premiere HD
 http://tinyurl.com/%64%65ool%65%678/8785/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/1514.png",Viju+ Serial HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
 http://tinyurl.com/%64%65ool%65%678/1514/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2159.png",Наш Кинопоказ HD
+#EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
 http://tinyurl.com/%64%65ool%65%678/2159/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/5365.png",Наше Мужское HD
+#EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
 http://tinyurl.com/%64%65ool%65%678/5365/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/6659.png",Остросюжетное HD
+#EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://tinyurl.com/%64%65ool%65%678/4999/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/7525.png",Русский бестселлер
+#EXTINF:-1 group-title="Фильмовые",Русский бестселлер
 http://tinyurl.com/%64%65ool%65%678/7525/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/6590.png",Русский детектив
+#EXTINF:-1 group-title="Фильмовые",Русский детектив
 http://tinyurl.com/%64%65ool%65%678/6590/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9282.png",Русский Иллюзион HD
+#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
 http://tinyurl.com/%64%65ool%65%678/9282/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/4167.png",Русская комедия
+#EXTINF:-1 group-title="Фильмовые",Русская комедия
 http://tinyurl.com/%64%65ool%65%678/4167/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/5974.png",Cinema 
+#EXTINF:-1 group-title="Фильмовые",Cinema 
 http://tinyurl.com/%64%65ool%65%678/3510/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9044.png",НСТ
+#EXTINF:-1 group-title="Фильмовые",НСТ
 http://tinyurl.com/%64%65ool%65%678/9044/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2006.png",FAN HD
+#EXTINF:-1 group-title="Фильмовые",FAN HD
 http://tinyurl.com/%64%65ool%65%678/2006/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2488.png",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
 http://tinyurl.com/%64%65ool%65%678/4178/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9804.png",Иллюзион+ HD
+#EXTINF:-1 group-title="Фильмовые",Иллюзион+ HD
 http://tinyurl.com/%64%65ool%65%678/9804/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/3574.png",Русский роман HD
+#EXTINF:-1 group-title="Фильмовые",Русский роман HD
 http://tinyurl.com/%64%65ool%65%678/3574/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/5425.png",День Победы HD
+#EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://tinyurl.com/%64%65ool%65%678/5425/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/8934.png",Победа
+#EXTINF:-1 group-title="Фильмовые",Победа
 http://tinyurl.com/%64%65ool%65%678/2988/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2851.png",Дом Кино
+#EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://tinyurl.com/%64%65ool%65%678/2851/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/6799.png",Дом Кино Премиум HD
+#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
 http://tinyurl.com/%64%65ool%65%678/6799/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/3213.png",НТВ Сериал
+#EXTINF:-1 group-title="Фильмовые",НТВ Сериал
 http://tinyurl.com/%64%65ool%65%678/3900/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/1445.png",НТВ Хит 
+#EXTINF:-1 group-title="Фильмовые",НТВ Хит 
 http://tinyurl.com/%64%65ool%65%678/4634/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/6190.png",НТВ Стиль
+#EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://tinyurl.com/%64%65ool%65%678/7069/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/8025.png",НТВ Право
+#EXTINF:-1 group-title="Познавательные",НТВ Право
 http://tinyurl.com/%64%65ool%65%678/8025/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/1119.png",Кинокомедия
+#EXTINF:-1 group-title="Фильмовые",Кинокомедия
 http://tinyurl.com/%64%65ool%65%678/1119/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/2446.png",Киномикс
+#EXTINF:-1 group-title="Фильмовые",Киномикс
 http://tinyurl.com/%64%65ool%65%678/7385/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9448.png",Киносемья
+#EXTINF:-1 group-title="Фильмовые",Киносемья
 http://tinyurl.com/%64%65ool%65%678/7795/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/7998.png",Кинопремьера 
+#EXTINF:-1 group-title="Фильмовые",Кинопремьера 
 http://tinyurl.com/%64%65ool%65%678/7998/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/3955.png",Кинохит
+#EXTINF:-1 group-title="Фильмовые",Кинохит
 http://tinyurl.com/%64%65ool%65%678/6140/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/1755.png",Киноужас 
+#EXTINF:-1 group-title="Фильмовые",Киноужас 
 http://tinyurl.com/%64%65ool%65%678/5980/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/9769.png",Киносерия
+#EXTINF:-1 group-title="Фильмовые",Киносерия
 http://tinyurl.com/%64%65ool%65%678/2414/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/5897.png",Киносвидание
+#EXTINF:-1 group-title="Фильмовые",Киносвидание
 http://tinyurl.com/%64%65ool%65%678/7185/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/5595.png",Мужское Кино 
+#EXTINF:-1 group-title="Фильмовые",Мужское Кино 
 http://tinyurl.com/%64%65ool%65%678/8344/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/3259.png",Наше Новое Кино
+#EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
 http://tinyurl.com/%64%65ool%65%678/9164/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/7965.png",Родное кино
+#EXTINF:-1 group-title="Фильмовые",Родное кино
 http://tinyurl.com/%64%65ool%65%678/7965/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/6200.png",Индийское Кино
+#EXTINF:-1 group-title="Фильмовые",Индийское Кино
 http://tinyurl.com/%64%65ool%65%678/6200/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://pl.ottglanz.tv/icon/5240.png",Еврокино
+#EXTINF:-1 group-title="Фильмовые",Еврокино
 http://tinyurl.com/%64%65ool%65%678/5240/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/5063.png",Бобёр
+#EXTINF:-1 group-title="Познавательные",Бобёр
 http://tinyurl.com/%64%65ool%65%678/5063/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/2048.png",Еда
+#EXTINF:-1 group-title="Познавательные",Еда
 http://tinyurl.com/%64%65ool%65%678/2048/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/9940.png",FoodTime
+#EXTINF:-1 group-title="Познавательные",FoodTime
 http://tinyurl.com/%64%65ool%65%678/9940/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/9708.png",Кухня ТВ
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://tinyurl.com/%64%65ool%65%678/9708/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/7223.png",Моя Планета HD
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
 http://tinyurl.com/%64%65ool%65%678/7223/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/3139.png",Viju Explore HD
+#EXTINF:-1 group-title="Познавательные",Viju Explore HD
 http://tinyurl.com/%64%65ool%65%678/3139/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/5532.png",Viju Nature HD
+#EXTINF:-1 group-title="Познавательные",Viju Nature HD
 http://tinyurl.com/%64%65ool%65%678/5532/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/4637.png",Viju History HD
+#EXTINF:-1 group-title="Познавательные",Viju History HD
 http://tinyurl.com/%64%65ool%65%678/4637/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/8772.png",Viju+ Planet HD
+#EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
 http://tinyurl.com/%64%65ool%65%678/8772/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/3719.png",Телекафе
+#EXTINF:-1 group-title="Познавательные",Телекафе
 http://tinyurl.com/%64%65ool%65%678/3719/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/3385.png",Телепутешествия
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
 http://tinyurl.com/%64%65ool%65%678/3385/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/3242.png",Приключения HD
+#EXTINF:-1 group-title="Познавательные",Приключения HD
 http://tinyurl.com/%64%65ool%65%678/3242/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/5955.png",Охотник и рыболов HD
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
 http://tinyurl.com/%64%65ool%65%678/5955/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/9250.png",Дикая Рыбалка HD
+#EXTINF:-1 group-title="Познавательные",Дикая Рыбалка HD
 http://tinyurl.com/%64%65ool%65%678/9250/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/6836.png",Оружие
+#EXTINF:-1 group-title="Познавательные",Оружие
 http://tinyurl.com/%64%65ool%65%678/6836/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/1313.png",Живая Планета
+#EXTINF:-1 group-title="Познавательные",Живая Планета
 http://tinyurl.com/%64%65ool%65%678/1313/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/5656.png",Наука HD
+#EXTINF:-1 group-title="Познавательные",Наука HD
 http://tinyurl.com/%64%65ool%65%678/5656/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/2534.png",Т24
+#EXTINF:-1 group-title="Познавательные",Т24
 http://tinyurl.com/%64%65ool%65%678/2534/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/9081.png",Поехали HD
+#EXTINF:-1 group-title="Познавательные",Поехали HD
 http://tinyurl.com/%64%65ool%65%678/9081/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://pl.ottglanz.tv/icon/3300.png",RU TV
+#EXTINF:-1 group-title="Познавательные",Лапки Live
+http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Неизвестная Россия
+http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 group-title="Музыка",RU TV
 http://tinyurl.com/%64%65ool%65%678/3300/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://pl.ottglanz.tv/icon/1774.png",Bridge TV
+#EXTINF:-1 group-title="Музыка",Bridge TV
 http://tinyurl.com/%64%65ool%65%678/1774/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://pl.ottglanz.tv/icon/5747.png",Bridge Русский Хит 
+#EXTINF:-1 group-title="Музыка",Bridge Русский Хит 
 http://tinyurl.com/%64%65ool%65%678/1573/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://pl.ottglanz.tv/icon/9995.png",Europa Plus TV
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://tinyurl.com/%64%65ool%65%678/4903/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://pl.ottglanz.tv/icon/8805.png",Музыка первого
+#EXTINF:-1 group-title="Музыка",Музыка первого
 http://tinyurl.com/%64%65ool%65%678/8805/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/9170.png",Ani
+#EXTINF:-1 group-title="Детские",Ani
 http://tinyurl.com/%64%65ool%65%678/9170/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/9295.png",Детский мир 
+#EXTINF:-1 group-title="Детские",Детский мир 
 http://tinyurl.com/%64%65ool%65%678/9295/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/2209.png",Карусель
+#EXTINF:-1 group-title="Детские",Карусель
 http://tinyurl.com/%64%65ool%65%678/2209/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/7952.png",Мульт 
+#EXTINF:-1 group-title="Детские",Мульт 
 http://tinyurl.com/%64%65ool%65%678/7952/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/4299.png",О!
+#EXTINF:-1 group-title="Детские",КиноМульт
+http://46.8.29.51:2020/channel/6786b5b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 group-title="Детские",О!
 http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/2229.png",Мультиландия
+#EXTINF:-1 group-title="Детские",Мультиландия
 http://tinyurl.com/%64%65ool%65%678/2229/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/5672.png",Рыжий
+#EXTINF:-1 group-title="Детские",Рыжий
 http://tinyurl.com/%64%65ool%65%678/5672/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/9954.png",СТС Kids HD
+#EXTINF:-1 group-title="Детские",СТС Kids HD
 http://tinyurl.com/%64%65ool%65%678/8770/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/5321.png",Мультимузыка
+#EXTINF:-1 group-title="Детские",Мультимузыка
 http://tinyurl.com/%64%65ool%65%678/5321/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
-#EXTINF:-1 group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/5438.png",Уникум HD 
+#EXTINF:-1 group-title="Детские",Уникум HD 
 http://tinyurl.com/%64%65ool%65%678/5438/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
