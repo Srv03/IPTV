@@ -13,7 +13,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD (Спутник)
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD 
 http://188.113.190.15:80/172/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
@@ -60,7 +60,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
-http://tinyurl.com/%64%65ool%65%678/8082/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch004/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30VTYkAl_ppPA7mTVblRxEPSRAMaAbT9nrGa8gZJdBfb
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
@@ -70,7 +70,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
-http://tinyurl.com/%64%65ool%65%678/2990/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch021/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt34wjuFxhBR_uHD4bURdyLz4M6IJFJ9dnLZuWWoFP5n99
 #EXTINF:-1 group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС +4
@@ -80,7 +80,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний HD
-http://tinyurl.com/%64%65ool%65%678/4131/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch110/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt39T5g0bAggZ9J4KCVaUekc5J4STxKNL6rxx_tsPVeLYA
 #EXTINF:-1 group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +4
@@ -120,7 +120,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://tinyurl.com/%64%65ool%65%678/1337/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch005/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt32qClmslazfPjWa9slXqNPCYjM2DMF9kaPODi7Q0d5tH
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -138,7 +138,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-http://tinyurl.com/%64%65ool%65%678/2304/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch014/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3x7nUUWMCydCGU1o30M878CX5Mv8VzAZnsM6t_9CJGKf
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -156,7 +156,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
-http://tinyurl.com/%64%65ool%65%678/3894/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch414/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt32M_mtgGbwDuR33QvS3jMLlKcvsOXNKlWkmbxluOjNKE
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +4
@@ -178,27 +178,27 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Че +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Кинозалы",BCU Action HD
-http://tinyurl.com/%64%65ool%65%678/7255/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch769/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3_SKpcGGDjLsESPwlroiX3eS2mwKRlXOzTq-Sy7f8ahg
 #EXTINF:-1 group-title="Кинозалы",BCU Catastrophe HD
-http://tinyurl.com/%64%65ool%65%678/5577/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch770/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt36iB_WLSw0KB1I8aG-tFiZgBQV-HHfHGiL2Bz8C7EK-U
 #EXTINF:-1 group-title="Кинозалы",BCU Charm HD
 http://tinyurl.com/%64%65ool%65%678/1665/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema HD
-http://tinyurl.com/%64%65ool%65%678/1086/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch771/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt35wvnpCqGIpzwQU0gbwJIvzIPr6szcrrmKiibLh2y0xf
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema+ HD
-http://tinyurl.com/%64%65ool%65%678/6536/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch834/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3zVdDKemyTc3WvJK4_nFn-M0wdPiun4hfhRebIJxpWlE
 #EXTINF:-1 group-title="Кинозалы",BCU Comedy HD
-http://tinyurl.com/%64%65ool%65%678/2718/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch1000/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30k0qTX37zXCagKbcXqVFUDBTPMnkCx9L77a_JYyFeh-
 #EXTINF:-1 group-title="Кинозалы",BCU Cosmo HD
 http://tinyurl.com/%64%65ool%65%678/3559/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Criminal HD
 http://tinyurl.com/%64%65ool%65%678/3871/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Fantastic HD
-http://tinyurl.com/%64%65ool%65%678/7834/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch773/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt366SjdpJQXRWGYmJCr1JC76gqsxKCKZzSfQl6f6Lw5Ie
 #EXTINF:-1 group-title="Кинозалы",BCU FilMystic HD
-http://tinyurl.com/%64%65ool%65%678/6071/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch774/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3-HdinsTpbP803pEkB7L0yZZs_3i0IrBlRsO9kCUdzbQ
 #EXTINF:-1 group-title="Кинозалы",BCU History HD
-http://tinyurl.com/%64%65ool%65%678/8129/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch775/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt35aG6czYklJg4P8OGPqQrSH45tKzBCJMy4rijfJhNMU-
 #EXTINF:-1 group-title="Кинозалы",BCU Kids 4K
 http://tinyurl.com/%64%65ool%65%678/6996/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Kids HD
@@ -290,13 +290,13 @@ http://tinyurl.com/%64%65ool%65%678/4830/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://tinyurl.com/%64%65ool%65%678/2251/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
-http://tinyurl.com/%64%65ool%65%678/1411/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch017/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt343uqjGYlNhJZOhBUYGdyYJkQWOKlN7WOhClFWTll3z5
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
-http://tinyurl.com/%64%65ool%65%678/1502/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch013/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3w7jbOWn6FSzMoOC3Ym6Z3gVYlP5-4xTlvMZqRaGhNbc
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
-http://tinyurl.com/%64%65ool%65%678/9080/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch018/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3y3khmo6G5-BIX88qD6gGHl1eqzmNLSxuEaRJSbsuhmK
 #EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
 http://tinyurl.com/%64%65ool%65%678/9807/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
@@ -336,9 +336,9 @@ http://tinyurl.com/%64%65ool%65%678/5425/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Фильмовые",Победа
 http://tinyurl.com/%64%65ool%65%678/2988/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
-http://tinyurl.com/%64%65ool%65%678/2851/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch078/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30sz5zTwQO8U-wZIxyIkjOsNmokXeBmSbvyIk-6IE5oP
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://tinyurl.com/%64%65ool%65%678/6799/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://7.troya.one:34000/ch080/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30UOMLWmOUbpgc0KJVlNeqwO-YL7WsWvwzGs9MGH2gLq
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
 http://tinyurl.com/%64%65ool%65%678/3900/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
