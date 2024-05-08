@@ -13,7 +13,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD (Спутник)
 http://188.113.190.15:80/172/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
@@ -283,24 +283,6 @@ http://tinyurl.com/%64%65ool%65%67ip2/1265.m3u8
 http://tinyurl.com/%64%65ool%65%67ip2/1261.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Универ
 http://tinyurl.com/%64%65ool%65%67ip2/1582.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://bxn1m0ok.ottclub.xyz/iptv/EDK4ZVBNNRYT9Z/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://rhsbjv7k.tvclub.xyz/iptv/WLSZPSAMXB5A47/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://rhsbjv7k.tvclub.xyz/iptv/7XBZV8CQEYWT3U/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://rhsbjv7k.tvclub.xyz/iptv/BQUC5BFQVP4A3A/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://j2jrm3as.tvclub.xyz/iptv/23QYU6W9W9EVLP/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://6ecdef55.cbilant.com/iptv/5PKX3L8AFMX83T/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://gyn3jfva.ottclub.xyz/iptv/BMFKVKCFHB9QU2/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://kspf5lzf.megatv.fun/iptv/NFLDPPKDDY984R/18130/index.m3u8
-#EXTINF:-1 group-title="Солдаты (Тест)",Кинозал 5
-http://5ox7bdgd.rostelekom.xyz/iptv/993MQNA3R6Z3WL/18130/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.black
 http://tinyurl.com/%64%65ool%65%67ip2/506.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -360,7 +342,7 @@ http://tinyurl.com/%64%65ool%65%678/6799/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
 http://tinyurl.com/%64%65ool%65%678/3900/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://tinyurl.com/%64%65ool%65%678/4634/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=d2641d344f17d5894e6b3a3cdccf68cade3ce55f-1877903268-1715205109-1715161909
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://tinyurl.com/%64%65ool%65%678/7069/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",НТВ Право
