@@ -13,7 +13,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD 
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD (Спутник)
 http://188.113.190.15:80/172/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
@@ -178,27 +178,27 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Че +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Кинозалы",BCU Action HD
-http://7.troya.one:34000/ch769/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3_SKpcGGDjLsESPwlroiX3eS2mwKRlXOzTq-Sy7f8ahg
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343926
 #EXTINF:-1 group-title="Кинозалы",BCU Catastrophe HD
-http://7.troya.one:34000/ch770/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt36iB_WLSw0KB1I8aG-tFiZgBQV-HHfHGiL2Bz8C7EK-U
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343927
 #EXTINF:-1 group-title="Кинозалы",BCU Charm HD
 http://tinyurl.com/%64%65ool%65%678/1665/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema HD
-http://7.troya.one:34000/ch771/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt35wvnpCqGIpzwQU0gbwJIvzIPr6szcrrmKiibLh2y0xf
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343928
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema+ HD
-http://7.troya.one:34000/ch834/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3zVdDKemyTc3WvJK4_nFn-M0wdPiun4hfhRebIJxpWlE
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343929
 #EXTINF:-1 group-title="Кинозалы",BCU Comedy HD
-http://7.troya.one:34000/ch1000/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30k0qTX37zXCagKbcXqVFUDBTPMnkCx9L77a_JYyFeh-
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343930
 #EXTINF:-1 group-title="Кинозалы",BCU Cosmo HD
-http://tinyurl.com/%64%65ool%65%678/3559/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343960
 #EXTINF:-1 group-title="Кинозалы",BCU Criminal HD
-http://tinyurl.com/%64%65ool%65%678/3871/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343951
 #EXTINF:-1 group-title="Кинозалы",BCU Fantastic HD
-http://7.troya.one:34000/ch773/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt366SjdpJQXRWGYmJCr1JC76gqsxKCKZzSfQl6f6Lw5Ie
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343932
 #EXTINF:-1 group-title="Кинозалы",BCU FilMystic HD
-http://7.troya.one:34000/ch774/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3-HdinsTpbP803pEkB7L0yZZs_3i0IrBlRsO9kCUdzbQ
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343933
 #EXTINF:-1 group-title="Кинозалы",BCU History HD
-http://7.troya.one:34000/ch775/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt35aG6czYklJg4P8OGPqQrSH45tKzBCJMy4rijfJhNMU-
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343934
 #EXTINF:-1 group-title="Кинозалы",BCU Kids 4K
 http://tinyurl.com/%64%65ool%65%678/6996/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Kids HD
@@ -214,39 +214,39 @@ http://tinyurl.com/%64%65ool%65%678/1740/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Кинозалы",BCU Premiere HD
 http://tinyurl.com/%64%65ool%65%678/3078/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 1 HD
-http://tinyurl.com/%64%65ool%65%678/7167/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343952
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 2 HD
-http://tinyurl.com/%64%65ool%65%678/2938/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343953
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 3 HD
-http://tinyurl.com/%64%65ool%65%678/7597/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343954
 #EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
-http://tinyurl.com/%64%65ool%65%678/3408/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343955
 #EXTINF:-1 group-title="Кинозалы",BCU Reality HD
-http://tinyurl.com/%64%65ool%65%678/2310/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343956
 #EXTINF:-1 group-title="Кинозалы",BCU Romantic HD
-http://tinyurl.com/%64%65ool%65%678/8010/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343939
 #EXTINF:-1 group-title="Кинозалы",BCU Ruserial HD
-http://tinyurl.com/%64%65ool%65%678/2420/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343945
 #EXTINF:-1 group-title="Кинозалы",BCU Russia 90s HD
 http://tinyurl.com/%64%65ool%65%678/2563/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU Russian HD
-http://tinyurl.com/%64%65ool%65%678/4165/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343941
 #EXTINF:-1 group-title="Кинозалы",BCU Stars HD
-http://tinyurl.com/%64%65ool%65%678/9944/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343942
 #EXTINF:-1 group-title="Кинозалы",BCU Survival HD
-http://tinyurl.com/%64%65ool%65%678/6035/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343958
 #EXTINF:-1 group-title="Кинозалы",BCU TruMotion HD
-http://tinyurl.com/%64%65ool%65%678/8885/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343962
 #EXTINF:-1 group-title="Кинозалы",BCU Ultra 4K
-http://tinyurl.com/%64%65ool%65%678/3906/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343949
 #EXTINF:-1 group-title="Кинозалы",BCU VHS HD
-http://tinyurl.com/%64%65ool%65%678/3239/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343943
 #EXTINF:-1 group-title="Кинозалы",BCU Мультсериал HD
 http://tinyurl.com/%64%65ool%65%678/8590/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Кинозалы",BCU СССР HD
-http://tinyurl.com/%64%65ool%65%678/9118/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343946
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
-http://tinyurl.com/%64%65ool%65%678/2307/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343944
 #EXTINF:-1 group-title="Кинозалы",CineMan
 http://tinyurl.com/%64%65ool%65%67ip2/1255.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Action
@@ -346,31 +346,31 @@ http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=f8713f2d59b84734
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://tinyurl.com/%64%65ool%65%678/7069/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",НТВ Право
-http://tinyurl.com/%64%65ool%65%678/8025/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343751
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия
-http://tinyurl.com/%64%65ool%65%678/1119/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343828
 #EXTINF:-1 group-title="Фильмовые",Киномикс
-http://tinyurl.com/%64%65ool%65%678/7385/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343820
 #EXTINF:-1 group-title="Фильмовые",Киносемья
-http://tinyurl.com/%64%65ool%65%678/7795/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343822
 #EXTINF:-1 group-title="Фильмовые",Кинопремьера 
-http://tinyurl.com/%64%65ool%65%678/7998/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343813
 #EXTINF:-1 group-title="Фильмовые",Кинохит
-http://tinyurl.com/%64%65ool%65%678/6140/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343818
 #EXTINF:-1 group-title="Фильмовые",Киноужас 
-http://tinyurl.com/%64%65ool%65%678/5980/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343829
 #EXTINF:-1 group-title="Фильмовые",Киносерия
-http://tinyurl.com/%64%65ool%65%678/2414/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343824
 #EXTINF:-1 group-title="Фильмовые",Киносвидание
-http://tinyurl.com/%64%65ool%65%678/7185/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343826
 #EXTINF:-1 group-title="Фильмовые",Мужское Кино 
-http://tinyurl.com/%64%65ool%65%678/8344/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343831
 #EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
-http://tinyurl.com/%64%65ool%65%678/9164/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343832
 #EXTINF:-1 group-title="Фильмовые",Родное кино
-http://tinyurl.com/%64%65ool%65%678/7965/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343833
 #EXTINF:-1 group-title="Фильмовые",Индийское Кино
-http://tinyurl.com/%64%65ool%65%678/6200/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+https://m3u-editor.com/serve/54418000-0d37-11ef-b4ca-b57734416b2a/1157343834
 #EXTINF:-1 group-title="Фильмовые",Еврокино
 http://tinyurl.com/%64%65ool%65%678/5240/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",Бобёр
