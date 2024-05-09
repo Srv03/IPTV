@@ -13,7 +13,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD 
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD (Спутник)
 http://188.113.190.15:80/172/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
@@ -80,7 +80,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний HD
-http://7.troya.one:34000/ch110/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt39T5g0bAggZ9J4KCVaUekc5J4STxKNL6rxx_tsPVeLYA
+https://7o8gab7zdd.a.trbcdn.net/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +4
@@ -284,25 +284,25 @@ http://tinyurl.com/%64%65ool%65%67ip2/1261.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Универ
 http://tinyurl.com/%64%65ool%65%67ip2/1582.m3u8
 #EXTINF:-1 group-title="Фильмовые",.black
-http://tinyurl.com/%64%65ool%65%67ip2/506.m3u8
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/1d45a6db61/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
-http://tinyurl.com/%64%65ool%65%678/4830/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/e50ad4a3fe/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
-http://tinyurl.com/%64%65ool%65%678/2251/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/b420d6efa1/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://7.troya.one:34000/ch017/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt343uqjGYlNhJZOhBUYGdyYJkQWOKlN7WOhClFWTll3z5
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
-http://7.troya.one:34000/ch013/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3w7jbOWn6FSzMoOC3Ym6Z3gVYlP5-4xTlvMZqRaGhNbc
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/a396e9cde8/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
-http://7.troya.one:34000/ch018/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt3y3khmo6G5-BIX88qD6gGHl1eqzmNLSxuEaRJSbsuhmK
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/7cba98260e/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
 http://tinyurl.com/%64%65ool%65%678/9807/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
 http://tinyurl.com/%64%65ool%65%678/7787/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Viju+ Premiere HD
-http://tinyurl.com/%64%65ool%65%678/8785/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://tinyurl.com/%64%65ool%65%67Tv8/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
 http://tinyurl.com/%64%65ool%65%678/1514/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
@@ -334,15 +334,15 @@ http://tinyurl.com/%64%65ool%65%678/3574/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://tinyurl.com/%64%65ool%65%678/5425/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",Победа
-http://tinyurl.com/%64%65ool%65%678/2988/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/dc43d4de15/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
-http://7.troya.one:34000/ch078/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30sz5zTwQO8U-wZIxyIkjOsNmokXeBmSbvyIk-6IE5oP
+http://tinyurl.com/%64%65ool%65%67Vtelegram/DomKino/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://7.troya.one:34000/ch080/mono.m3u8?token=rl_b779e17.X4gc6-IxRLoDOrA_l8jt30UOMLWmOUbpgc0KJVlNeqwO-YL7WsWvwzGs9MGH2gLq
+http://tinyurl.com/%64%65ool%65%67Tv3/n35bb2b48/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
 http://tinyurl.com/%64%65ool%65%678/3900/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=d2641d344f17d5894e6b3a3cdccf68cade3ce55f-1877903268-1715205109-1715161909
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=f8713f2d59b84734ea77af35a1f6a00ce3d09752-1877903268-1715302624-1715259424
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://tinyurl.com/%64%65ool%65%678/7069/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",НТВ Право
@@ -374,11 +374,11 @@ http://tinyurl.com/%64%65ool%65%678/6200/vi%64%65o.m3u8?token=2d34acb49a75270beb
 #EXTINF:-1 group-title="Фильмовые",Еврокино
 http://tinyurl.com/%64%65ool%65%678/5240/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",Бобёр
-http://tinyurl.com/%64%65ool%65%678/5063/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/0f5be3cbb9/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Познавательные",Еда
 http://tinyurl.com/%64%65ool%65%678/2048/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",FoodTime
-http://tinyurl.com/%64%65ool%65%678/9940/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
+http://tinyurl.com/%64%65ool%65%67VtelegramTv1/8372597178/vi%64%65o.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://tinyurl.com/%64%65ool%65%678/9708/vi%64%65o.m3u8?token=2d34acb49a75270bebd5ae532898d064
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
