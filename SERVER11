@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-iptv_syetolog 10.05 8:40 MSK
-http://overlay.iptvin.fun/iptvin.ru.mp4
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
@@ -30,9 +28,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
 http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Каналы (+)",НТВ +2
-https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +4
-https://7o8gab7zdd.a.trbcdn.net/hls-livec2/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -62,7 +60,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
-
+http://str22.ottg.online/8082/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
@@ -72,7 +70,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
-
+http://str22.ottg.online/2990/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС +4
@@ -82,7 +80,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний HD
-https://7o8gab7zdd.a.trbcdn.net/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
+http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +4
@@ -122,7 +120,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-
+http://str22.ottg.online/1337/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -140,7 +138,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-
+http://str22.ottg.online/2304/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -158,7 +156,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
-
+http://str22.ottg.online/3894/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +4
@@ -250,41 +248,47 @@ http://str22.ottg.online/9118/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
 http://str22.ottg.online/2307/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Кинозалы",CineMan
-http://ip1.orgip.net/682/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1030/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEegMiOYMK8YcSBjz_3tinVIijFWMoEqIrUf7-2hvvMvau
 #EXTINF:-1 group-title="Кинозалы",CineMan Action
-http://ip1.orgip.net/689/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1032/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEetozyZ8l4n62T6Lu49UC-eFOpo0E-d6018V8UhAkAgm0
 #EXTINF:-1 group-title="Кинозалы",CineMan Marvel
-http://ip1.orgip.net/688/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1035/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEehUYDFM53zW0vO0MghgKFhW2nU79lonCJgQVkJuVxw3Y
 #EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
-http://ip1.orgip.net/690/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1034/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEei9pcmq1U2oQcXCqq2sj3UG2VLAI-IojlN8zoKcICCPk
 #EXTINF:-1 group-title="Кинозалы",CineMan Thriller
-http://ip1.orgip.net/686/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1033/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEejYeq9zxeo86Kv6-yzb3J_VLJAbkBiyjjlyB-QjL6YQV
 #EXTINF:-1 group-title="Кинозалы",CineMan Top
-http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1031/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEei-1A1ikAQBP1dwsDxYxM43dKXg8Orn009pzwmHMLKX6
 #EXTINF:-1 group-title="Кинозалы",CineMan VHS
-http://ip1.orgip.net/685/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1038/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEemSFxP9EI1v4mGNsZNlL5yT9bCFwCsO3Yfo455QNKs6T
+#EXTINF:-1 group-title="Кинозалы",CineMan Глухарь + Карпов
+http://3.troya.one:34000/ch2748/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEenCLLtOcaVpjMbjjl816K6AZnlVjrAKgwaGvq0NFbfH7
+#EXTINF:-1 group-title="Кинозалы",CineMan Интерны
+http://tinyurl.com/%64%65ool%65%67ip2/1581.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
-http://ip1.orgip.net/693/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1074/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEeiFiuVoz94QxBT-YTMcsT2UWmR6XSPFb4AVhM_q_oxMy
 #EXTINF:-1 group-title="Кинозалы",CineMan Комедия
-http://ip1.orgip.net/691/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1037/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEenH9TwUn-PSa_OrpHtsH2ck1Vu9RAqPe5nILHKZjhYPT
 #EXTINF:-1 group-title="Кинозалы",CineMan Лесник
-http://ip1.orgip.net/1659/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1327/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEettLFeUUuiz2sDtKPBJovn0nxQbSVOz7TEkus3Mp51oH
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
-http://ip1.orgip.net/1657/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1325/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEeiHdMNtkdsYP9kLAjEj8VB3f5ZFV6FT5uW-WKsrGdn76
 #EXTINF:-1 group-title="Кинозалы",CineMan Пёс 
-http://ip1.orgip.net/1658/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1326/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEeoFWyTB7nzm1QbYOsLvCjb8QmzJ_j5lVOB1yGQObVkvK
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
-http://ip1.orgip.net/687/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1039/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEepGGKW38miX8C-OvHeAP1T8LH1582kEyQAlMwcVA7zHp
 #EXTINF:-1 group-title="Кинозалы",CineMan Сваты
-http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1040/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEetSiNTgAJCh9t9hUHEw77B3X5AOouCCd8hs5M43z4OKv
 #EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
-http://ip1.orgip.net/692/video.m3u8?token=M4f082ab4c
+http://3.troya.one:34000/ch1036/mono.m3u8?token=thebestlv.w2Okhn5QAMaAdjmNJiCEejg95B_tORCOzQxsw3VkOaObtDYVP8Q6SxNSiSfk_rT0
+#EXTINF:-1 group-title="Кинозалы",CineMan Универ
+http://tinyurl.com/%64%65ool%65%67ip2/1582.m3u8
 #EXTINF:-1 group-title="Фильмовые",.black
-https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
+http://193.201.98.10:5000/c79
 #EXTINF:-1 group-title="Фильмовые",.red
-https://bkm.beetv.kz/btv/live/hls/000000213.m3u8
+http://91.207.115.228:5000/c78
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
-https://bkm.beetv.kz/btv/live/hls/000000134.m3u8
+http://91.207.115.228:5000/c77
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://str22.ottg.online/1411/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
@@ -434,7 +438,7 @@ http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=0a3d8e479995628452881
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://iptv.iptvin.fun:2134/channel/7a0ccc79/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
 #EXTINF:-1 group-title="Детские",Рыжий
-http://iptv.iptvin.fun:2134/channel/n6cc31afc/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
+http://str22.ottg.online/5672/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 http://str22.ottg.online/9954/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Детские",Мультимузыка
