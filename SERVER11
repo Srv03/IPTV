@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
+http://193.201.98.10:5000/c99
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://188.113.190.15:80/172/mono.m3u8
+http://193.201.98.10:5000/c100
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -50,7 +50,7 @@ http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
 #EXTINF:-1 group-title="Новости",Известия
 http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Новости",Мир 24
-http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Новости",Дума ТВ
