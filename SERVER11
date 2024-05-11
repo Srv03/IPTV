@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://193.201.98.10:5000/c99
+https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTk0MDU5OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1MzM1Nzk4LCJzZXNzaW9uX2lkIjoiMzhmM2IzZDE2MDQwMDUzNGE1OGEzMjJjM2I0MzA1Y2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tciv4CF5J6CEYikVC6ltgJUcO8iH_op8aWGnlNK5mu0
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://193.201.98.10:5000/c100
+http://188.113.190.15:80/172/mono.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -26,7 +26,7 @@ http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
-http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
+https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTk0MDU5OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1MzM1Nzk4LCJzZXNzaW9uX2lkIjoiMzhmM2IzZDE2MDQwMDUzNGE1OGEzMjJjM2I0MzA1Y2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tciv4CF5J6CEYikVC6ltgJUcO8iH_op8aWGnlNK5mu0
 #EXTINF:-1 group-title="Каналы (+)",НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +4
