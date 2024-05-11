@@ -90,7 +90,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
-http://92.53.64.197:5050/tv3_hd/video.m3u8?token=m3VIth-Rou_bM1
+http://ott.watch/stream/8G5IUH36S2/136.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +4
@@ -424,7 +424,7 @@ http://str22.ottg.online/4903/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Музыка",Музыка первого
 http://str22.ottg.online/8805/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Детские",Ani
-http://tinyurl.com/%64%65ool%65%67VtelegramTv1/4829c595e8/vi%64%65o.m3u8
+http://str22.ottg.online/9170/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Детские",Детский мир 
 http://str22.ottg.online/9295/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
 #EXTINF:-1 group-title="Детские",Карусель
