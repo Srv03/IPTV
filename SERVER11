@@ -92,7 +92,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52934/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/190b4887/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС +4
@@ -142,7 +142,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27934/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/1a7a2000/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -160,7 +160,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52945/hlsx/pl.m3u8
+
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -178,7 +178,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43562/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/587f5b7a/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +4
@@ -200,107 +200,107 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Че +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Кинозалы",BCU Action HD
-
+http://3.troya.one:34000/ch769/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUrwIfjdUGYLmFPLtANIJUskYO3BwWbKtqL5aivuSwq1
 #EXTINF:-1 group-title="Кинозалы",BCU Catastrophe HD
-
+http://3.troya.one:34000/ch770/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwZ1cm90ps9WSLBj9HCUdBn9UBO0Aoys75SUjQyniQg68
 #EXTINF:-1 group-title="Кинозалы",BCU Charm HD
-
+http://3.troya.one:34000/ch1546/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwWt0ODlxTdiEaZOZ8a2qk37FXDNQhWJ2ybRB1EyM7vt3
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema HD
-
+http://3.troya.one:34000/ch771/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUOmRttztBccHiJfdxaH6OfNt1g4_vkavUaS4CfTH9aL
 #EXTINF:-1 group-title="Кинозалы",BCU Cinema+ HD
-
+http://3.troya.one:34000/ch834/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwZtGgPLRJtWJ1EKqnw06QFZjN9f9bJnq1WVGOEKaQLRL
 #EXTINF:-1 group-title="Кинозалы",BCU Comedy HD
-
+http://3.troya.one:34000/ch1000/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwcIIr1QVpWy3GkQMVZFxhTvXfee8XRx0qZUvCMs10nK3
 #EXTINF:-1 group-title="Кинозалы",BCU Cosmo HD
-
+http://3.troya.one:34000/ch1026/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwezAgxD4l1qUC3ZSy6q1KDcOjMe1W0ZLcnFyhCC3IFI5
 #EXTINF:-1 group-title="Кинозалы",BCU Criminal HD
-
+http://3.troya.one:34000/ch827/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwfoNlWfkkFpqzDrUePpGgd6-U7XO0TFJeLTHgv-Fsuij
 #EXTINF:-1 group-title="Кинозалы",BCU Fantastic HD
-
+http://3.troya.one:34000/ch773/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwe-RAPDWOidCsEuWdNF4rtMN4zpc0-v_X3B7uGpJt2j1
 #EXTINF:-1 group-title="Кинозалы",BCU FilMystic HD
-
+http://3.troya.one:34000/ch774/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwbaKWMZ6tTJn8oHDfxl-Mgtc5BkEFG5vfqxn7VVGD9Bn
 #EXTINF:-1 group-title="Кинозалы",BCU History HD
-
+http://3.troya.one:34000/ch775/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwR_3fKRVOmbmoMZXzsQ6O3yAxjRSBNEGLUFaUqS2_MIh
 #EXTINF:-1 group-title="Кинозалы",BCU Kids 4K
-
+http://3.troya.one:34000/ch1428/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwf_tf2NZcAqZ6aV5k-nTBCkGoqP4kumnOT5lOiEevDYJ
 #EXTINF:-1 group-title="Кинозалы",BCU Kids HD
-
+http://3.troya.one:34000/ch786/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwW1YnsEhsTrTqc_09_SzHzhISY9rCFiO9bhJlqDffZLq
 #EXTINF:-1 group-title="Кинозалы",BCU Kids+ HD
-
+http://3.troya.one:34000/ch559/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwcS4jiJqtze34whpzztpAzur2iWqrpd019M1YlxInDTv
 #EXTINF:-1 group-title="Кинозалы",BCU Kinorating HD
-
+http://3.troya.one:34000/ch776/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwTGsHqLnXd1cA8FCm1JwN9FcPv6XhV40tYmU5Y7vUeiO
 #EXTINF:-1 group-title="Кинозалы",BCU Little HD
-
+http://3.troya.one:34000/ch1634/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwZbvhdr91lT_6wPIlHUQcJSv9sAs_MP2kK9UvmuveD1M
 #EXTINF:-1 group-title="Кинозалы",BCU Marvel HD
-
+http://3.troya.one:34000/ch311/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYHzjmYp6GrQW4X9SNGJN-nSDTFBJOvzhh7OJbkUEJnW
 #EXTINF:-1 group-title="Кинозалы",BCU Premiere HD
-
+http://3.troya.one:34000/ch778/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwVjb8si0RcrR3HVdGwfbwyQ0cszUypW4rUWTPwu5KkeP
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 1 HD
-
+http://3.troya.one:34000/ch782/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwY_tcqeiHCVEjkfMaGeE0J-RLievyoUGkI4fHtbm-4bG
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 2 HD
-
+http://3.troya.one:34000/ch783/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUGaG-n3_XMd_MZwl8-esylPz5Lj4SGJgozUSBnJizhF
 #EXTINF:-1 group-title="Кинозалы",BCU Кинозал Premiere 3 HD
-
+http://3.troya.one:34000/ch784/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSFR6MDyrFalgrouQYW3hH4pkSaPRtlP3l2CgSj2n9GR
 #EXTINF:-1 group-title="Кинозалы",BCU Premiere Ultra 4K
-
+http://3.troya.one:34000/ch553/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwX6Rfxz6cYAFpUqUmH-teuLVB3qBG7W4dNgOjBjnXx6J
 #EXTINF:-1 group-title="Кинозалы",BCU Reality HD
-
+http://3.troya.one:34000/ch785/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwZWvKcstliNGqvV8C-E4K0LotBUQS2rH22YRKAHmuHpE
 #EXTINF:-1 group-title="Кинозалы",BCU Romantic HD
-
+http://3.troya.one:34000/ch779/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwfH3wpBLypEmamhjkwGfWgApH6qpihdYeORiGlMgjtbO
 #EXTINF:-1 group-title="Кинозалы",BCU Ruserial HD
-
+http://3.troya.one:34000/ch788/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwfR2lW16a-n7ep22U8LCxLefv_TO83iIJta_nfFs5XrS
 #EXTINF:-1 group-title="Кинозалы",BCU Russia 90s HD
-
+http://3.troya.one:34000/ch2744/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwRYI6ZLlp2h78iDp2n8aOjs1f9tWWUZ26eiREF0l2svf
 #EXTINF:-1 group-title="Кинозалы",BCU Russian HD
-
+http://3.troya.one:34000/ch780/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwQVw275z9LGkn0KJIfU-tgx4BUCRoroxxTqB67ZYFtF_
 #EXTINF:-1 group-title="Кинозалы",BCU Stars HD
-
+http://3.troya.one:34000/ch835/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwVbKspuYN0yEJb789iWknPGuDrBz9B2ArQigU16pOQX9
 #EXTINF:-1 group-title="Кинозалы",BCU Survival HD
-
+http://3.troya.one:34000/ch1444/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwcdmvDfF2e_xZzG-qtfo8UacrP_9XMbxrJSJ-dYnJuaR
 #EXTINF:-1 group-title="Кинозалы",BCU TruMotion HD
-
+http://3.troya.one:34000/ch1429/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwZGv3bSmIAObxWvgoqPw4ThRGwSsVcNG1O1J44ng1B19
 #EXTINF:-1 group-title="Кинозалы",BCU Ultra 4K
-
+http://3.troya.one:34000/ch849/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwZgm4Ap42TOtwBBPF6od046WJw7iKPBkrEexKo7yRh0N
 #EXTINF:-1 group-title="Кинозалы",BCU VHS HD
-
+http://3.troya.one:34000/ch781/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwaxvSgn37ftwXF5Wu0xUdFWiOazzqGOHIhkYf2iUUJF1
 #EXTINF:-1 group-title="Кинозалы",BCU Мультсериал HD
-
+http://3.troya.one:34000/ch787/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwVZMt-brfWJBfwaYjoZIXrxK79pXBwA-crKO2TM7YDqO
 #EXTINF:-1 group-title="Кинозалы",BCU СССР HD
-
+http://3.troya.one:34000/ch789/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwa4tH-TZed37OcVfB9V_VuWjKmdmQz8VYJLxiL87WY3M
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
-
+http://3.troya.one:34000/ch145/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYc9jCD9_9nV5S0fKz4xgRtfPF4HgKzHVm7IlCZw9_cs
 #EXTINF:-1 group-title="Кинозалы",CineMan
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53382/hlsx/pl.m3u8
+http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Action
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63846/hlsx/pl.m3u8
+http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Marvel
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47931/hlsx/pl.m3u8
+http://ott.server-iptv.live/688/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35582/hlsx/pl.m3u8
+http://ott.server-iptv.live/690/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Thriller
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45284/hlsx/pl.m3u8
+http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Top
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29842/hlsx/pl.m3u8
+http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan VHS
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59429/hlsx/pl.m3u8
+http://ott.server-iptv.live/685/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Глухарь + Карпов
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62853/hlsx/pl.m3u8
+http://ott.server-iptv.live/1672/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53874/hlsx/pl.m3u8
+http://ott.server-iptv.live/693/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Комедия
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64557/hlsx/pl.m3u8
+http://ott.server-iptv.live/691/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Лесник
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37746/hlsx/pl.m3u8
+http://ott.server-iptv.live/1659/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45271/hlsx/pl.m3u8
+http://ott.server-iptv.live/1657/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan Пёс 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28488/hlsx/pl.m3u8
+http://ott.server-iptv.live/1658/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27445/hlsx/pl.m3u8
+http://3.troya.one:34000/ch1039/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwWonwsqic4kY90G_c0rUNwhhUdjSUzK_bZJXv03WNM7N
 #EXTINF:-1 group-title="Кинозалы",CineMan Сваты
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62337/hlsx/pl.m3u8
+http://3.troya.one:34000/ch1040/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwdoBBKHC_pNau_AQpdw_ZGzzovKJ7LXw-1M2SwA4CZRt
 #EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47298/hlsx/pl.m3u8
+http://ott.server-iptv.live/692/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Фильмовые",.black
 http://193.201.98.10:5000/c79
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -308,125 +308,119 @@ http://91.207.115.228:5000/c78
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://91.207.115.228:5000/c77
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/46287/hlsx/pl.m3u8
+http://3.troya.one:34000/ch017/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuweu-r5ZDDzlnsd3nBYBw1iBJHGyGGCp1_SCRge0ErHVT
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/57294/hlsx/pl.m3u8
+http://3.troya.one:34000/ch013/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwc1AFxa9e1dGXvQpBmkDtn1e2MEwgH23hzkMrQhp8yaN
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28397/hlsx/pl.m3u8
+http://3.troya.one:34000/ch018/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXS6kERy1d-n2KoLCbJPlj6NL2XysKli6NFR3JiA2int
 #EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/hlsx/pl.m3u8
+http://3.troya.one:34000/ch058/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwf8KfKx5E7NcrFgfUv-uX8uoRwbXSUzMSrSWgeWXy-3u
 #EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2002/hlsx/pl.m3u8
+http://3.troya.one:34000/ch059/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwR7LgHraVXM8LNN96K2AqqB_PIdwc5O0cAW1X4wpm-jJ
 #EXTINF:-1 group-title="Фильмовые",Viju+ Premiere HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/hlsx/pl.m3u8
+http://3.troya.one:34000/ch060/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwbj8oZDGLIFb12uZRErCCPnGUvSQXmZo7SBIsCWBdAtV
 #EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/76679/hlsx/pl.m3u8
+http://3.troya.one:34000/ch701/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwWaVWKagwXqkQvuXDi7KupdvzlZk9QA5f9CwiSKmHkGA
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27483/hlsx/pl.m3u8
+http://3.troya.one:34000/ch714/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSG94iu68EI9K45bwkw6HCFUa2NHn4J0Q0H2nFMja26K
 #EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/32951/hlsx/pl.m3u8
+http://3.troya.one:34000/ch589/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwajLAdVuZV8_K2AoZL7hXqTYKU4IMZuhstS-EI2VwJtH
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1661/hlsx/pl.m3u8
+http://3.troya.one:34000/ch072/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwRgQWE1RLiokHQfJSqoEniq2XUqZvfHL8_fZsQXjtpiP
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/120/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n8643dd9/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",Русский детектив
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/66/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34074/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Фильмовые",Русская комедия
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11093/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n7c44e207/index.m3u8?q=9dc60bee687137402159d165253928fb
+#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион 
+http://3.troya.one:34000/ch101/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYsE6LVkFlXd9qzDhJqOTLvKE13Xp1quwucCR_cd7xZj
 #EXTINF:-1 group-title="Фильмовые",Cinema 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47662/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/fad612c/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",НСТ
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/93594/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Фильмовые",FAN 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37475/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n26d9e35d/index.m3u8?q=9dc60bee687137402159d165253928fb
+#EXTINF:-1 group-title="Фильмовые",FAN HD
+http://ditv.ydns.eu:8888/channel/145aa384/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19640/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Фильмовые",Иллюзион+ HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61052/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n46332c6a/index.m3u8?q=9dc60bee687137402159d165253928fb
+#EXTINF:-1 group-title="Фильмовые",Иллюзион+ 
+http://3.troya.one:34000/ch114/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYMOJUuc7mHObjH4vEVzApfm1tgXuSE6dloq-Njr8Qae
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27947/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/33cf9c14/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19515/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n24eb4433/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",Победа
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36994/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n2299fdc6/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/65/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n7fb8e898/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/127/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/9b1890b/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33619/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n5311fe37/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/68225/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/5341c79d/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36494/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n76451c0a/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",НТВ Право
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35217/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n766252f7/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48332/hlsx/pl.m3u8
+http://188.113.190.15/334/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Киномикс
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42846/hlsx/pl.m3u8
+http://3.troya.one:34000/ch079/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYV7gccBV1wKaJ8pwrMRaFveJTm2FF-eJWdEB8I8aYgX
 #EXTINF:-1 group-title="Фильмовые",Киносемья
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58257/hlsx/pl.m3u8
+http://3.troya.one:34000/ch008/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXO8SiZ747mpIk7JNmzxzptaNsJnmOv0c4CLkeg0id4v
 #EXTINF:-1 group-title="Фильмовые",Кинопремьера 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/600/hlsx/pl.m3u8
+http://3.troya.one:34000/ch054/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwddCW1kxEXhWEtURmYSvD6E34NcnQom9U02QA4WSqtla
 #EXTINF:-1 group-title="Фильмовые",Кинохит
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/28469/hlsx/pl.m3u8
+http://3.troya.one:34000/ch009/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSlpqrhJu6x_kXJAH8jxnt9qc2vR0hb6c73O0T9Ycx9Q
 #EXTINF:-1 group-title="Фильмовые",Киноужас 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/34752/hlsx/pl.m3u8
+http://188.113.190.15/323/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Киносерия
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27639/hlsx/pl.m3u8
+http://188.113.190.15/336/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Киносвидание
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42717/hlsx/pl.m3u8
+http://3.troya.one:34000/ch010/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwdUsAefqoBXfauIr8c0nUj7eaKZH-OMlpfe4XX2BajEo
 #EXTINF:-1 group-title="Фильмовые",Мужское Кино 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45342/hlsx/pl.m3u8
+http://3.troya.one:34000/ch112/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwf6uB05Wzqo7o-s-N5l0rbbviy77JJ3eBV6Kdpbmuanp
 #EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31650/hlsx/pl.m3u8
+http://188.113.190.15/337/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Родное кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64/hlsx/pl.m3u8
+http://3.troya.one:34000/ch116/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUz4CpZ3XnpJTPOPruV9wP81mRbdnbok8hLsPJLUAl7X
 #EXTINF:-1 group-title="Фильмовые",Индийское Кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/84/hlsx/pl.m3u8
+http://3.troya.one:34000/ch461/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwQ3I4gI3QYH-YSxr8YTLxJRi9OuuMkWg3EX0jIp3_Xb0
 #EXTINF:-1 group-title="Фильмовые",Еврокино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27553/hlsx/pl.m3u8
+http://3.troya.one:34000/ch033/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYeDl6txvRUD1QUOncMnPjGoGJukx1xVsbhWLiEsxjQl
 #EXTINF:-1 group-title="Познавательные",Бобёр
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/126/hlsx/pl.m3u8
+http://3.troya.one:34000/ch075/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXmoFYDXa35V3PwBHayarzcJzGg1ELOIBqE2jEnFB_7n
 #EXTINF:-1 group-title="Познавательные",Еда
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/93/hlsx/pl.m3u8
+http://3.troya.one:34000/ch538/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuweqKX1B4Rindwl68M_p9ve0q6Ct1PTsBl2NkHhMLz0Og
 #EXTINF:-1 group-title="Познавательные",FoodTime
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/42090/hlsx/pl.m3u8
+http://3.troya.one:34000/ch454/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwVElR8t6ipJ-L1yR0HvwMJWKHUjGJP-u-QRXFwqdl2ju
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя Планета 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/90/hlsx/pl.m3u8
+http://3.troya.one:34000/ch046/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwa8KFG5v6LiJZvuYpt7gsxLv4VfGENQ168svUmrR54_k
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+http://ditv.ydns.eu:8888/channel/17b213b0/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63941/hlsx/pl.m3u8
+http://3.troya.one:34000/ch011/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUDvP1eSrxTVqNbzHO5NdYv6PI90-pGlChyXhddAC83U
 #EXTINF:-1 group-title="Познавательные",Viju Nature HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61953/hlsx/pl.m3u8
+http://3.troya.one:34000/ch012/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwQgOFg1rioKOLWINjdI3b2NlhVYmx8DcHOBjJwejaYcU
 #EXTINF:-1 group-title="Познавательные",Viju History HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37742/hlsx/pl.m3u8
+http://3.troya.one:34000/ch126/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXl51It76m7dkizXyxGAHpelz1-YSOB3Fvz8TBaDbxQl
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
-
+http://3.troya.one:34000/ch2454/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwe0ht-gQvPDeOpiSSTgCtZ6LriwqOsD7cWCv8Brvn0cA
 #EXTINF:-1 group-title="Познавательные",Телекафе
-
+http://92.242.110.52:9835/udp/238.1.11.31:1234
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
-
+http://ditv.ydns.eu:8888/channel/1543b25c/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",Приключения HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1665/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n1e95f64b/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1658/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Познавательные",Оружие
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/51062/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/7e6e6194/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",Живая Планета
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n5b1b1692/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",Наука HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/50/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Познавательные",Т24
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/82/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Познавательные",Поехали HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/31962/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n9768a1/index.m3u8?q=9dc60bee687137402159d165253928fb
+#EXTINF:-1 group-title="Познавательные",Поехали 
+http://ditv.ydns.eu:8888/channel/23a20d1e/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
@@ -434,31 +428,32 @@ http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Музыка",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/94874/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/697eea5e/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Музыка",Bridge Русский Хит 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/80544/hlsx/pl.m3u8
+http://92.242.110.52:9835/udp/238.1.9.5:1234
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48127/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/458db581/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Музыка",Музыка первого
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/81/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/1e7b730d/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Детские",Ani
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35285/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/18c26611/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Детские",Детский мир 
 http://iptv.iptvin.fun:2134/channel/466cf40a/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
 #EXTINF:-1 group-title="Детские",Карусель
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/29985/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/f0e9232/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Детские",Мульт 
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n1e47bc80/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Детские",КиноМульт
-http://46.8.29.51:2020/channel/6786b5b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+http://ditv.ydns.eu:8888/channel/4f1dae60/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Детские",О!
 http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
 #EXTINF:-1 group-title="Детские",Мультиландия
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/603/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/n5b8d7d0/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Детские",Рыжий
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54383/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/76387/hlsx/pl.m3u8
+http://ditv.ydns.eu:8888/channel/5ec392d/index.m3u8?q=9dc60bee687137402159d165253928fb
+#EXTINF:-1 group-title="Детские",СТС Kids 
+http://ott.server-iptv.live/517/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Детские",Мультимузыка
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11089/hlsx/pl.m3u8
-#EXTINF:-1 group-title="Детские",Уникум HD 
+http://ditv.ydns.eu:8888/channel/24641e36/index.m3u8?q=9dc60bee687137402159d165253928fb
+#EXTINF:-1 group-title="Детские",Уникум 
+http://3.troya.one:34000/ch478/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSIqqFB5IaBqKvjy_Z1IO3sC7lnbUfoNKuZwulqzkbOq
