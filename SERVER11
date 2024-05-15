@@ -358,7 +358,7 @@ http://ditv.ydns.eu:8888/channel/9b1890b/index.m3u8?q=9dc60bee687137402159d16525
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
 http://ditv.ydns.eu:8888/channel/n5311fe37/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
-http://ditv.ydns.eu:8888/channel/5341c79d/index.m3u8?q=9dc60bee687137402159d165253928fb
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://ditv.ydns.eu:8888/channel/n76451c0a/index.m3u8?q=9dc60bee687137402159d165253928fb
 #EXTINF:-1 group-title="Познавательные",НТВ Право
