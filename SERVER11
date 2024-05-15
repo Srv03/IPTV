@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://188.113.190.15:80/172/mono.m3u8
+http://str17.ottg.app/2151/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=519&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -82,7 +82,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/125/hlsx/pl.m3u8
+http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
@@ -92,7 +92,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
-http://ditv.ydns.eu:8888/channel/190b4887/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://ott.server-iptv.live/107/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС +4
@@ -142,7 +142,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://ditv.ydns.eu:8888/channel/1a7a2000/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/1337/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=102&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -160,7 +160,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-
+http://str17.ottg.app/2304/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=595&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -178,7 +178,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
-http://ditv.ydns.eu:8888/channel/587f5b7a/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/3573/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=134&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +4
@@ -308,119 +308,117 @@ http://91.207.115.228:5000/c78
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://91.207.115.228:5000/c77
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
-http://3.troya.one:34000/ch017/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuweu-r5ZDDzlnsd3nBYBw1iBJHGyGGCp1_SCRge0ErHVT
+http://str17.ottg.app/1411/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=242&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
-http://3.troya.one:34000/ch013/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwc1AFxa9e1dGXvQpBmkDtn1e2MEwgH23hzkMrQhp8yaN
+http://str17.ottg.app/1502/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=244&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
-http://3.troya.one:34000/ch018/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXS6kERy1d-n2KoLCbJPlj6NL2XysKli6NFR3JiA2int
+http://str17.ottg.app/9080/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=243&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
-http://3.troya.one:34000/ch058/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwf8KfKx5E7NcrFgfUv-uX8uoRwbXSUzMSrSWgeWXy-3u
+http://str17.ottg.app/2903/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=247&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
-http://3.troya.one:34000/ch059/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwR7LgHraVXM8LNN96K2AqqB_PIdwc5O0cAW1X4wpm-jJ
+http://str17.ottg.app/8448/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=246&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju+ Premiere HD
-http://3.troya.one:34000/ch060/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwbj8oZDGLIFb12uZRErCCPnGUvSQXmZo7SBIsCWBdAtV
+http://str17.ottg.app/8785/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=245&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
-http://3.troya.one:34000/ch701/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwWaVWKagwXqkQvuXDi7KupdvzlZk9QA5f9CwiSKmHkGA
+http://str17.ottg.app/1514/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=248&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
-http://3.troya.one:34000/ch714/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSG94iu68EI9K45bwkw6HCFUa2NHn4J0Q0H2nFMja26K
+http://str17.ottg.app/2159/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=757&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
-http://3.troya.one:34000/ch589/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwajLAdVuZV8_K2AoZL7hXqTYKU4IMZuhstS-EI2VwJtH
+http://str17.ottg.app/5365/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=759&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
-http://3.troya.one:34000/ch072/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwRgQWE1RLiokHQfJSqoEniq2XUqZvfHL8_fZsQXjtpiP
+http://str17.ottg.app/6659/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=230&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
-http://ditv.ydns.eu:8888/channel/n8643dd9/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/7525/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=257&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский детектив
-http://ditv.ydns.eu:8888/channel/n7c44e207/index.m3u8?q=9dc60bee687137402159d165253928fb
-#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион 
-http://3.troya.one:34000/ch101/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYsE6LVkFlXd9qzDhJqOTLvKE13Xp1quwucCR_cd7xZj
+http://str17.ottg.app/6590/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=256&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
+http://str17.ottg.app/9282/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=255&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Cinema 
-http://ditv.ydns.eu:8888/channel/fad612c/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/3510/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1033&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",НСТ
-http://ditv.ydns.eu:8888/channel/n26d9e35d/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://92.242.110.52:9835/udp/238.1.11.29:1234
 #EXTINF:-1 group-title="Фильмовые",FAN HD
-http://ditv.ydns.eu:8888/channel/145aa384/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/2006/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=7069&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
-http://ditv.ydns.eu:8888/channel/n46332c6a/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://92.242.110.52:9835/udp/238.1.11.51:1234
 #EXTINF:-1 group-title="Фильмовые",Иллюзион+ 
-http://3.troya.one:34000/ch114/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYMOJUuc7mHObjH4vEVzApfm1tgXuSE6dloq-Njr8Qae
+http://str17.ottg.app/9804/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=431&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
-http://ditv.ydns.eu:8888/channel/33cf9c14/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://188.113.190.15/221/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
-http://ditv.ydns.eu:8888/channel/n24eb4433/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTk0MDU5OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1MzM1Nzk4LCJzZXNzaW9uX2lkIjoiMzhmM2IzZDE2MDQwMDUzNGE1OGEzMjJjM2I0MzA1Y2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tciv4CF5J6CEYikVC6ltgJUcO8iH_op8aWGnlNK5mu0
 #EXTINF:-1 group-title="Фильмовые",Победа
-http://ditv.ydns.eu:8888/channel/n2299fdc6/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/8934/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=643&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
-http://ditv.ydns.eu:8888/channel/n7fb8e898/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/2851/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=274&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
-http://ditv.ydns.eu:8888/channel/9b1890b/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/6799/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=275&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
-http://ditv.ydns.eu:8888/channel/n5311fe37/index.m3u8?q=9dc60bee687137402159d165253928fb
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 group-title="Фильмовые",НТВ Хит 
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
-http://ditv.ydns.eu:8888/channel/n76451c0a/index.m3u8?q=9dc60bee687137402159d165253928fb
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Познавательные",НТВ Право
-http://ditv.ydns.eu:8888/channel/n766252f7/index.m3u8?q=9dc60bee687137402159d165253928fb
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия
-http://188.113.190.15/334/mono.m3u8
+http://str17.ottg.app/1119/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=234&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киномикс
-http://3.troya.one:34000/ch079/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYV7gccBV1wKaJ8pwrMRaFveJTm2FF-eJWdEB8I8aYgX
+http://str17.ottg.app/7385/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=689&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киносемья
-http://3.troya.one:34000/ch008/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXO8SiZ747mpIk7JNmzxzptaNsJnmOv0c4CLkeg0id4v
+http://str17.ottg.app/9098/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=717&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Кинопремьера 
-http://3.troya.one:34000/ch054/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwddCW1kxEXhWEtURmYSvD6E34NcnQom9U02QA4WSqtla
+http://str17.ottg.app/7998/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=229&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Кинохит
-http://3.troya.one:34000/ch009/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSlpqrhJu6x_kXJAH8jxnt9qc2vR0hb6c73O0T9Ycx9Q
+http://str17.ottg.app/6140/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=716&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киноужас 
-http://188.113.190.15/323/mono.m3u8
+http://str17.ottg.app/1755/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=687&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киносерия
-http://188.113.190.15/336/mono.m3u8
+http://str17.ottg.app/2414/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=715&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киносвидание
-http://3.troya.one:34000/ch010/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwdUsAefqoBXfauIr8c0nUj7eaKZH-OMlpfe4XX2BajEo
+http://str17.ottg.app/5897/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=236&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Мужское Кино 
-http://3.troya.one:34000/ch112/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwf6uB05Wzqo7o-s-N5l0rbbviy77JJ3eBV6Kdpbmuanp
+http://str17.ottg.app/6241/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=652&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
-http://188.113.190.15/337/mono.m3u8
+http://str17.ottg.app/3259/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=239&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Родное кино
-http://3.troya.one:34000/ch116/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUz4CpZ3XnpJTPOPruV9wP81mRbdnbok8hLsPJLUAl7X
+http://str17.ottg.app/7965/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=240&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Индийское Кино
-http://3.troya.one:34000/ch461/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwQ3I4gI3QYH-YSxr8YTLxJRi9OuuMkWg3EX0jIp3_Xb0
-#EXTINF:-1 group-title="Фильмовые",Еврокино
-http://3.troya.one:34000/ch033/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwYeDl6txvRUD1QUOncMnPjGoGJukx1xVsbhWLiEsxjQl
+http://str17.ottg.app/6200/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=241&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Бобёр
 http://3.troya.one:34000/ch075/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXmoFYDXa35V3PwBHayarzcJzGg1ELOIBqE2jEnFB_7n
 #EXTINF:-1 group-title="Познавательные",Еда
-http://3.troya.one:34000/ch538/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuweqKX1B4Rindwl68M_p9ve0q6Ct1PTsBl2NkHhMLz0Og
+http://str17.ottg.app/2048/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=429&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",FoodTime
-http://3.troya.one:34000/ch454/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwVElR8t6ipJ-L1yR0HvwMJWKHUjGJP-u-QRXFwqdl2ju
+http://str17.ottg.app/9940/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=223&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
-http://3.troya.one:34000/ch046/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwa8KFG5v6LiJZvuYpt7gsxLv4VfGENQ168svUmrR54_k
-#EXTINF:-1 group-title="Познавательные",Моя Планета HD
-http://ditv.ydns.eu:8888/channel/17b213b0/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/9708/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=222&req_host=pkjX3BL
+#EXTINF:-1 group-title="Познавательные",Моя Планета 
+http://str17.ottg.app/5359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=208&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
-http://3.troya.one:34000/ch011/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwUDvP1eSrxTVqNbzHO5NdYv6PI90-pGlChyXhddAC83U
+http://str17.ottg.app/3139/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=203&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju Nature HD
 http://3.troya.one:34000/ch012/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwQgOFg1rioKOLWINjdI3b2NlhVYmx8DcHOBjJwejaYcU
 #EXTINF:-1 group-title="Познавательные",Viju History HD
-http://3.troya.one:34000/ch126/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwXl51It76m7dkizXyxGAHpelz1-YSOB3Fvz8TBaDbxQl
+http://str17.ottg.app/4637/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=205&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
 http://3.troya.one:34000/ch2454/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwe0ht-gQvPDeOpiSSTgCtZ6LriwqOsD7cWCv8Brvn0cA
 #EXTINF:-1 group-title="Познавательные",Телекафе
-http://92.242.110.52:9835/udp/238.1.11.31:1234
+http://str17.ottg.app/3719/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=618&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
-http://ditv.ydns.eu:8888/channel/1543b25c/index.m3u8?q=9dc60bee687137402159d165253928fb
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTk0MDU5OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1MzM1Nzk4LCJzZXNzaW9uX2lkIjoiMzhmM2IzZDE2MDQwMDUzNGE1OGEzMjJjM2I0MzA1Y2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tciv4CF5J6CEYikVC6ltgJUcO8iH_op8aWGnlNK5mu0
 #EXTINF:-1 group-title="Познавательные",Приключения HD
-http://ditv.ydns.eu:8888/channel/n1e95f64b/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/3242/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=210&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
-http://ditv.ydns.eu:8888/channel/7e6e6194/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/5955/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=215&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Живая Планета
-http://ditv.ydns.eu:8888/channel/n5b1b1692/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/1313/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=221&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Наука HD
-http://ditv.ydns.eu:8888/channel/n9768a1/index.m3u8?q=9dc60bee687137402159d165253928fb
-#EXTINF:-1 group-title="Познавательные",Поехали 
-http://ditv.ydns.eu:8888/channel/23a20d1e/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/5656/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=677&req_host=pkjX3BL
+#EXTINF:-1 group-title="Познавательные",Поехали HD
+http://str17.ottg.app/9081/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=794&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
@@ -428,32 +426,32 @@ http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Музыка",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
-http://ditv.ydns.eu:8888/channel/697eea5e/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/1774/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=330&req_host=pkjX3BL
 #EXTINF:-1 group-title="Музыка",Bridge Русский Хит 
 http://92.242.110.52:9835/udp/238.1.9.5:1234
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://ditv.ydns.eu:8888/channel/458db581/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/9995/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=335&req_host=pkjX3BL
 #EXTINF:-1 group-title="Музыка",Музыка первого
-http://ditv.ydns.eu:8888/channel/1e7b730d/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://109.239.208.82:80/muz1/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
-http://ditv.ydns.eu:8888/channel/18c26611/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=323&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Детский мир 
 http://iptv.iptvin.fun:2134/channel/466cf40a/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
 #EXTINF:-1 group-title="Детские",Карусель
-http://ditv.ydns.eu:8888/channel/f0e9232/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/7419/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=308&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мульт 
-http://ditv.ydns.eu:8888/channel/n1e47bc80/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",КиноМульт
-http://ditv.ydns.eu:8888/channel/4f1dae60/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://46.8.29.51:2020/channel/6786b5b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Детские",О!
-http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=0a3d8e4799956284528813790e1c35cb
+http://str17.ottg.app/4299/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=320&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мультиландия
-http://ditv.ydns.eu:8888/channel/n5b8d7d0/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/2229/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=634&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Рыжий
-http://ditv.ydns.eu:8888/channel/5ec392d/index.m3u8?q=9dc60bee687137402159d165253928fb
-#EXTINF:-1 group-title="Детские",СТС Kids 
-http://ott.server-iptv.live/517/video.m3u8?token=M4f082ab4c
+http://str17.ottg.app/5672/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=602&req_host=pkjX3BL
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://str17.ottg.app/9954/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=312&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мультимузыка
-http://ditv.ydns.eu:8888/channel/24641e36/index.m3u8?q=9dc60bee687137402159d165253928fb
+http://str17.ottg.app/5321/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=315&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Уникум 
 http://3.troya.one:34000/ch478/mono.m3u8?token=rl_trololo.CK3Y3A1YcfH9NmJz9jOuwSIqqFB5IaBqKvjy_Z1IO3sC7lnbUfoNKuZwulqzkbOq
