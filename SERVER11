@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://5.167.243.203:81/udp/225.0.56.1:1234 
+http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12125
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://5.167.243.203:81/udp/225.0.56.2:1234 
+http://91.207.115.228:5000/c100
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -22,11 +22,11 @@ http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +6
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
-http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8 
+http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
-http://5.167.243.203:81/udp/225.0.56.98:1234 
+http://45.87.147.69:81/udp/239.195.1.168:1234
 #EXTINF:-1 group-title="Каналы (+)",НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +4
@@ -120,7 +120,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://5.167.243.203:81/udp/225.0.56.92:1234 
+http://str17.ottg.app/1337/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=102&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +4
@@ -156,7 +156,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
-http://str27.ottg.cc/3894/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://str17.ottg.app/3573/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=134&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +4
@@ -246,11 +246,11 @@ http://str27.ottg.cc/9118/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
 http://str27.ottg.cc/2307/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",.black
-http://193.201.98.10:5000/c79
+http://ott.watch/stream/4LMG17SVYT/263.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
-http://91.207.115.228:5000/c78
+http://ott.watch/stream/4LMG17SVYT/69.m3u8
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
-http://91.207.115.228:5000/c77
+http://ott.watch/stream/4LMG17SVYT/180.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start Air
 http://5.167.243.203:81/udp/225.0.56.18:1234
 #EXTINF:-1 group-title="Фильмовые",Start World
@@ -286,7 +286,9 @@ http://str17.ottg.app/9282/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Фильмовые",Cinema 
 http://str17.ottg.app/3510/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1033&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",НСТ
-http://5.167.243.203:81/udp/225.0.55.76:1234 
+http://5.167.243.203:81/udp/225.0.55.76:1234
+#EXTINF:-1 group-title="Фильмовые",Телекафе
+http://str17.ottg.app/3719/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=618&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",FAN HD
 http://str17.ottg.app/2006/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=7069&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
@@ -353,8 +355,6 @@ http://5.167.243.203:81/udp/225.0.55.57:1234
 http://str17.ottg.app/4637/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=205&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
 http://str17.ottg.app/8772/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=204&req_host=pkjX3BL
-#EXTINF:-1 group-title="Познавательные",Телекафе
-http://str17.ottg.app/3719/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=618&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
 http://str17.ottg.app/3385/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=702&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Приключения HD
@@ -368,7 +368,7 @@ http://str17.ottg.app/5656/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Познавательные",Поехали HD
 http://str17.ottg.app/9081/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=794&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Лапки Live
-http://91.247.68.229:8000/play/Lapki/index.m3u8
+http://45.87.147.69:81/udp/239.195.1.217:1234
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Музыка",RU TV
