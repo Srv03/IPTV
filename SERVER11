@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12125
+http://31.211.77.158:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://91.207.115.228:5000/c100
+http://178.212.71.253:8002/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -26,7 +26,7 @@ http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
-http://45.87.147.69:81/udp/239.195.1.168:1234
+http://5.153.180.133:8000/play/a041
 #EXTINF:-1 group-title="Каналы (+)",НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",НТВ +4
@@ -245,30 +245,6 @@ http://str27.ottg.cc/8590/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 http://str27.ottg.cc/9118/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",BCU Сваты HD
 http://str27.ottg.cc/2307/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
-#EXTINF:-1 group-title="Кинозалы",Кинозал 1
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal01_FHD
-#EXTINF:-1 group-title="Кинозалы",Кинозал 2
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal02
-#EXTINF:-1 group-title="Кинозалы",Кинозал 3
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal03
-#EXTINF:-1 group-title="Кинозалы",Кинозал 4
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal04
-#EXTINF:-1 group-title="Кинозалы",Кинозал 5
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal05
-#EXTINF:-1 group-title="Кинозалы",Кинозал 6
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal06
-#EXTINF:-1 group-title="Кинозалы",Кинозал 7
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal07
-#EXTINF:-1 group-title="Кинозалы",Кинозал 8
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal08
-#EXTINF:-1 group-title="Кинозалы",Кинозал 9
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal09_FHD
-#EXTINF:-1 group-title="Кинозалы",Кинозал 10
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal10
-#EXTINF:-1 group-title="Кинозалы",Кинозал 11
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal11
-#EXTINF:-1 group-title="Кинозалы",Кинозал 12
-https://rostishkatv.fun/iptv/users/.TESTUSER_Gimrtx/?channel=Tricolor_Zal12
 #EXTINF:-1 group-title="Кинозалы",BOX Franchise HD
 http://str17.ottg.app/3034/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1084&req_host=pkjX3BL
 #EXTINF:-1 group-title="Кинозалы",BOX Hybrid HD
@@ -293,6 +269,8 @@ http://str17.ottg.app/2591/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/5675/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1096&req_host=pkjX3BL
 #EXTINF:-1 group-title="Кинозалы",BOX Western HD
 http://str17.ottg.app/8359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1097&req_host=pkjX3BL
+#EXTINF:-1 group-title="Кинозалы",Clarity4K Travel blog
+https://rostishkatv.fun/iptv/users/.TESTNEWCHANNELS/?channel=Clarity4K_Travelblog
 #EXTINF:-1 group-title="Фильмовые",.black
 http://ott.watch/stream/4LMG17SVYT/263.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -348,7 +326,7 @@ http://5.167.243.203:81/udp/225.0.56.47:1234
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNjU0MjcxNywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1OTM3OTE3LCJzZXNzaW9uX2lkIjoiYWNjOTMxNDNhMWVhYjExZmFjM2NlYjMzMmM4YmM4NTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-j38VRrO0Z-qSqcPz2vAmBbeZOV2HOvyx5DsN7G2odc
 #EXTINF:-1 group-title="Фильмовые",Победа
-http://str17.ottg.app/8934/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=643&req_host=pkjX3BL
+http://str04.tv/2988/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://str17.ottg.app/2851/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=274&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
@@ -416,7 +394,7 @@ http://str17.ottg.app/5656/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Познавательные",Поехали HD
 http://str17.ottg.app/9081/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=794&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Лапки Live
-http://45.87.147.69:81/udp/239.195.1.217:1234
+http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 group-title="Музыка",RU TV
