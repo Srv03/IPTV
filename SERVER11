@@ -127,13 +127,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Музыка",Муз ТВ
+#EXTINF:-1 group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +4
+#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ +7
+#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -147,9 +147,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Детские",Солнце
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце +2
+#EXTINF:-1 group-title="Каналы (+)",Солнце (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце +4
+#EXTINF:-1 group-title="Каналы (+)",Солнце (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
@@ -269,8 +269,36 @@ http://str17.ottg.app/2591/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/5675/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1096&req_host=pkjX3BL
 #EXTINF:-1 group-title="Кинозалы",BOX Western HD
 http://str17.ottg.app/8359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1097&req_host=pkjX3BL
-#EXTINF:-1 group-title="Кинозалы",Clarity4K Travel blog
-https://rostishkatv.fun/iptv/users/.TESTNEWCHANNELS/?channel=Clarity4K_Travelblog
+#EXTINF:-1 group-title="Кинозалы",CineMan
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Top
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Top_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Premium 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Premium_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Action 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Action_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Thriller
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Thriller_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Katastrofy_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Мелодрама
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Melodrama_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Ужасы 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Uzasy_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Комедия 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Comedy_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan VHS 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_VHS_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan РуКино
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_RuKino_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Сваты
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Svaty_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_MentovskieVoiny_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan ПёС + Лихачь
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Pes_FHD
+#EXTINF:-1 group-title="Кинозалы",CineMan Лесник 
+https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Lesnik_FHD
 #EXTINF:-1 group-title="Фильмовые",.black
 http://ott.watch/stream/4LMG17SVYT/263.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -376,7 +404,7 @@ http://str17.ottg.app/5359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
 http://str17.ottg.app/3139/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=203&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju Nature HD
-http://5.167.243.203:81/udp/225.0.55.57:1234
+http://str04.tv/5532/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
 #EXTINF:-1 group-title="Познавательные",Viju History HD
 http://str17.ottg.app/4637/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=205&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
@@ -401,22 +429,22 @@ http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
 http://str17.ottg.app/1774/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=330&req_host=pkjX3BL
-#EXTINF:-1 group-title="Музыка",Bridge Русский Хит 
-http://92.242.110.52:9835/udp/238.1.9.5:1234
+#EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит 
+http://str04.tv/1573/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://str17.ottg.app/9995/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=335&req_host=pkjX3BL
-#EXTINF:-1 group-title="Музыка",Музыка первого
+#EXTINF:-1 group-title="Музыка",Музыка Первого
 http://109.239.208.82:80/muz1/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=323&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Детский мир 
-http://iptv.iptvin.fun:2134/channel/41661217/index.m3u8?q=68dc69072b66b978f322009588248de1
+http://5.153.180.133:8002/play/a0bw
 #EXTINF:-1 group-title="Детские",Карусель
 http://str17.ottg.app/7419/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=308&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мульт 
 http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",КиноМульт
-http://46.8.29.51:2020/channel/6786b5b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+http://de.russkoe-iptv.com:88/s/s-0194f550/kinomult.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://str17.ottg.app/4299/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=320&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мультиландия
