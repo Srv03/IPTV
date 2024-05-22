@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz,http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
@@ -281,7 +281,7 @@ https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Action_FHD
 https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Thriller_FHD
 #EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
 https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Katastrofy_FHD
-#EXTINF:-1 group-title="Кинозалы",CineMan Мелодрама
+#EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
 https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Melodrama_FHD
 #EXTINF:-1 group-title="Кинозалы",CineMan Ужасы 
 https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Uzasy_FHD
@@ -425,12 +425,22 @@ http://str17.ottg.app/9081/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
-#EXTINF:-1 group-title="Музыка",RU TV
+#EXTINF:-1 group-title="Музыка",RU.TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
 http://str17.ottg.app/1774/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=330&req_host=pkjX3BL
+#EXTINF:-1 group-title="Музыка",Bridge TV Classic
+http://5.153.180.133:8000/play/a08i
+#EXTINF:-1 group-title="Музыка",Bridge TV Deluxe
+http://5.153.180.133:8004/play/a00e
+#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+http://str04.tv/8643/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
+#EXTINF:-1 group-title="Музыка",Bridge TV Rock
+http://46.8.29.51:2020/channel/56cd041/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит 
 http://str04.tv/1573/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
+#EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
+http://188.113.190.15/137/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://str17.ottg.app/9995/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=335&req_host=pkjX3BL
 #EXTINF:-1 group-title="Музыка",Музыка Первого
@@ -440,7 +450,7 @@ http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Детские",Детский мир 
 http://5.153.180.133:8002/play/a0bw
 #EXTINF:-1 group-title="Детские",Карусель
-http://str17.ottg.app/7419/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=308&req_host=pkjX3BL
+http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12214
 #EXTINF:-1 group-title="Детские",Мульт 
 http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",КиноМульт
