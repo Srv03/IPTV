@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://178.212.71.253:8002/play/a00w/index.m3u8
+http://31.211.77.158:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -354,7 +354,7 @@ http://5.167.243.203:81/udp/225.0.56.47:1234
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNjU0MjcxNywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1OTM3OTE3LCJzZXNzaW9uX2lkIjoiYWNjOTMxNDNhMWVhYjExZmFjM2NlYjMzMmM4YmM4NTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-j38VRrO0Z-qSqcPz2vAmBbeZOV2HOvyx5DsN7G2odc
 #EXTINF:-1 group-title="Фильмовые",Победа
-http://str04.tv/2988/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://str17.ottg.app/2851/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=274&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
@@ -404,7 +404,7 @@ http://str17.ottg.app/5359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
 http://str17.ottg.app/3139/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=203&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju Nature HD
-http://str04.tv/5532/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
+http://str27.ottg.cc/5532/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",Viju History HD
 http://str17.ottg.app/4637/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=205&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
@@ -434,11 +434,11 @@ http://5.153.180.133:8000/play/a08i
 #EXTINF:-1 group-title="Музыка",Bridge TV Deluxe
 http://5.153.180.133:8004/play/a00e
 #EXTINF:-1 group-title="Музыка",Bridge TV Hits
-http://str04.tv/8643/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
+http://str27.ottg.cc/3704/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Музыка",Bridge TV Rock
 http://46.8.29.51:2020/channel/56cd041/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит 
-http://str04.tv/1573/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
+http://str27.ottg.cc/5747/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
 http://188.113.190.15/137/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
