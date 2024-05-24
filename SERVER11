@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://185.134.36.81:4022/udp/234.0.0.172:2000
+http://31.211.77.158:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -138,7 +138,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-http://str17.ottg.app/2304/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=595&req_host=pkjX3BL
+http://str27.ottg.cc/2304/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -328,7 +328,7 @@ http://str17.ottg.app/1514/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
 http://str17.ottg.app/2159/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=757&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
-http://str17.ottg.app/5365/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=759&req_host=pkjX3BL
+http://str27.ottg.cc/5365/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://str17.ottg.app/6659/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=230&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
@@ -354,7 +354,7 @@ http://5.167.243.203:81/udp/225.0.56.47:1234
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNjU0MjcxNywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1OTM3OTE3LCJzZXNzaW9uX2lkIjoiYWNjOTMxNDNhMWVhYjExZmFjM2NlYjMzMmM4YmM4NTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-j38VRrO0Z-qSqcPz2vAmBbeZOV2HOvyx5DsN7G2odc
 #EXTINF:-1 group-title="Фильмовые",Победа
-http://188.113.190.15/85/tracks-v1a1/index.m3u8
+http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNjU0MjcxNywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1OTM3OTE3LCJzZXNzaW9uX2lkIjoiYWNjOTMxNDNhMWVhYjExZmFjM2NlYjMzMmM4YmM4NTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-j38VRrO0Z-qSqcPz2vAmBbeZOV2HOvyx5DsN7G2odc
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://str17.ottg.app/2851/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=274&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
@@ -453,8 +453,6 @@ http://5.153.180.133:8002/play/a0bw
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12214
 #EXTINF:-1 group-title="Детские",Мульт 
 http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
-#EXTINF:-1 group-title="Детские",КиноМульт
-https://srv-01.ism-media:8000/hls/ch_kinomult_sd?video.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://str17.ottg.app/4299/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=320&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мультиландия
