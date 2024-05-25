@@ -138,7 +138,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-http://str27.ottg.cc/2304/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://ott.watch/stream/WA7KUVATXV/106.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -156,7 +156,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота HD
-http://str17.ottg.app/3573/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=134&req_host=pkjX3BL
+http://ott.watch/stream/J7619PVV2N/269.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Суббота +4
@@ -450,7 +450,7 @@ http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Детские",Детский мир 
 http://5.153.180.133:8002/play/a0bw
 #EXTINF:-1 group-title="Детские",Карусель
-http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12214
+http://str27.ottg.cc/2209/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Детские",Мульт 
 http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",О!
