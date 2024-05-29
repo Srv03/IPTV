@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://31.211.77.158:8000/play/a065/index.m3u8
+http://81.23.189.75:4022/udp/234.0.0.172:2000
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -23,6 +23,30 @@ http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! HD
+https://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10000_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id526_MSKSG-PVR-1--Match_Arena_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+http://stream-msk-12.ott.tricolor.tv/dtv/id528_MSKSG-PVR-1--Match_Boec/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
+http://stream-msk-07.ott.tricolor.tv/dtv/id527_MSKSG-PVR-1--Match_Igra_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+#EXTINF:-1 group-title="Спортивные",Матч! Страна 
+http://91.207.114.209:5000/c106
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Планета
+http://91.207.114.209:5000/c156
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id534_MSKSG-PVR-1--Match_Futbol1_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxNzIwMTI5MywiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2NDkzLCJzZXNzaW9uX2lkIjoiOGFmZThkOGNiYjZiN2FiMzNjZjZmMWJjNDVjNjI1ZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JVBmNhdeCI_s-puPFSgcNYe0SSMTwuE4FgZJT9tDnGU
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+https://stream-msk-13.ott.tricolor.tv/dtv/id535_MSKSG-PVR-1--Match_Futbol2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxNzIwMTI5MywiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2NDkzLCJzZXNzaW9uX2lkIjoiOGFmZThkOGNiYjZiN2FiMzNjZjZmMWJjNDVjNjI1ZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JVBmNhdeCI_s-puPFSgcNYe0SSMTwuE4FgZJT9tDnGU
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id536_MSKSG-PVR-1--Match_Futbol3_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxNzIwMTI5MywiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2NDkzLCJzZXNzaW9uX2lkIjoiOGFmZThkOGNiYjZiN2FiMzNjZjZmMWJjNDVjNjI1ZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JVBmNhdeCI_s-puPFSgcNYe0SSMTwuE4FgZJT9tDnGU
+#EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
+http://str17.ottg.app/1072/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=293&req_host=pkjX3BL
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
@@ -54,7 +78,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360 Новости
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="Новости",Дума ТВ
-https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+http://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
@@ -315,6 +339,14 @@ https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_MentovskieVo
 https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Pes_FHD
 #EXTINF:-1 group-title="Кинозалы",CineMan Лесник 
 https://rostishkatv.fun/iptv/users/SPASIBO_ZA_TEST/?channel=CineMan_Lesnik_FHD
+#EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
+http://ott.watch/stream/WA7KUVATXV/117.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia 2 
+http://91.207.115.228:5000/c56
+#EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
+http://ott.watch/stream/8G5IUH36S2/162.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
+http://91.207.115.228:5000/c58
 #EXTINF:-1 group-title="Фильмовые",.black
 http://ott.watch/stream/4LMG17SVYT/263.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
