@@ -23,10 +23,12 @@ http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
+http://stream01.vnet.am/BoksTv/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! HD
-https://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10000_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+http://188.113.190.15/167/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id526_MSKSG-PVR-1--Match_Arena_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
@@ -47,6 +49,10 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id535_MSKSG-PVR-1--Match_Futbol2_HD/02
 https://stream-msk-13.ott.tricolor.tv:443/dtv/id536_MSKSG-PVR-1--Match_Futbol3_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxNzIwMTI5MywiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2NDkzLCJzZXNzaW9uX2lkIjoiOGFmZThkOGNiYjZiN2FiMzNjZjZmMWJjNDVjNjI1ZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JVBmNhdeCI_s-puPFSgcNYe0SSMTwuE4FgZJT9tDnGU
 #EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
 http://str17.ottg.app/1072/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=293&req_host=pkjX3BL
+#EXTINF:-1 group-title="Спортивные",Мир баскетбола
+http://5.153.180.133:8000/play/a03m
+#EXTINF:-1 group-title="Спортивные",Старт
+http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
@@ -354,9 +360,9 @@ http://ott.watch/stream/4LMG17SVYT/69.m3u8
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://ott.watch/stream/4LMG17SVYT/180.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start Air
-http://5.167.243.203:81/udp/225.0.56.18:1234
+http://188.113.190.15/139/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start World
-http://5.167.243.203:81/udp/225.0.56.66:1234 
+http://188.113.190.15/111/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://str17.ottg.app/1411/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=242&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
@@ -398,7 +404,7 @@ http://ott.watch/stream/J7619PVV2N/369.m3u8
 #EXTINF:-1 group-title="Фильмовые",Иллюзион+ 
 http://str17.ottg.app/9804/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=431&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
-http://5.167.243.203:81/udp/225.0.56.47:1234 
+http://188.113.190.15/221/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNjU0MjcxNywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE1OTM3OTE3LCJzZXNzaW9uX2lkIjoiYWNjOTMxNDNhMWVhYjExZmFjM2NlYjMzMmM4YmM4NTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-j38VRrO0Z-qSqcPz2vAmBbeZOV2HOvyx5DsN7G2odc
 #EXTINF:-1 group-title="Фильмовые",Победа
@@ -492,7 +498,7 @@ http://188.113.190.15/137/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://str17.ottg.app/9995/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=335&req_host=pkjX3BL
 #EXTINF:-1 group-title="Музыка",Музыка Первого
-http://109.239.208.82:80/muz1/index.m3u8
+http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=323&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Детский мир 
@@ -502,7 +508,7 @@ http://str27.ottg.cc/2209/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Детские",Мульт 
 http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Киномульт
-http://158.101.214.187:8080/channel/6786b5b0/index.m3u8?q=443d5edac354972a97f67425879f54e1
+http://46.8.29.51:2020/channel/6786b5b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Детские",О!
 http://str17.ottg.app/4299/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=320&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Мультиландия
