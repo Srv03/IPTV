@@ -504,7 +504,7 @@ http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Детские",Детский мир 
 http://5.153.180.133:8002/play/a0bw
 #EXTINF:-1 group-title="Детские",Карусель
-http://str27.ottg.cc/2209/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://str17.ottg.app/2209/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Детские",Мульт 
 http://str17.ottg.app/7952/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=305&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Киномульт
