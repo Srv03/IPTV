@@ -30,11 +30,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! HD
 http://188.113.190.15/167/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
-http://158.101.214.187:8080/channel/n4237a3a1/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://91.207.114.209:5000/c103
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://158.101.214.187:8080/channel/44fabd9/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://5.153.180.133:8000/play/a039
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
-http://158.101.214.187:8080/channel/1386ecf6/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://91.207.115.228:5000/c104
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
 http://91.207.114.209:5000/c106
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
@@ -42,11 +42,11 @@ http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://91.207.114.209:5000/c156
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://158.101.214.187:8080/channel/cfd80fb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://193.201.98.10:5000/c114
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://158.101.214.187:8080/channel/cfdf55a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://91.207.114.209:5000/c115
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-http://158.101.214.187:8080/channel/cfe69b9/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://91.207.114.209:5000/c116
 #EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
 http://str17.ottg.app/1072/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=293&req_host=pkjX3BL
 #EXTINF:-1 group-title="Спортивные",Мир баскетбола
