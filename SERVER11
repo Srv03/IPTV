@@ -30,11 +30,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! HD
 http://188.113.190.15/167/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
-http://ua.1usd.tv:34000/ch055/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdclxTo0Fi57bjgBikw8gw0xEtigDzxlekkD5T_7HpwHT
+http://158.101.214.187:8080/channel/n4237a3a1/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://ua.1usd.tv:34000/ch036/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdckTvnFspz_vaHq2nxkJX_RjP5gdN7pnyK-zY5-kZkxg
+http://158.101.214.187:8080/channel/44fabd9/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
-http://ua.1usd.tv:34000/ch056/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdTq-OuSauS_zWcKQAt4m0Imb85jLfaQttURuPEUJ8KAw
+http://158.101.214.187:8080/channel/1386ecf6/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
 http://91.207.114.209:5000/c106
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
@@ -42,11 +42,11 @@ http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://91.207.114.209:5000/c156
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://ua.1usd.tv:34000/ch061/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdUnI5N-V9Ktb0XH8_qQ2X1XwTBnCIloweIb91b6HaXY3
+http://158.101.214.187:8080/channel/cfd80fb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://ua.1usd.tv:34000/ch062/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdSVKl1dzMsNlsE0PGqV0o52hWPM5aVD_se0i8W5fPcwO
+http://158.101.214.187:8080/channel/cfdf55a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-http://ua.1usd.tv:34000/ch063/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdQjTbbAzFfdaVs7vcV_isHnjlLfbAQ1FeEvRZ1QttdjT
+http://158.101.214.187:8080/channel/cfe69b9/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
 http://str17.ottg.app/1072/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=293&req_host=pkjX3BL
 #EXTINF:-1 group-title="Спортивные",Мир баскетбола
@@ -316,43 +316,39 @@ http://str17.ottg.app/5675/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Кинозалы",BOX Western HD
 http://str17.ottg.app/8359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1097&req_host=pkjX3BL
 #EXTINF:-1 group-title="Кинозалы",CineMan
-http://ua.1usd.tv:34000/ch1030/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdZmC6V7iReeMzFmEXMOROw9Y9YBWErwbsWwdWbfa-Hcq
+http://158.101.194.132:8888/channel/n77f8ecf2/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Premium
-http://ua.1usd.tv:34000/ch2142/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdYMfEQ4kamZMgqy64BWvmjl2NFKPIdxHk1padJFF5IG1
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/20112/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Top
-http://ua.1usd.tv:34000/ch1031/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdX0FLxVxwRakqxxDS45XRMVjw0bvMoSUxdRcj0D0XyWg
+http://158.101.194.132:8888/channel/501660d9/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Action
-http://ua.1usd.tv:34000/ch1032/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdbxnCD9ZKf0hTFW0qfdzEO_ZsW-M3sRapjdJYqNXBatw
+http://158.101.194.132:8888/channel/4ef1ccb4/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Thriller
-http://ua.1usd.tv:34000/ch1033/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdUOoJwN2vSpJhSJYi37rTDmU0FYr3DQbx07nIDvb5P4C
+http://158.101.194.132:8888/channel/655397d2/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
-http://ua.1usd.tv:34000/ch1074/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdR2fXAci3HGMG0yITfCUHu1cj528RN4AUupbYJTWLi1d
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/15106/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
-http://ua.1usd.tv:34000/ch1034/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdZoQnJDESjDFpcMSmIR29SGhkRAHd9Ipf7VFARPmcidm
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/11008/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Marvel
-http://ua.1usd.tv:34000/ch1035/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdekwPBpm42nUfySc-W-JSrS8GJySahAyZpTBbWWqqmHH
+http://158.101.194.132:8888/channel/1e395ccb/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
-http://ua.1usd.tv:34000/ch1036/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdQ4E1ZdhzasDzgcvu1GtUV6VJdlWZxXbBKtSS_2BXUa7
+http://158.101.194.132:8888/channel/n458cfeb9/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Комедия
-http://ua.1usd.tv:34000/ch1037/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdTEP3_4ctFDy6Bl0cDiBIrEphBVV1plWoNEGVjA9Wnrs
+http://158.101.194.132:8888/channel/n23ac3e8f/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan VHS
-http://ua.1usd.tv:34000/ch1038/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdUS6G_4g8ScKp6RxCGeSdUUWqcsIKRcw0nVY3bV0ivnk
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/11012/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
-http://ua.1usd.tv:34000/ch1039/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdQkfVDcrjbcyz15K79ON5LouSs0Nevb3Krmff5CPkJRu
+http://158.101.194.132:8888/channel/n7c7c5298/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Сваты
-http://ua.1usd.tv:34000/ch1040/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdazOE1YXyjkt6SfykovBTXYs6P9n5ZiZklxkkMKMd8t2
+http://158.101.194.132:8888/channel/1725d206/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
-http://ua.1usd.tv:34000/ch1325/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdcVIRSqDDxUbsfg3buYfT8PRtv8G-MItYFdBG3xbtBc6
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/16063/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan ПёС + Лихачь
-http://ua.1usd.tv:34000/ch1326/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdYH9ijS3KJW4t8IzWHoYcz3xM-E6qInYDHS-4NkSHMUt
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/16064/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Лесник
-http://ua.1usd.tv:34000/ch1327/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdeF70d6GyiqE3hgO1T98qlF99jzSha4IyQRpOvUnrmGm
-#EXTINF:-1 group-title="Кинозалы",CineMan Скорая помощь
-http://ua.1usd.tv:34000/ch1622/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdWybG_XuehDJOIsmYeklCQxdf4nNuiZygCj7s2uF1yu_
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/16065/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Miniseries
-http://ua.1usd.tv:34000/ch2067/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdXMNoM_PRbPeIXCcLqrrMbvARCYjNQjFGaR6NQ-RvVnt
-#EXTINF:-1 group-title="Кинозалы",CineMan Глухарь + Карпов
-http://ua.1usd.tv:34000/ch2748/mono.m3u8?token=1usdtv_jame.ytCFbvO8mulFiWXXU7_YdVOG5OV_javqf9z36fm-2Ts43o2E29bjJx9oh8h3C7wL
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/19437/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
 http://ott.watch/stream/WA7KUVATXV/117.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2 
@@ -389,8 +385,12 @@ http://str17.ottg.app/8785/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/1514/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=248&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
 http://str17.ottg.app/2159/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=757&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Наше HD
+http://str27.ottg.cc/6359/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
 http://str27.ottg.cc/5365/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Фильмовые",Криминальное HD
+http://str27.ottg.cc/8675/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://str17.ottg.app/6659/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=230&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
