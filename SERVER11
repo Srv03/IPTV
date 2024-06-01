@@ -159,6 +159,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыка",Муз-ТВ HD
+https://salam-ekb-55.rutube.ru/dive/river-5-516.rutube.ru/1xUlninDBQmWzJznc4-I8A/stream/genetta-312.m9.rutube.ru/nX2bbnzXZwmgTmagftRqnA/1717860055/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
@@ -349,6 +351,30 @@ http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/16064/index.m3u8
 http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/16065/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan Miniseries
 http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/19437/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Liberty DC HD
+http://str27.ottg.cc/3021/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Короткометражный HD
+http://str27.ottg.cc/7449/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Мелодрамы HD
+http://str27.ottg.cc/5629/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Боевики HD
+http://str27.ottg.cc/4628/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Сваты HD
+http://str27.ottg.cc/7963/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Комедии HD
+http://str27.ottg.cc/2056/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Сериалы HD
+http://str27.ottg.cc/9268/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty МиксMusic HD
+http://str27.ottg.cc/7283/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Бебимульт HD
+http://str27.ottg.cc/5126/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Шоу HD
+http://str27.ottg.cc/8558/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Автогир HD
+http://str27.ottg.cc/3001/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Кинозалы",Liberty Наука HD
+http://str27.ottg.cc/1193/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
 http://ott.watch/stream/WA7KUVATXV/117.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2 
@@ -383,6 +409,8 @@ http://str17.ottg.app/8448/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/8785/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=245&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
 http://str17.ottg.app/1514/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=248&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Еврокино HD
+http://str27.ottg.cc/5240/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
 http://str17.ottg.app/2159/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=757&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Наше HD
@@ -399,6 +427,8 @@ http://str17.ottg.app/7525/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/6590/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=256&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
 http://str17.ottg.app/9282/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=255&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Русская комедия
+http://str17.ottg.app/4167/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=258&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Cinema 
 http://str17.ottg.app/3510/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1033&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",НСТ
@@ -453,6 +483,10 @@ http://str17.ottg.app/3259/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/7965/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=240&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Индийское Кино
 http://str17.ottg.app/6200/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=241&req_host=pkjX3BL
+#EXTINF:-1 group-title="Познавательные",Авто 24 HD
+http://str27.ottg.cc/8624/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Познавательные",Авто Плюс HD
+http://str27.ottg.cc/2339/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",Бобёр
 http://str17.ottg.app/5063/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=422&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Еда
@@ -503,10 +537,14 @@ http://188.113.190.15/75/mono.m3u8
 http://str27.ottg.cc/5747/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
 http://188.113.190.15/137/mono.m3u8
+#EXTINF:-1 group-title="Музыка",Baby Time
+http://188.113.190.15/178/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://str17.ottg.app/9995/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=335&req_host=pkjX3BL
 #EXTINF:-1 group-title="Музыка",Музыка Первого
-http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8
+http://188.113.190.15/109/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка",Жара HD
+http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=323&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Детский мир 
