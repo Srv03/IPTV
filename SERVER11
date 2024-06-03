@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://91.207.115.228:5000/c99
+http://194.28.153.157:81/udp/225.0.56.1:1234
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -14,7 +14,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
-http://91.207.115.228:5000/c100
+http://188.113.190.15/172/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
@@ -30,23 +30,23 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! HD
 http://188.113.190.15/167/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
-http://91.207.114.209:5000/c103
+http://str27.ottg.cc/3226/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
 http://5.153.180.133:8000/play/a039
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
-http://91.207.115.228:5000/c104
+http://5.153.180.133:8000/play/a03a
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
-http://91.207.114.209:5000/c106
+http://5.153.180.133:8000/play/a03d
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
-http://91.207.114.209:5000/c156
+http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://91.207.115.228:5000/c114
+http://5.153.180.133:8000/play/a03f
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://91.207.114.209:5000/c115
+http://5.153.180.133:8000/play/a03h
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-http://91.207.114.209:5000/c116
+http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12202
 #EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
 http://str17.ottg.app/1072/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=293&req_host=pkjX3BL
 #EXTINF:-1 group-title="Спортивные",Мир баскетбола
@@ -378,11 +378,11 @@ http://str27.ottg.cc/1193/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
 http://ott.watch/stream/WA7KUVATXV/117.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2 
-http://91.207.115.228:5000/c56
+http://188.113.190.15/134/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
 http://ott.watch/stream/8G5IUH36S2/162.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
-http://91.207.115.228:5000/c58
+http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.black
 http://ott.watch/stream/4LMG17SVYT/263.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red
@@ -492,7 +492,7 @@ http://str17.ottg.app/5063/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Познавательные",Еда
 http://str17.ottg.app/2048/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=429&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",FoodTime
-http://str17.ottg.app/9940/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=223&req_host=pkjX3BL
+http://31.211.77.158:8000/play/a193/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://str17.ottg.app/9708/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=222&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Моя Планета 
