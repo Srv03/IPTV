@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://194.28.153.157:81/udp/225.0.56.1:1234
+http://178.163.96.228:4022/udp/234.0.0.172:2000
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -521,36 +521,6 @@ http://str17.ottg.app/9081/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun87-1.userapi.com/impg/RCwNKY4s9w4GRJYIa1NBMLlLTlCPoZYnB3hDKg/spTfxDkQ5oo.jpg?size=2000x1576&quality=95&sign=e5a7d26f0dde5522d11f750b9172f8fc&type=album", Авторадио
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_avto_tz_0
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun87-1.userapi.com/impg/RCwNKY4s9w4GRJYIa1NBMLlLTlCPoZYnB3hDKg/spTfxDkQ5oo.jpg?size=2000x1576&quality=95&sign=e5a7d26f0dde5522d11f750b9172f8fc&type=album", Авторадио +2
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_avto_tz_2
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun87-1.userapi.com/impg/RCwNKY4s9w4GRJYIa1NBMLlLTlCPoZYnB3hDKg/spTfxDkQ5oo.jpg?size=2000x1576&quality=95&sign=e5a7d26f0dde5522d11f750b9172f8fc&type=album", Авторадио +4
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_avto_tz_4
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun87-1.userapi.com/impg/RCwNKY4s9w4GRJYIa1NBMLlLTlCPoZYnB3hDKg/spTfxDkQ5oo.jpg?size=2000x1576&quality=95&sign=e5a7d26f0dde5522d11f750b9172f8fc&type=album", Авторадио +7
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_avto_tz_7
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-44.userapi.com/impg/Jm3sAtjSA1M3-lW7FgSEkD_vlxFijuX72X4tVw/HNgrTSXdvpo.jpg?size=1606x1436&quality=95&sign=5fd3646b48bf536b68495998441830f0&type=album",Юмор FM 
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_humor_tz_0
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-44.userapi.com/impg/Jm3sAtjSA1M3-lW7FgSEkD_vlxFijuX72X4tVw/HNgrTSXdvpo.jpg?size=1606x1436&quality=95&sign=5fd3646b48bf536b68495998441830f0&type=album",Юмор FM +2
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_humor_tz_2
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-44.userapi.com/impg/Jm3sAtjSA1M3-lW7FgSEkD_vlxFijuX72X4tVw/HNgrTSXdvpo.jpg?size=1606x1436&quality=95&sign=5fd3646b48bf536b68495998441830f0&type=album",Юмор FM +4
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_humor_tz_4
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-80.userapi.com/impg/Wctw9t-HrVOd4RXK71OwvKWtTq-k0znAAARTkg/paibRqbqspY.jpg?size=640x640&quality=95&sign=ae64ec585cfdcc1a929da2d2325e88da&type=album",Energy FM
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_energy_tz_0
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-80.userapi.com/impg/Wctw9t-HrVOd4RXK71OwvKWtTq-k0znAAARTkg/paibRqbqspY.jpg?size=640x640&quality=95&sign=ae64ec585cfdcc1a929da2d2325e88da&type=album",Energy FM +2
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_energy_tz_2
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-80.userapi.com/impg/Wctw9t-HrVOd4RXK71OwvKWtTq-k0znAAARTkg/paibRqbqspY.jpg?size=640x640&quality=95&sign=ae64ec585cfdcc1a929da2d2325e88da&type=album",Energy FM +4
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_energy_tz_4
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-22.userapi.com/impg/v9ZuyTGjbi9Xi0T4QqJsKjI1q1LZmzuoIV4QgQ/Uq0umZqX40w.jpg?size=1000x1000&quality=95&sign=be2b23a6c82a6906c8d5f46a800d31e8&type=album",Comedy Radio
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_comedy_tz_0
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-22.userapi.com/impg/v9ZuyTGjbi9Xi0T4QqJsKjI1q1LZmzuoIV4QgQ/Uq0umZqX40w.jpg?size=1000x1000&quality=95&sign=be2b23a6c82a6906c8d5f46a800d31e8&type=album",Comedy Radio +2
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_comedy_tz_2
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-22.userapi.com/impg/v9ZuyTGjbi9Xi0T4QqJsKjI1q1LZmzuoIV4QgQ/Uq0umZqX40w.jpg?size=1000x1000&quality=95&sign=be2b23a6c82a6906c8d5f46a800d31e8&type=album",Comedy Radio +4
-https://srv01.gpmradio.ru:8443/stream/reg/aac/64/region_comedy_tz_4
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun87-1.userapi.com/impf/c639229/v639229740/4ced/b0d-nnPPFhw.jpg?size=400x400&quality=96&sign=da69100386a2dcb29c5f69d90c0877a2&type=album",Европа Плюс
-http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun87-1.userapi.com/impf/c639229/v639229740/4ced/b0d-nnPPFhw.jpg?size=400x400&quality=96&sign=da69100386a2dcb29c5f69d90c0877a2&type=album",Европа Плюс +2
-http://online-1.gkvr.ru:8000/ep2.aac 
 #EXTINF:-1 group-title="Музыка",RU.TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
