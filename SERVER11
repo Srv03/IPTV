@@ -38,7 +38,7 @@ http://5.153.180.133:8000/play/a03a
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
 http://5.153.180.133:8000/play/a03d
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
-http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+http://5.153.180.133:8000/play/a033
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
