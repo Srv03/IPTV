@@ -389,6 +389,8 @@ http://ott.watch/stream/4LMG17SVYT/263.m3u8
 http://ott.watch/stream/4LMG17SVYT/69.m3u8
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://ott.watch/stream/4LMG17SVYT/180.m3u8
+#EXTINF:-1 group-title="Фильмовые",KION Хит
+http://47d86e30.edmonst.net/iptv/NRZVSN7WGR2LW3/20211/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start Air
 http://188.113.190.15/139/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start World
@@ -417,10 +419,16 @@ http://str17.ottg.app/2159/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str27.ottg.cc/6359/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
 http://str27.ottg.cc/5365/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Фильмовые",Комедийное HD
+http://tinyurl.com/4ysx26zu/uPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yOTo4ODg3LzgzMjMvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjIzNjY2NjgzIiwicCI6IjIzNjY2NjgzYjg2OTVmODgiLCJjIjoiNzQ1IiwidCI6IjJhZTM4YjlmOGFmODQyNjNjMTI2YWFiZTc0MzI0Yzg4IiwiZCI6IjIxNzY0IiwiciI6IjIxNzAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzQ1LjkzLjQ2LjI3Ojg4ODcvODMyMy92aWRlby5tM3U4P3Rva2V/video.m3u8?
 #EXTINF:-1 group-title="Фильмовые",Криминальное HD
 http://str27.ottg.cc/8675/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://str17.ottg.app/6659/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=230&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Премиальное HD
+http://str17.ottg.app/4505/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=231&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Романтичное HD
+http://str27.ottg.cc/7262/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
 http://str17.ottg.app/7525/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=257&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Русский детектив
@@ -431,6 +439,8 @@ http://str17.ottg.app/9282/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str17.ottg.app/4167/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=258&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Cinema 
 http://str17.ottg.app/3510/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1033&req_host=pkjX3BL
+#EXTINF:-1 group-title="Фильмовые",Советская киноклассика
+http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Фильмовые",НСТ
 http://ott.watch/stream/J7619PVV2N/207.m3u8
 #EXTINF:-1 group-title="Фильмовые",Телекафе
