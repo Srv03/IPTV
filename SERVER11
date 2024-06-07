@@ -160,7 +160,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ HD
-https://salam-ekb-55.rutube.ru/dive/river-5-516.rutube.ru/1xUlninDBQmWzJznc4-I8A/stream/genetta-312.m9.rutube.ru/nX2bbnzXZwmgTmagftRqnA/1717860055/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+https://salam-ekb-55.rutube.ru/dive/river-5-516.rutube.ru/_cSaAkFvphph4vsAC_b81w/stream/genetta-312.m9.rutube.ru/Km9p-Kv879MsEk7rk-yU7g/1718348986/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
@@ -390,11 +390,11 @@ http://ott.watch/stream/4LMG17SVYT/69.m3u8
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://ott.watch/stream/4LMG17SVYT/180.m3u8
 #EXTINF:-1 group-title="Фильмовые",KION Хит
-http://47d86e30.edmonst.net/iptv/NRZVSN7WGR2LW3/20211/index.m3u8
+http://tinyurl.com/TvZaTak/0240/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Фильмовые",Start Air
-http://188.113.190.15/139/tracks-v1a1/index.m3u8
+http://tinyurl.com/TvZaTak/0274/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Фильмовые",Start World
-http://188.113.190.15/111/mono.m3u8
+http://tinyurl.com/TvZaTak/0275/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
 http://str17.ottg.app/1411/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=242&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
