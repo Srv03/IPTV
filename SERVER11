@@ -32,19 +32,19 @@ http://188.113.190.15/167/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
 http://str27.ottg.cc/3226/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://5.153.180.133:8000/play/a039
+http://bigline.club:8080/Allgood/m7LkpXsgqbEN/14719
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
 http://5.153.180.133:8000/play/a03a
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
 http://5.153.180.133:8000/play/a03d
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
-http://5.153.180.133:8000/play/a033
+http://bigline.club:8080/Allgood/m7LkpXsgqbEN/22012
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://5.153.180.133:8000/play/a03f
+http://tinyurl.com/TvZaTak/0462/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://5.153.180.133:8000/play/a03h
+http://92.242.110.52:9835/udp/238.1.2.5:1234
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12202
 #EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
@@ -53,6 +53,10 @@ http://str17.ottg.app/1072/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://5.153.180.133:8000/play/a03m
 #EXTINF:-1 group-title="Спортивные",Старт
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",KHL 
+http://tinyurl.com/TvZaTak/0470/video.m3u8?token=6010965E59DF
+#EXTINF:-1 group-title="Спортивные",KHL Prime 
+http://tinyurl.com/TvZaTak/0472/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
@@ -87,6 +91,14 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="Новости",РБК 
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+http://tinyurl.com/TvZaTak/0022/video.m3u8?token=6010965E59DF
+#EXTINF:-1 group-title="Каналы (+)",ТВ Центр +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Каналы (+)",ТВ Центр +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Каналы (+)",ТВ Центр +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
@@ -377,8 +389,8 @@ http://str27.ottg.cc/3001/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 http://str27.ottg.cc/1193/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
 http://ott.watch/stream/WA7KUVATXV/117.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia 2 
-http://188.113.190.15/134/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
+http://tinyurl.com/TvZaTak/0174/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
 http://ott.watch/stream/8G5IUH36S2/162.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
@@ -497,14 +509,22 @@ http://str17.ottg.app/6200/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str27.ottg.cc/8624/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",Авто Плюс HD
 http://str27.ottg.cc/2339/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Познавательные",Арсенал HD
+http://str27.ottg.cc/2273/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",Бобёр
 http://str17.ottg.app/5063/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=422&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Еда
 http://str17.ottg.app/2048/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=429&req_host=pkjX3BL
+#EXTINF:-1 group-title="Познавательные",Дикая охота HD
+http://str27.ottg.cc/9212/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+http://str27.ottg.cc/9250/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",FoodTime
 http://31.211.77.158:8000/play/a193/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://str17.ottg.app/9708/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=222&req_host=pkjX3BL
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://tinyurl.com/TvZaTak/0763/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
 http://188.113.190.15/219/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
@@ -551,6 +571,8 @@ http://188.113.190.15/137/mono.m3u8
 http://188.113.190.15/178/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://str17.ottg.app/9995/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=335&req_host=pkjX3BL
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://str27.ottg.cc/4885/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Музыка",Музыка Первого
 http://188.113.190.15/109/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",Жара HD
