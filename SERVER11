@@ -172,7 +172,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ HD
-https://salam-ekb-55.rutube.ru/dive/river-5-516.rutube.ru/_cSaAkFvphph4vsAC_b81w/stream/genetta-312.m9.rutube.ru/Km9p-Kv879MsEk7rk-yU7g/1718348986/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+https://salam-ekb-1054.rutube.ru/dive/river-5-516.rutube.ru/rgzI0d-dPK2emrr0hTi5jg/stream/genetta-312.m9.rutube.ru/H8kAY8R6RFYeJnpyJX4okA/1718868294/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
@@ -352,7 +352,7 @@ http://158.101.194.132:8888/channel/n23ac3e8f/index.m3u8?q=e97d5e5700840fb25c877
 #EXTINF:-1 group-title="Кинозалы",CineMan VHS
 http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/11012/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
-http://158.101.194.132:8888/channel/n7c7c5298/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
+http://ru2.troya.one:34000/ch1039/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDqxjvtGeQmm-a90354RP0DnFzSbavxdTnvNOByitKAQR
 #EXTINF:-1 group-title="Кинозалы",CineMan Сваты
 http://158.101.194.132:8888/channel/1725d206/index.m3u8?q=e97d5e5700840fb25c877ebd6f8590db
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
@@ -382,7 +382,7 @@ http://str27.ottg.cc/7283/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",Liberty Бебимульт HD
 http://str27.ottg.cc/5126/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",Liberty Шоу HD
-http://str27.ottg.cc/8558/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://ru2.troya.one:34000/ch1762/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDrCjUJDgnnGPxv2P1LwAFMxHVJTkd3yYTtN-Y5el-jR1
 #EXTINF:-1 group-title="Кинозалы",Liberty Автогир HD
 http://str27.ottg.cc/3001/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",Liberty Наука HD
@@ -452,7 +452,7 @@ http://str17.ottg.app/4167/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Фильмовые",Cinema 
 http://str17.ottg.app/3510/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1033&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Советская киноклассика
-http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxODgyNzM4NCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE4MjIyNTg0LCJzZXNzaW9uX2lkIjoiMGJkODRkMjMwODBkYTg5YzU2Mjg1MGYyYTFiMDBkNjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ILrjs2UrTmDu6GdvOsvFl-UEO2cQ_YDRhmfXLowc0VA
 #EXTINF:-1 group-title="Фильмовые",НСТ
 http://ott.watch/stream/J7619PVV2N/207.m3u8
 #EXTINF:-1 group-title="Фильмовые",Телекафе
@@ -466,7 +466,7 @@ http://str17.ottg.app/9804/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
 http://188.113.190.15/221/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxNzc2MDgzMSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE3MTU2MDMxLCJzZXNzaW9uX2lkIjoiYWM0YmQzOThjMjllZjc0YzIwMDcxZWRkZTVkZTNjNGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JACiBHl_Dw3mBZ52WpoI-BZ2k3C-j1cBi1YOOn4_sKo
+http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxODgyNzM4NCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE4MjIyNTg0LCJzZXNzaW9uX2lkIjoiMGJkODRkMjMwODBkYTg5YzU2Mjg1MGYyYTFiMDBkNjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ILrjs2UrTmDu6GdvOsvFl-UEO2cQ_YDRhmfXLowc0VA
 #EXTINF:-1 group-title="Фильмовые",Победа HD
 http://146.59.93.251/0176/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
