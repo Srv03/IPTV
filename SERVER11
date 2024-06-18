@@ -56,7 +56,7 @@ http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL 
 http://tinyurl.com/TvZaTak/0470/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Спортивные",KHL Prime 
-http://tinyurl.com/TvZaTak/0472/video.m3u8?token=6010965E59DF
+http://188.113.190.15/116/video.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD 
@@ -480,7 +480,7 @@ http://str27.ottg.cc/4634/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://str27.ottg.cc/7069/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",НТВ Право
-https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+http://88.85.172.243:7012/play/a024
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия
 http://str17.ottg.app/1119/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=234&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киномикс
@@ -580,7 +580,7 @@ http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://str17.ottg.app/9170/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=323&req_host=pkjX3BL
 #EXTINF:-1 group-title="Детские",Детский мир 
-http://5.153.180.133:8002/play/a0bw
+http://iptv.iptvin.fun:2134/channel/466cf40a/index.m3u8?q=c75b7888b80290832b945ba962669562
 #EXTINF:-1 group-title="Детские",Карусель
 http://str17.ottg.app/2209/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Детские",Мульт 
