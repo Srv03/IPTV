@@ -32,7 +32,7 @@ http://188.113.190.15/167/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
 http://str27.ottg.cc/3226/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://92.242.110.52:9835/udp/238.1.2.7:1234
+http://31.210.208.171:8080/boec/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMjQiLCJ0IjoiZmRjOTYxODNiMjM5NzcyMmQwZjE1ZWExYzU0NjlkMDUiLCJkIjoiMjg4MTMiLCJyIjoiMjg1ODYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyNC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
@@ -40,7 +40,7 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5Nz
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMjMiLCJ0IjoiZmRjOTYxODNiMjM5NzcyMmQwZjE1ZWExYzU0NjlkMDUiLCJkIjoiMjg4MTMiLCJyIjoiMjg1ODYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyMy9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
-http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
+http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMjIyIiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODIzNi9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
@@ -172,7 +172,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMTc5IiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODE5MC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
@@ -182,7 +182,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-http://ott.watch/stream/WA7KUVATXV/106.m3u8
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiNTYiLCJ0IjoiZmRjOTYxODNiMjM5NzcyMmQwZjE1ZWExYzU0NjlkMDUiLCJkIjoiMjg4MTMiLCJyIjoiMjg1ODYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODA1OC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -330,39 +330,39 @@ http://str17.ottg.app/5675/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Кинозалы",BOX Western HD
 http://str17.ottg.app/8359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1097&req_host=pkjX3BL
 #EXTINF:-1 group-title="Кинозалы",CineMan
-http://tinyurl.com/TvZaTak2/1255.m3u8
+http://ru2.troya.one:34000/ch1030/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDlBbAapBJhkMCIhCGr-hVZ8LbI5BjCuDCXLDR0woE5rz
 #EXTINF:-1 group-title="Кинозалы",CineMan Premium
-http://tinyurl.com/TvZaTak2/1426.m3u8
+http://ru2.troya.one:34000/ch2142/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDtwBrMYVMJkzvq-6D9RXOBe1rr-cXy54Im4k_-wBKBOK
 #EXTINF:-1 group-title="Кинозалы",CineMan Top
-http://tinyurl.com/TvZaTak2/1256.m3u8
+http://ru2.troya.one:34000/ch1031/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDiz5wL2fOPE51qdaRuoZ3owihXmlvgEkiedXYxqKqrcd
 #EXTINF:-1 group-title="Кинозалы",CineMan Action
-http://tinyurl.com/TvZaTak2/1257.m3u8
+http://ru2.troya.one:34000/ch1032/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDlxkjlujgWn60wsUbZ8hGml_wm07UQPFVWd0oYSNODaG
 #EXTINF:-1 group-title="Кинозалы",CineMan Thriller
-http://tinyurl.com/TvZaTak2/1258.m3u8
+http://ru2.troya.one:34000/ch1033/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnAFO6jngmG-hHFSgtcnza57R96Wh-hAHmnMnKsXc-ld
 #EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
-http://tinyurl.com/TvZaTak2/1271.m3u8
+http://ru2.troya.one:34000/ch1074/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDhgxTyHzigi3rFikySrGzrYsXTwBB9H1QmJb7Cx_XGv4
 #EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
-http://tinyurl.com/TvZaTak2/1259.m3u8
+http://ru2.troya.one:34000/ch1034/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDhdClAN4c27Q48dksNzoGXhFBqJyoCyNuPXEAkulCID-
 #EXTINF:-1 group-title="Кинозалы",CineMan Marvel
-http://tinyurl.com/TvZaTak2/1260.m3u8
+http://ru2.troya.one:34000/ch1035/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDk9tHiONVQSs78PnKdOcnuju_H99nXomlUxtbTIbjkTg
 #EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
-http://tinyurl.com/TvZaTak2/1261.m3u8
+http://ru2.troya.one:34000/ch1036/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnPc0fccIXaI0fZun52hZsSejSA4Fx4f4XYuQe-NvHpl
 #EXTINF:-1 group-title="Кинозалы",CineMan Комедия
-http://tinyurl.com/TvZaTak2/1262.m3u8
+http://ru2.troya.one:34000/ch1037/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDprguq5Ugxlg4JRK_XPx2oTgqcb0jH7UNazwEuImG_CZ
 #EXTINF:-1 group-title="Кинозалы",CineMan VHS
-http://tinyurl.com/TvZaTak2/1263.m3u8
+http://ru2.troya.one:34000/ch1038/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDv_BgnCSQ6oR1Iyn5__81v5ddcBsAJpK1voMV5Ez5E1R
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
-http://tinyurl.com/TvZaTak2/1264.m3u8
+http://ru2.troya.one:34000/ch1039/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDqxjvtGeQmm-a90354RP0DkjZUMgZ3L-nEEbcYYCg0jx
 #EXTINF:-1 group-title="Кинозалы",CineMan Сваты
-http://tinyurl.com/TvZaTak2/1265.m3u8
+http://ru2.troya.one:34000/ch1040/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDrNvi2gm_rDiOdXPFmt-mINWHkcXt5PKlUSxCamWHrFG
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
-http://tinyurl.com/TvZaTak2/1295.m3u8
+http://ru2.troya.one:34000/ch1325/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDmxsQ0Ym2WubNgYXNC7SPYG7pH5lyzwZ1GuBENiKrn1g
 #EXTINF:-1 group-title="Кинозалы",CineMan ПёС + Лихачь
-http://tinyurl.com/TvZaTak2/1296.m3u8
+http://ru2.troya.one:34000/ch1326/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnStcV8QeXnRji9KCAXCcXOXaHwlyGGzJ6CvyX2Cw_bC
 #EXTINF:-1 group-title="Кинозалы",CineMan Лесник
-http://tinyurl.com/TvZaTak2/1297.m3u8
+http://ru2.troya.one:34000/ch1327/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDjALFR9W4T56sw-pwwq0FboSSBdJvll6vOK_2p_sHeEz
 #EXTINF:-1 group-title="Кинозалы",CineMan Miniseries
-http://tinyurl.com/TvZaTak2/1413.m3u8
+http://ru2.troya.one:34000/ch2067/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDu7H8f1EHdBP6dpNohIIv1lB2tIgdJ32_DiYV708skm6
 #EXTINF:-1 group-title="Кинозалы",Liberty DC HD
 http://str27.ottg.cc/3021/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",Liberty Короткометражный HD
@@ -452,7 +452,7 @@ http://str17.ottg.app/4167/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Фильмовые",Cinema 
 http://str17.ottg.app/3510/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1033&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxODgyNzM4NCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE4MjIyNTg0LCJzZXNzaW9uX2lkIjoiMGJkODRkMjMwODBkYTg5YzU2Mjg1MGYyYTFiMDBkNjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ILrjs2UrTmDu6GdvOsvFl-UEO2cQ_YDRhmfXLowc0VA
+http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Фильмовые",НСТ
 http://ott.watch/stream/J7619PVV2N/207.m3u8
 #EXTINF:-1 group-title="Фильмовые",Телекафе
@@ -466,7 +466,7 @@ http://str17.ottg.app/9804/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Фильмовые",Русский роман HD
 http://188.113.190.15/221/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",День Победы HD
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxODgyNzM4NCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE4MjIyNTg0LCJzZXNzaW9uX2lkIjoiMGJkODRkMjMwODBkYTg5YzU2Mjg1MGYyYTFiMDBkNjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ILrjs2UrTmDu6GdvOsvFl-UEO2cQ_YDRhmfXLowc0VA
+http://str27.ottg.cc/5425/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Победа HD
 http://146.59.93.251/0176/video.m3u8?token=6010965E59DF
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
@@ -480,7 +480,7 @@ http://str27.ottg.cc/4634/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",НТВ Стиль
 http://str27.ottg.cc/7069/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",НТВ Право
-http://88.85.172.243:7012/play/a024
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMjQ1IiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODMwNy9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия
 http://str17.ottg.app/1119/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=234&req_host=pkjX3BL
 #EXTINF:-1 group-title="Фильмовые",Киномикс
@@ -520,11 +520,11 @@ http://str27.ottg.cc/9212/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://str27.ottg.cc/9250/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",FoodTime
-http://5.153.180.133:8004/play/a07o
+http://str17.ottg.app/9940/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=223&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://str17.ottg.app/9708/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=222&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Зоо ТВ
-http://tinyurl.com/TvZaTak/0763/video.m3u8?token=6010965E59DF
+http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
 http://188.113.190.15/219/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
