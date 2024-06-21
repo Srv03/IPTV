@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.online/epg.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
@@ -519,6 +519,8 @@ http://str17.ottg.app/2048/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://str27.ottg.cc/9212/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://str27.ottg.cc/9250/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Познавательные",Первый Космический HD
+http://str01.ottg.app/3269/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 group-title="Познавательные",FoodTime
 http://str17.ottg.app/9940/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=223&req_host=pkjX3BL
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
@@ -551,6 +553,10 @@ http://str17.ottg.app/9081/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://str01.ottg.app/8267/video.m3u8?token=86861220c3b965aee286df05b52063aa
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://str01.ottg.app/7270/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 group-title="Музыка",RU.TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
