@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://91.207.115.228:5000/c99
+http://str17.ottg.app/5484/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=871&req_host=pkjX3BL
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
@@ -330,39 +330,39 @@ http://str17.ottg.app/5675/video.m3u8?username=Flaxper&password=1P2JR5N87M&token
 #EXTINF:-1 group-title="Кинозалы",BOX Western HD
 http://str17.ottg.app/8359/video.m3u8?username=Flaxper&password=1P2JR5N87M&token=d4841367347bbe30584c1e5546f878da&ch_id=1097&req_host=pkjX3BL
 #EXTINF:-1 group-title="Кинозалы",CineMan
-http://ru2.troya.one:34000/ch1030/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDlBbAapBJhkMCIhCGr-hVZ81h-SYpMoevxKF7zGDAEPI
+http://ru2.troya.one:34000/ch1030/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDlBbAapBJhkMCIhCGr-hVZ8NPOZXlo9R6DhvnITSgZ5T
 #EXTINF:-1 group-title="Кинозалы",CineMan Premium
-http://ru2.troya.one:34000/ch2142/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDtwBrMYVMJkzvq-6D9RXOBe0n5Q27suCI7tH5j0yHMUT
+http://ru2.troya.one:34000/ch2142/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDtwBrMYVMJkzvq-6D9RXOBdq22zVlkFajOGyUrhfd-I5
 #EXTINF:-1 group-title="Кинозалы",CineMan Top
-http://ru2.troya.one:34000/ch1031/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDiz5wL2fOPE51qdaRuoZ3oy3-1oTA9fAhYR6qOuYXTvr
+http://ru2.troya.one:34000/ch1031/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDiz5wL2fOPE51qdaRuoZ3ozuz6VRoh29OPKYZKGIT2pi
 #EXTINF:-1 group-title="Кинозалы",CineMan Action
-http://ru2.troya.one:34000/ch1032/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDlxkjlujgWn60wsUbZ8hGmm4ENkgBWegUGeiAysWxA6N
+http://ru2.troya.one:34000/ch1032/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDlxkjlujgWn60wsUbZ8hGmmBhRJTq4CCpL5dpluwKeWY
 #EXTINF:-1 group-title="Кинозалы",CineMan Thriller
-http://ru2.troya.one:34000/ch1033/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnAFO6jngmG-hHFSgtcnza7feRTrPvfAS-pmBokqEGLj
+http://ru2.troya.one:34000/ch1033/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnAFO6jngmG-hHFSgtcnza7D42NgzLbCoPA5LL3EKA7A
 #EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
-http://ru2.troya.one:34000/ch1074/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDhgxTyHzigi3rFikySrGzrbZDBaiCfJAcVaylBSkTB10
+http://ru2.troya.one:34000/ch1074/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDhgxTyHzigi3rFikySrGzrYzX2ReXFmAi3GR3JeSyIgM
 #EXTINF:-1 group-title="Кинозалы",CineMan Melodrama
-http://ru2.troya.one:34000/ch1034/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDhdClAN4c27Q48dksNzoGXhzOrsq1n8299nteRFbF5VC
+http://ru2.troya.one:34000/ch1034/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDhdClAN4c27Q48dksNzoGXhAMSZTH5j7Vm9rnwtpksLG
 #EXTINF:-1 group-title="Кинозалы",CineMan Marvel
-http://ru2.troya.one:34000/ch1035/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDk9tHiONVQSs78PnKdOcnuiygSL4Tw7Nxap1uMYUMHKM
+http://ru2.troya.one:34000/ch1035/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDk9tHiONVQSs78PnKdOcnuiy9dv1B06yPQToQpz9C3Ba
 #EXTINF:-1 group-title="Кинозалы",CineMan Ужасы
-http://ru2.troya.one:34000/ch1036/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnPc0fccIXaI0fZun52hZsSJtlR0IBIunKXlvbihL8rn
+http://ru2.troya.one:34000/ch1036/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnPc0fccIXaI0fZun52hZsSdBE-fFk2F0jlcuuGRnSZU
 #EXTINF:-1 group-title="Кинозалы",CineMan Комедия
-http://ru2.troya.one:34000/ch1037/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDprguq5Ugxlg4JRK_XPx2oQTmBdrQoSgpb-9dJlinbZV
+http://ru2.troya.one:34000/ch1037/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDprguq5Ugxlg4JRK_XPx2oSKZ0bZZkH6Chb5TbR9hjAl
 #EXTINF:-1 group-title="Кинозалы",CineMan VHS
-http://ru2.troya.one:34000/ch1038/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDv_BgnCSQ6oR1Iyn5__81v5KKJa_HxLLufFOX3FoU7Bl
+http://ru2.troya.one:34000/ch1038/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDv_BgnCSQ6oR1Iyn5__81v4E2IaRJUb4Qk_X5syZrd7G
 #EXTINF:-1 group-title="Кинозалы",CineMan РуКино
-http://ru2.troya.one:34000/ch1039/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDqxjvtGeQmm-a90354RP0DlBOXOlm1cbu9TNkrQase5c
+http://ru2.troya.one:34000/ch1039/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDqxjvtGeQmm-a90354RP0DnS1Qzv5Um47UeM5si_uHrh
 #EXTINF:-1 group-title="Кинозалы",CineMan Сваты
-http://ru2.troya.one:34000/ch1040/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDrNvi2gm_rDiOdXPFmt-mIOAftyu1NIcV4I92QNXn7EU
+http://ru2.troya.one:34000/ch1040/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDrNvi2gm_rDiOdXPFmt-mIMZDkbBK_KBwp9xLCnZHSt3
 #EXTINF:-1 group-title="Кинозалы",CineMan Ментовские войны
-http://ru2.troya.one:34000/ch1325/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDmxsQ0Ym2WubNgYXNC7SPYEFEaTnbgeqT0KPr-B4FDsO
+http://ru2.troya.one:34000/ch1325/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDmxsQ0Ym2WubNgYXNC7SPYGUAnK0EhDonM47N-5Mb4YB
 #EXTINF:-1 group-title="Кинозалы",CineMan ПёС + Лихачь
-http://ru2.troya.one:34000/ch1326/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnStcV8QeXnRji9KCAXCcXM8rylxBfIhU_WkJL-kFVuZ
+http://ru2.troya.one:34000/ch1326/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDnStcV8QeXnRji9KCAXCcXPN2hmeDxEZIXNGukf3dlfM
 #EXTINF:-1 group-title="Кинозалы",CineMan Лесник
-http://ru2.troya.one:34000/ch1327/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDjALFR9W4T56sw-pwwq0FbppEpY1SXGdPDWGfcU2vL85
+http://ru2.troya.one:34000/ch1327/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDjALFR9W4T56sw-pwwq0Fbr0F0EivbVlylPv0e_s8KCc
 #EXTINF:-1 group-title="Кинозалы",CineMan Miniseries
-http://ru2.troya.one:34000/ch2067/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDu7H8f1EHdBP6dpNohIIv1lniQ4h91iwWZsmBPuRMQLO
+http://ru2.troya.one:34000/ch2067/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDu7H8f1EHdBP6dpNohIIv1lgCjuIh5wzVXBrXMn9QI1s
 #EXTINF:-1 group-title="Кинозалы",Liberty DC HD
 http://str27.ottg.cc/3021/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Кинозалы",Liberty Короткометражный HD
@@ -568,7 +568,7 @@ http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV Hits
 http://str27.ottg.cc/3704/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Музыка",Bridge TV Fresh
-http://ru2.troya.one:34000/ch644/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDs9MwlWHXR98bbIHCxyqtgbS7snFe4Qt8lBxsItL7fZb
+http://ru2.troya.one:34000/ch644/mono.m3u8?token=dw24_gamlet1.fsqfL7Lt-koHQkHxGsZvDs9MwlWHXR98bbIHCxyqtgZrnK75zeGkZlMUrY41tXuZ
 #EXTINF:-1 group-title="Музыка",Bridge TV Rock
 http://188.113.190.15/75/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит 
