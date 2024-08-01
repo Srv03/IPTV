@@ -455,3 +455,19 @@ http://str17.ottg.app/9954/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str17.ottg.app/5321/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Детские",Уникум 
 http://str17.ottg.app/5438/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 group-title="Радио",Avtoradio +0
+https://ic6.101.ru:8000/s2
+#EXTINF:-1 group-title="Радио",AvtoRadio +2
+https://ic7.101.ru:8000/s3
+#EXTINF:-1 group-title="Радио",AvtoRadio +4
+https://ic7.101.ru:8000/s4
+#EXTINF:-1 group-title="Радио",AvtoRadio +7
+https://ic7.101.ru:8000/s5
+#EXTINF:-1 group-title="Радио",HUMOR FM +0
+https://ic7.101.ru:8000/s12
+#EXTINF:-1 group-title="Радио",HUMOR FM +2
+https://ic7.101.ru:8000/s13
+#EXTINF:-1 group-title="Радио",HUMOR FM +4
+https://ic7.101.ru:8000/s14
+#EXTINF:-1 group-title="Радио",HUMOR FM +7
+https://ic7.101.ru:8000/s15
