@@ -4,13 +4,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
 http://str17.ottg.app/5484/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +6
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +8
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
@@ -91,24 +91,30 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="Новости",РБК 
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Карусель +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Карусель +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="Каналы (+)",Карусель +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ Центр +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ Центр +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ Центр +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
 http://str17.ottg.app/8082/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Рен ТВ +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
@@ -252,9 +258,9 @@ http://str17.ottg.app/4830/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://str17.ottg.app/2251/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",KION Хит
-http://str27.ottg.app/3504/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+http://str27.ottg.app/3504/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Start Air
-http://str27.ottg.app/1116/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+http://str27.ottg.app/1116/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Start World
 http://str17.ottg.app/5311/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
