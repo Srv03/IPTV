@@ -178,7 +178,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Муз-ТВ HD
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMTc5IiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODE5MC9pbmRleC5tM3U4P3R/index.m3u8
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgxOTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMTc5IiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODE5MC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
@@ -188,7 +188,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiNTYiLCJ0IjoiZmRjOTYxODNiMjM5NzcyMmQwZjE1ZWExYzU0NjlkMDUiLCJkIjoiMjg4MTMiLCJyIjoiMjg1ODYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODA1OC9pbmRleC5tM3U4P3R/index.m3u8
+http://str27.ottg.cc/2304/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
@@ -205,7 +205,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Суббота HD
+#EXTINF:-1 group-title="Федеральные",Супер HD
 http://str17.ottg.app/3894/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
@@ -279,6 +279,8 @@ http://str17.ottg.app/8448/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str27.ottg.app/8785/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
 http://str17.ottg.app/1514/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 group-title="Фильмовые",Камеди HD
+http://str27.ottg.cc/6565/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Еврокино HD
 http://str17.ottg.app/5240/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
@@ -291,10 +293,16 @@ http://str17.ottg.cc/5365/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str17.ottg.app/4010/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Криминальное HD
 http://str17.ottg.app/8675/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 group-title="Фильмовые",Наше любимое SD
+http://str27.ottg.cc/8916/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 group-title="Фильмовые",Наше любимое HD
+http://str27.ottg.cc/8916/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://str27.ottg.app/6659/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Премиальное HD
 http://str17.ottg.app/4505/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 group-title="Фильмовые",Про Любовь HD
+http://cdn.ottg.app/2645/video.m3u8?token=bfbdada2bac7b228f86bb7080ea60d81
 #EXTINF:-1 group-title="Фильмовые",Романтичное HD
 http://str17.ottg.app/7262/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Русский бестселлер
@@ -305,6 +313,8 @@ http://str17.ottg.app/6590/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str27.ottg.app/9282/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Русская комедия
 http://str17.ottg.app/4167/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 group-title="Фильмовые",Хит HD
+http://str27.ottg.cc/2119/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Cinema 
 http://str27.ottg.app/3510/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",НСТ
