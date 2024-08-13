@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+https://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
 http://str17.ottg.app/5484/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +2
@@ -12,7 +12,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Первый канал +8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD 
 http://str17.ottg.app/5963/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
@@ -24,15 +24,15 @@ http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
-http://stream01.vnet.am/BoksTv/index.m3u8
+http://195.158.222.115:8000/play/89/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! HD
-http://188.113.190.15/167/tracks-v1a1/index.m3u8
+http://str27.ottg.cc/5292/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
 http://str17.ottg.app/3226/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://31.210.208.171:8080/boec/index.m3u8?token=+W2MSER
+http://str27.ottg.cc/1403/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
 http://str17.ottg.app/4780/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Спортивные",Матч! Страна 
@@ -136,7 +136,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Домашний +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+https://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
 http://u.vipl.one/high/x9scda3iu7/1036.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +2
@@ -146,7 +146,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",ТВ3 +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+https://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница HD
 http://str27.ottg.app/9657/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Каналы (+)",Пятница +2
@@ -166,7 +166,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Мир +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+https://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
 http://str17.ottg.app/1337/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Каналы (+)",ТНТ +2
@@ -186,7 +186,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ4 HD
 http://str27.ottg.cc/2304/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
@@ -220,7 +220,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",СТС Love +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 group-title="Каналы (+)",Че +2
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Каналы (+)",Че +4
@@ -293,10 +293,6 @@ http://str17.ottg.cc/5365/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str17.ottg.app/4010/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Криминальное HD
 http://str17.ottg.app/8675/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Наше любимое SD
-http://str27.ottg.cc/8916/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
-#EXTINF:-1 group-title="Фильмовые",Наше любимое HD
-http://str27.ottg.cc/8916/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://str27.ottg.app/6659/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",Премиальное HD
@@ -390,7 +386,7 @@ http://str17.ottg.app/9940/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://str17.ottg.app/9708/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Познавательные",Зоо ТВ
-http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
+http://185.112.140.28:80/zoo_tv/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя Планета HD
 http://str17.ottg.app/7223/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Познавательные",Viju Explore HD
@@ -422,9 +418,9 @@ http://str17.ottg.app/8267/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://str17.ottg.app/7270/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
-http://84.38.180.145:8080/tvoetv/tracks-v1a1/mono.m3u8
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВОЕ ТВ - ЮМОР
-http://84.38.180.145:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV HD
 http://str27.ottg.app/3300/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Музыка",Bridge TV
