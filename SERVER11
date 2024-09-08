@@ -330,7 +330,7 @@ http://str17.ottg.app/5425/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Победа HD
 http://str17.ottg.app/8934/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 group-title="Фильмовые",Дом Кино
-http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAwODcxMDAxNSIsImV4cCI6MTcyNjMwMDY3NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzI1Njk1ODc1LCJzZXNzaW9uX2lkIjoiMmNjZDkyY2VmMWYxMDM1ODlhYmNlOTliMjg2YzY2ZmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.eN8teLWTJUSSVSub4t_H-JfPYgfuRtkeKg7x95nL0pU
+http://91.207.114.220:9001/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
 http://str27.ottg.app/6799/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 group-title="Фильмовые",НТВ Сериал
