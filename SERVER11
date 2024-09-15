@@ -1,469 +1,469 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Федеральные",Первый канал
+#EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
+#EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал HD
 http://str17.ottg.app/5484/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +2
+#EXTINF:-1 tvg-id="pervy-pl2" group-title="Каналы (+)",Первый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +4
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="Каналы (+)",Первый канал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +6
+#EXTINF:-1 tvg-id="pervy-pl6" group-title="Каналы (+)",Первый канал +6
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Первый канал +8
+#EXTINF:-1 tvg-id="pervy-pl8" group-title="Каналы (+)",Первый канал +8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1
+#EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD 
+#EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1 HD 
 http://str17.ottg.app/5963/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +2
+#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Каналы (+)",Россия 1 +2
 http://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +4
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Каналы (+)",Россия 1 +4
 http://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +6
+#EXTINF:-1 tvg-id="rossia1-pl6" group-title="Каналы (+)",Россия 1 +6
 http://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Россия 1 +8
+#EXTINF:-1 tvg-id="rossia1-pl8" group-title="Каналы (+)",Россия 1 +8
 http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
-#EXTINF:-1 group-title="Спортивные",Бокс ТВ
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Бокс ТВ
 http://str06.ottg.online/5791/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
-#EXTINF:-1 group-title="Спортивные",Матч!
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! HD
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
 http://str17.ottg.app/5292/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
+#EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Матч! Арена HD
 http://str17.ottg.app/3226/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные",Матч! Боец
 http://str17.ottg.app/1403/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные",Матч! Игра HD
 http://str17.ottg.app/4780/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Страна 
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна 
 http://str17.ottg.app/7937/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер HD
 http://str17.ottg.app/7517/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Планета
+#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
 http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 1 HD
 http://str17.ottg.app/2321/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные",Матч! Футбол 2 HD
 http://str17.ottg.app/6026/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные",Матч! Футбол 3 HD
 http://str17.ottg.app/6866/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Viju+ Sport HD
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport HD
 http://str17.ottg.app/1072/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Мир баскетбола
+#EXTINF:-1 tvg-id="mir-basketbola" group-title="Спортивные",Мир баскетбола
 http://str17.ottg.app/3271/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",Старт
+#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спортивные",KHL 
+#EXTINF:-1 tvg-id="kxl" group-title="Спортивные",KHL 
 http://str17.ottg.app/7762/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Спортивные",KHL Prime 
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime 
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMjM2IiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODI5Ny9pbmRleC5tM3U4P3R/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
+#EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ HD 
+#EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ HD 
 http://str17.ottg.app/8711/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",НТВ +2
+#EXTINF:-1 tvg-id="ntv-pl2" group-title="Каналы (+)",НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",НТВ +4
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="Каналы (+)",НТВ +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",НТВ +7
+#EXTINF:-1 tvg-id="ntv-pl7" group-title="Каналы (+)",НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятый Канал +2
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Каналы (+)",Пятый Канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятый канал +4
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="Каналы (+)",Пятый канал +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятый канал +7
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" group-title="Каналы (+)",Пятый канал +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Новости",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новости",Дума ТВ
+#EXTINF:-1 tvg-id="dumatv" group-title="Новости",Дума ТВ
 http://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 group-title="Новости",Известия
+#EXTINF:-1 tvg-id="izvestia" group-title="Новости",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Новости",ЛДПР ТВ
+#EXTINF:-1 tvg-id="ldpr-tv" group-title="Новости",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Москва 24
+#EXTINF:-1 tvg-id="moskva-24" group-title="Новости",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:-1 group-title="Новости",Мир 24
+#EXTINF:-1 tvg-id="mir-24" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Новости",360 Новости
+#EXTINF:-1 tvg-id="360-news" group-title="Новости",360 Новости
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 group-title="Новости",РБК 
+#EXTINF:-1 tvg-id="rbk" group-title="Новости",РБК 
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Карусель +2
+#EXTINF:-1 tvg-id="karusel-pl2" group-title="Каналы (+)",Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Карусель +4
+#EXTINF:-1 tvg-id="karusel-pl4" group-title="Каналы (+)",Карусель +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Карусель +7
+#EXTINF:-1 tvg-id="karusel-pl7" group-title="Каналы (+)",Карусель +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр
+#EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ Центр +2
+#EXTINF:-1 tvg-id="tvcentr-pl2" group-title="Каналы (+)",ТВ Центр +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ Центр +4
+#EXTINF:-1 tvg-id="tvcentr-pl4" group-title="Каналы (+)",ТВ Центр +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ Центр +7
+#EXTINF:-1 tvg-id="tvcentr-pl7" group-title="Каналы (+)",ТВ Центр +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
+#EXTINF:-1 tvg-id="rentv" group-title="Федеральные",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ HD
+#EXTINF:-1 tvg-id="rentv" group-title="Федеральные",Рен ТВ HD
 http://str17.ottg.app/8082/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +2
+#EXTINF:-1 tvg-id="rentv-pl2" group-title="Каналы (+)",Рен ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +4
+#EXTINF:-1 tvg-id="rentv-pl4" group-title="Каналы (+)",Рен ТВ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Рен ТВ +7
+#EXTINF:-1 tvg-id="rentv-pl7" group-title="Каналы (+)",Рен ТВ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС
+#EXTINF:-1 tvg-id="sts" group-title="Федеральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС HD
+#EXTINF:-1 tvg-id="sts" group-title="Федеральные",СТС HD
 http://str17.ottg.app/2990/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",СТС +2
+#EXTINF:-1 tvg-id="sts-pl2" group-title="Каналы (+)",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС +4
+#EXTINF:-1 tvg-id="sts-pl4" group-title="Каналы (+)",СТС +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС +7
+#EXTINF:-1 tvg-id="sts-pl7" group-title="Каналы (+)",СТС +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний
+#EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний HD
+#EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний HD
 http://player.smotrim.ru/iframe/stream/live_id/64556?43
-#EXTINF:-1 group-title="Каналы (+)",Домашний +2
+#EXTINF:-1 tvg-id="domashny-pl2" group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Домашний +4
+#EXTINF:-1 tvg-id="domashny-pl4" group-title="Каналы (+)",Домашний +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Домашний +7
+#EXTINF:-1 tvg-id="domashny-pl7" group-title="Каналы (+)",Домашний +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Федеральные",ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3 HD
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Федеральные",ТВ3 HD
 http://u.vipl.one/high/x9scda3iu7/1036.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ3 +2
+#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="Каналы (+)",ТВ3 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ3 +4
+#EXTINF:-1 tvg-id="tv3-ru-pl4" group-title="Каналы (+)",ТВ3 +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТВ3 +7
+#EXTINF:-1 tvg-id="tv3-ru-pl7" group-title="Каналы (+)",ТВ3 +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница HD
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница HD
 http://str17.ottg.app/9657/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",Пятница +2
+#EXTINF:-1 tvg-id="piatnica-pl2" group-title="Каналы (+)",Пятница +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятница +4
+#EXTINF:-1 tvg-id="piatnica-pl4" group-title="Каналы (+)",Пятница +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Пятница +7
+#EXTINF:-1 tvg-id="piatnica-pl7" group-title="Каналы (+)",Пятница +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Мир
+#EXTINF:-1 tvg-id="mir" group-title="Федеральные",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Мир HD
+#EXTINF:-1 tvg-id="mir" group-title="Федеральные",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Мир +2
+#EXTINF:-1 tvg-id="mir-pl2" group-title="Каналы (+)",Мир +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Мир +4
+#EXTINF:-1 tvg-id="mir-pl4" group-title="Каналы (+)",Мир +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8			
-#EXTINF:-1 group-title="Каналы (+)",Мир +7
+#EXTINF:-1 tvg-id="mir-pl7" group-title="Каналы (+)",Мир +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ
+#EXTINF:-1 tvg-id="tnt" group-title="Федеральные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
+#EXTINF:-1 tvg-id="tnt" group-title="Федеральные",ТНТ HD
 http://str17.ottg.app/1337/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",ТНТ +2
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="Каналы (+)",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ +4
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="Каналы (+)",ТНТ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ +7
+#EXTINF:-1 tvg-id="tnt-pl7" group-title="Каналы (+)",ТНТ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Музыка",Муз-ТВ
+#EXTINF:-1 tvg-id="muztv" group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Музыка",Муз-ТВ HD
+#EXTINF:-1 tvg-id="muztv" group-title="Музыка",Муз-ТВ HD
 
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+2)
+#EXTINF:-1 tvg-id="muztv-pl2" group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+4)
+#EXTINF:-1 tvg-id="muztv-pl4" group-title="Каналы (+)",Муз ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Муз ТВ (+7)
+#EXTINF:-1 tvg-id="muztv-pl7" group-title="Каналы (+)",Муз ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ4
+#EXTINF:-1 tvg-id="tnt4" group-title="Федеральные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ4 HD
+#EXTINF:-1 tvg-id="tnt4" group-title="Федеральные",ТНТ4 HD
 http://str17.ottg.app/2304/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +2
+#EXTINF:-1 tvg-id="tnt4-pl2" group-title="Каналы (+)",ТНТ4 +2
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +4
+#EXTINF:-1 tvg-id="tnt4-pl4" group-title="Каналы (+)",ТНТ4 +4
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",ТНТ4 +7
+#EXTINF:-1 tvg-id="tnt4-pl7" group-title="Каналы (+)",ТНТ4 +7
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Детские",Солнце
+#EXTINF:-1 tvg-id="solnce" group-title="Детские",Солнце
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце (+2)
+#EXTINF:-1 tvg-id="solnce-pl2" group-title="Каналы (+)",Солнце (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце (+4)
+#EXTINF:-1 tvg-id="solnce-pl4" group-title="Каналы (+)",Солнце (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Солнце (+7)
+#EXTINF:-1 tvg-id="solnce-pl7" group-title="Каналы (+)",Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Суббота
+#EXTINF:-1 tvg-id="super" group-title="Федеральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Супер HD
+#EXTINF:-1 tvg-id="super" group-title="Федеральные",Супер HD
 http://str17.ottg.app/3894/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Каналы (+)",Суббота +2
+#EXTINF:-1 tvg-id="super-pl2" group-title="Каналы (+)",Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Суббота +4
+#EXTINF:-1 tvg-id="super-pl4" group-title="Каналы (+)",Суббота +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Суббота +7
+#EXTINF:-1 tvg-id="super-pl7" group-title="Каналы (+)",Суббота +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС Love
+#EXTINF:-1 tvg-id="sts-love" group-title="Федеральные",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС Love +2
+#EXTINF:-1 tvg-id="sts-love-pl2" group-title="Каналы (+)",СТС Love +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",СТС Love +4
+#EXTINF:-1 tvg-id="sts-love-pl4" group-title="Каналы (+)",СТС Love +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Че
+#EXTINF:-1 tvg-id="che" group-title="Федеральные",Че
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 group-title="Каналы (+)",Че +2
+#EXTINF:-1 tvg-id="che-pl2" group-title="Каналы (+)",Че +2
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Че +4
+#EXTINF:-1 tvg-id="che-pl4" group-title="Каналы (+)",Че +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Че +7
+#EXTINF:-1 tvg-id="che-pl7" group-title="Каналы (+)",Че +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",2x2
+#EXTINF:-1 tvg-id="2na2" group-title="Федеральные",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",2x2 +2
+#EXTINF:-1 tvg-id="2na2-pl2" group-title="Каналы (+)",2x2 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",2x2 +4
+#EXTINF:-1 tvg-id="2na2-pl4" group-title="Каналы (+)",2x2 +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",2x2 +7
+#EXTINF:-1 tvg-id="2na2-pl7" group-title="Каналы (+)",2x2 +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",Ю
+#EXTINF:-1 tvg-id="yu" group-title="Федеральные",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Ю +2
+#EXTINF:-1 tvg-id="yu-pl2" group-title="Каналы (+)",Ю +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Ю +4
+#EXTINF:-1 tvg-id="yu-pl4" group-title="Каналы (+)",Ю +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Каналы (+)",Ю +7
+#EXTINF:-1 tvg-id="yu-pl7" group-title="Каналы (+)",Ю +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
+#EXTINF:-1 tvg-id="amedia1" group-title="Фильмовые",Amedia 1 HD
 http://str17.ottg.app/7386/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
+#EXTINF:-1 tvg-id="amedia2" group-title="Фильмовые",Amedia 2 HD
 http://str17.ottg.app/7515/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Фильмовые",Amedia Hit HD
 http://str17.ottg.app/4546/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Фильмовые",Amedia Premium HD
 http://str17.ottg.app/3610/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",.black
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Фильмовые",.black
 http://str17.ottg.app/4668/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",.red
+#EXTINF:-1 tvg-id="sony-tv" group-title="Фильмовые",.red
 http://str17.ottg.app/4830/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",.sci-fi
+#EXTINF:-1 tvg-id="sony-scifi" group-title="Фильмовые",.sci-fi
 http://str17.ottg.app/2251/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",KION Хит
+#EXTINF:-1 tvg-id="kion-xit" group-title="Фильмовые",KION Хит
 http://str17.ottg.app/3504/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Start Air
+#EXTINF:-1 tvg-id="start-air" group-title="Фильмовые",Start Air
 http://str17.ottg.app/1116/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Start World
+#EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World
 http://str17.ottg.app/5311/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju TV1000 HD
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",Viju TV1000 HD
 http://str17.ottg.app/1411/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла 
+#EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Фильмовые",Viju TV1000 Новелла 
 http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское HD
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",Viju TV1000 Русское HD
 http://str17.ottg.app/1502/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action HD
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",Viju TV1000 Action HD
 http://str17.ottg.app/9080/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Viju+ Comedy HD
 http://str17.ottg.app/2903/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Viju+ Megahit HD
 http://str17.ottg.app/8448/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju+ Premiere HD
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",Viju+ Premiere HD
 http://str17.ottg.app/8785/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
+#EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Viju+ Serial HD
 http://str17.ottg.app/1514/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Камеди HD
+#EXTINF:-1 tvg-id="kamedi" group-title="Фильмовые",Камеди HD
 http://str17.ottg.app/6565/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Еврокино HD
+#EXTINF:-1 tvg-id="evrokino" group-title="Фильмовые",Еврокино HD
 http://str17.ottg.app/5240/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Наш Кинопоказ HD
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd" group-title="Фильмовые",Наш Кинопоказ HD
 http://str17.ottg.app/2159/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Наше HD
+#EXTINF:-1 tvg-id="nashehd" group-title="Фильмовые",Наше HD
 http://str17.ottg.app/6359/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" group-title="Фильмовые",Наше Мужское HD
 http://str17.ottg.cc/5365/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Комедийное HD
+#EXTINF:-1 tvg-id="komedijnoe-hd" group-title="Фильмовые",Комедийное HD
 http://str17.ottg.app/4010/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Криминальное HD
+#EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="Фильмовые",Криминальное HD
 http://str17.ottg.app/8675/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Фильмовые",Остросюжетное HD
 http://str17.ottg.app/6659/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Премиальное HD
+#EXTINF:-1 tvg-id="premialnoe-hd" group-title="Фильмовые",Премиальное HD
 http://str17.ottg.app/4505/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Про Любовь HD
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="Фильмовые",Про Любовь HD
 http://str17.ottg.app/2645/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Романтичное HD
+#EXTINF:-1 tvg-id="romantichnoe-hd" group-title="Фильмовые",Романтичное HD
 http://str17.ottg.app/7262/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Русский бестселлер
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Фильмовые",Русский бестселлер
 http://str17.ottg.app/7525/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Русский детектив
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Фильмовые",Русский детектив
 http://str17.ottg.app/6590/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион HD
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Фильмовые",Русский Иллюзион HD
 http://str17.ottg.app/9282/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Русская комедия
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="Фильмовые",Русская комедия
 http://str17.ottg.app/4167/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Хит HD
+#EXTINF:-1 tvg-id="khit-hd" group-title="Фильмовые",Хит HD
 http://str17.ottg.app/2119/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Cinema 
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмовые",Cinema 
 http://str17.ottg.app/3510/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",НСТ
+#EXTINF:-1 tvg-id="nst" group-title="Фильмовые",НСТ
 http://str17.ottg.app/9044/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Телекафе
+#EXTINF:-1 tvg-id="telekafe" group-title="Фильмовые",Телекафе
 http://str17.ottg.app/3719/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",FAN HD
+#EXTINF:-1 tvg-id="fanhd" group-title="Фильмовые",FAN HD
 http://str17.ottg.app/2006/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
-http://str17.ottg.app/2488/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Иллюзион+ 
+#EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
+http://77.243.112.149:8080/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Фильмовые",Иллюзион+ 
 http://str17.ottg.app/9804/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Русский роман HD
+#EXTINF:-1 tvg-id="russky-roman" group-title="Фильмовые",Русский роман HD
 http://str17.ottg.app/3574/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",День Победы HD
+#EXTINF:-1 tvg-id="denpobedy" group-title="Фильмовые",День Победы HD
 http://str17.ottg.app/5425/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Победа HD
+#EXTINF:-1 tvg-id="pobeda" group-title="Фильмовые",Победа HD
 http://str17.ottg.app/8934/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Дом Кино
+#EXTINF:-1 tvg-id="domkino" group-title="Фильмовые",Дом Кино
 http://str17.ottg.cc/2851/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
 http://str17.ottg.app/6799/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал
 http://str17.ottg.app/3900/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",НТВ Хит 
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит 
 http://str17.ottg.app/4634/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",НТВ Стиль
-http://str17.ottg.app/7069/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",НТВ Право
-http://str17.ottg.app/8025/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Кинокомедия
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Фильмовые",Кинокомедия
 http://str17.ottg.app/1119/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Киномикс
+#EXTINF:-1 tvg-id="kinomiks" group-title="Фильмовые",Киномикс
 http://str17.ottg.app/7385/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Киносемья
+#EXTINF:-1 tvg-id="kinosemiya" group-title="Фильмовые",Киносемья
 http://str17.ottg.app/9098/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Кинопремьера 
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Фильмовые",Кинопремьера 
 http://str17.ottg.app/7998/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Кинохит
+#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит
 http://str17.ottg.app/6140/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Киноужас 
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас 
 http://str17.ottg.app/1755/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Киносерия
+#EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия
 http://str17.ottg.app/2414/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Киносвидание
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="Фильмовые",Киносвидание
 http://str17.ottg.app/5897/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Мужское Кино 
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское Кино 
 http://str17.ottg.app/6241/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Фильмовые",Наше Новое Кино
 http://str17.ottg.app/3259/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Родное кино
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Фильмовые",Родное кино
 http://str17.ottg.app/7965/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Фильмовые",Индийское Кино
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Фильмовые",Индийское Кино
 http://str17.ottg.app/6200/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Авто 24 HD
+#EXTINF:-1 tvg-id="avto24" group-title="Познавательные",Авто 24 HD
 http://str17.ottg.app/8624/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Авто Плюс HD
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные",Авто Плюс HD
 http://str17.ottg.app/2339/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Арсенал HD
+#EXTINF:-1 tvg-id="arsenaltv" group-title="Познавательные",Арсенал HD
 http://str17.ottg.app/2273/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Бобёр
+#EXTINF:-1 tvg-id="bobior" group-title="Познавательные",Бобёр
 http://str17.ottg.app/5063/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Еда
+#EXTINF:-1 tvg-id="eda" group-title="Познавательные",Еда
 http://str17.ottg.app/2048/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Дикая охота HD
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные",Дикая охота HD
 http://str17.ottg.app/9212/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные",Дикая рыбалка HD
 http://str17.ottg.app/9250/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Первый Космический HD
+#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
 http://str17.ottg.app/3269/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",FoodTime
+#EXTINF:-1 tvg-id="eda-hd" group-title="Познавательные",FoodTime
 http://str17.ottg.app/9940/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
 http://str17.ottg.app/9708/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+#EXTINF:-1 tvg-id="zootv" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
 http://str17.ottg.app/7223/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Viju Explore HD
+#EXTINF:-1 tvg-id="ntv-style" group-title="Познавательные",НТВ Стиль
+http://str17.ottg.app/7069/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="Познавательные",НТВ Право
+http://str17.ottg.app/8025/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательные",Viju Explore HD
 http://str17.ottg.app/3139/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Viju Nature HD
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viju Nature HD
 http://str17.ottg.app/5532/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Viju History HD
+#EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",Viju History HD
 http://str17.ottg.app/4637/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные",Viju+ Planet HD
 http://str17.ottg.app/8772/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Телепутешествия
+#EXTINF:-1 tvg-id="teleputeshestvia" group-title="Познавательные",Телепутешествия
 http://str17.ottg.app/3385/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Приключения HD
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
 http://str17.ottg.app/3242/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Познавательные",Охотник и рыболов HD
 http://str17.ottg.app/5955/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Живая Планета
+#EXTINF:-1 tvg-id="zhivaya-planeta" group-title="Познавательные",Живая Планета
 http://str17.ottg.app/1313/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Наука 2.0 HD
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука 2.0 HD
 http://str17.ottg.app/5656/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Поехали HD
+#EXTINF:-1 tvg-id="poexali" group-title="Познавательные",Поехали HD
 http://str17.ottg.app/9081/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Познавательные",Лапки Live
+#EXTINF:-1 tvg-id="zhivaya-planeta" group-title="Познавательные",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Неизвестная Россия
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Познавательные",Неизвестная Россия
 http://88.218.242.237:8000/play/a00n
-#EXTINF:-1 group-title="Развлекательные",Сарафан
+#EXTINF:-1 tvg-id="sarafan" group-title="Развлекательные",Сарафан
 http://str17.ottg.app/8267/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+#EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
 http://str17.ottg.app/7270/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Развлекательные",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВОЕ ТВ - ЮМОР
+#EXTINF:-1 tvg-id="tvoetv-humor" group-title="Развлекательные",ТВОЕ ТВ - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV HD
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыка",RU.TV HD
 http://str17.ottg.app/3300/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка",Bridge TV
 http://str17.ottg.app/1774/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыка",Bridge TV Classic
 http://str17.ottg.app/9334/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV Deluxe
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка",Bridge TV Deluxe
 http://str17.ottg.app/3413/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыка",Bridge TV Hits
 http://str17.ottg.app/3704/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыка",Bridge TV Rock
 http://str17.ottg.app/8966/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит 
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка",Bridge TV Русский Хит 
 http://str17.ottg.app/5747/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка",Bridge TV Шлягер
 http://str17.ottg.app/4363/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Baby Time
+#EXTINF:-1 tvg-id="baby-time" group-title="Музыка",Baby Time
 http://188.113.190.15/178/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыка",Europa Plus TV
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка",Europa Plus TV
 http://str17.ottg.app/9995/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",ТНТ Music
+#EXTINF:-1 tvg-id="tnt-music" group-title="Музыка",ТНТ Music
 http://str17.ottg.app/4885/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Музыка Первого
+#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыка",Музыка Первого
 http://str17.ottg.app/8805/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Музыка",Жара HD
+#EXTINF:-1 tvg-id="zhara" group-title="Музыка",Жара HD
 http://str17.ottg.app/4248/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Ani
+#EXTINF:-1 tvg-id="ani" group-title="Детские",Ani
 http://str17.ottg.app/9170/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Детский мир 
+#EXTINF:-1 tvg-id="detsky-mir" group-title="Детские",Детский мир 
 http://str17.ottg.app/9295/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Карусель
+#EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
 http://str17.ottg.app/2209/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Мульт 
+#EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт 
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Детские",О!
+#EXTINF:-1 tvg-id="o_" group-title="Детские",О!
 http://str17.ottg.app/4299/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Мультиландия
+#EXTINF:-1 tvg-id="multimania" group-title="Детские",Мультиландия
 http://str17.ottg.app/2229/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Рыжий
+#EXTINF:-1 tvg-id="ryzhy" group-title="Детские",Рыжий
 http://str17.ottg.app/5672/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",СТС Kids HD
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
 http://str17.ottg.app/9954/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Мультимузыка
+#EXTINF:-1 tvg-id="multimuzyka" group-title="Детские",Мультимузыка
 http://str17.ottg.app/5321/video.m3u8?token=d4841367347bbe30584c1e5546f878da
-#EXTINF:-1 group-title="Детские",Уникум 
+#EXTINF:-1 tvg-id="detsky" group-title="Детские",Уникум 
 http://str17.ottg.app/5438/video.m3u8?token=d4841367347bbe30584c1e5546f878da
