@@ -279,8 +279,18 @@ http://str17.ottg.app/8448/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str17.ottg.app/8785/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Viju+ Serial HD
 http://str17.ottg.app/1514/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 tvg-id="tvxxi" group-title="Фильмовые",TV XXI
+http://str27.ottg.cc/3043/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 tvg-id="dushevnoe-hd" group-title="Фильмовые",Душевное HD
+http://str27.ottg.cc/4416/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 tvg-id="kamedi" group-title="Фильмовые",Камеди HD
 http://str17.ottg.app/6565/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ HD
+http://str27.ottg.cc/5930/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+#EXTINF:-1 tvg-id="kino-tv-pl4" group-title="Фильмовые",КиноТВ (+4)
+https://live-3.otcnet.ru/kinotvplus4/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Фильмовые",КиноТВ (+7)
+https://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" group-title="Фильмовые",Еврокино HD
 http://str17.ottg.app/5240/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" group-title="Фильмовые",Наш Кинопоказ HD
@@ -317,6 +327,8 @@ http://str17.ottg.app/3510/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str17.ottg.app/9044/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="telekafe" group-title="Фильмовые",Телекафе
 http://str17.ottg.app/3719/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Фильмовые",Шокирующее HD
+http://str27.ottg.cc/7023/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 tvg-id="fanhd" group-title="Фильмовые",FAN HD
 http://str17.ottg.app/2006/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
@@ -361,6 +373,8 @@ http://str17.ottg.app/3259/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 http://str17.ottg.app/7965/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Фильмовые",Индийское Кино
 http://str17.ottg.app/6200/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+#EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",Индия
+http://str27.ottg.cc/7669/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
 #EXTINF:-1 tvg-id="avto24" group-title="Познавательные",Авто 24 HD
 http://str17.ottg.app/8624/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные",Авто Плюс HD
