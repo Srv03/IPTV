@@ -24,7 +24,7 @@ http://str17.ottg.cc/5764/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="rossia1-pl8" group-title="Каналы (+)",Россия 1 +8
 http://str17.ottg.cc/1503/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Бокс ТВ
-http://str06.ottg.online/5791/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
+http://stream01.vnet.am/BoksTv/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
 http://str17.ottg.cc/2575/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
@@ -40,7 +40,7 @@ http://str17.ottg.app/7937/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер HD
 http://str17.ottg.app/7517/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
-http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 1 HD
 http://str17.ottg.app/2321/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="match-football2" group-title="Спортивные",Матч! Футбол 2 HD
@@ -56,7 +56,7 @@ http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="kxl" group-title="Спортивные",KHL 
 http://str17.ottg.app/7762/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime 
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjcyNWU5NzNmIiwicCI6IjcyNWU5NzNmMDc2MTkwNTIiLCJjIjoiMjM2IiwidCI6ImZkYzk2MTgzYjIzOTc3MjJkMGYxNWVhMWM1NDY5ZDA1IiwiZCI6IjI4ODEzIiwiciI6IjI4NTg2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODI5Ny9pbmRleC5tM3U4P3R/index.m3u8
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
 http://str17.ottg.cc/9413/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ HD 
@@ -128,7 +128,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний HD
-http://player.smotrim.ru/iframe/stream/live_id/64556?43
+http://91.207.115.228:9001/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" group-title="Каналы (+)",Домашний +4
@@ -178,7 +178,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Музыка",Муз-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Музыка",Муз-ТВ HD
-
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" group-title="Каналы (+)",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 tvg-id="muztv-pl4" group-title="Каналы (+)",Муз ТВ (+4)
@@ -280,13 +280,13 @@ http://str17.ottg.app/8785/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Viju+ Serial HD
 http://str17.ottg.app/1514/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="tvxxi" group-title="Фильмовые",TV XXI
-http://str27.ottg.cc/3043/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://91.205.199.3/tvxxi/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="Фильмовые",Душевное HD
-http://str27.ottg.cc/4416/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://str17.ottg.app/4416/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="kamedi" group-title="Фильмовые",Камеди HD
 http://str17.ottg.app/6565/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ HD
-http://str27.ottg.cc/5930/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://str17.ottg.app/5930/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="kino-tv-pl4" group-title="Фильмовые",КиноТВ (+4)
 https://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Фильмовые",КиноТВ (+7)
@@ -328,11 +328,11 @@ http://str17.ottg.app/9044/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="telekafe" group-title="Фильмовые",Телекафе
 http://str17.ottg.app/3719/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Фильмовые",Шокирующее HD
-http://str27.ottg.cc/7023/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://str17.ottg.app/7023/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="fanhd" group-title="Фильмовые",FAN HD
 http://str17.ottg.app/2006/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
-http://77.243.112.149:8080/mosfilm/index.m3u8
+http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Фильмовые",Иллюзион+ 
 http://str17.ottg.app/9804/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="russky-roman" group-title="Фильмовые",Русский роман HD
@@ -374,7 +374,7 @@ http://str17.ottg.app/7965/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Фильмовые",Индийское Кино
 http://str17.ottg.app/6200/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",Индия
-http://str27.ottg.cc/7669/video.m3u8?token=d62da2c302bd6836e87312b49e69e6c5
+http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="avto24" group-title="Познавательные",Авто 24 HD
 http://str17.ottg.app/8624/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные",Авто Плюс HD
@@ -450,7 +450,7 @@ http://str17.ottg.app/8966/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка",Bridge TV Русский Хит 
 http://str17.ottg.app/5747/video.m3u8?token=d4841367347bbe30584c1e5546f878da
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка",Bridge TV Шлягер
-http://str17.ottg.app/4363/video.m3u8?token=d4841367347bbe30584c1e5546f878da
+http://tv.newline.in.ua:8000/play/a00s
 #EXTINF:-1 tvg-id="baby-time" group-title="Музыка",Baby Time
 http://188.113.190.15/178/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка",Europa Plus TV
