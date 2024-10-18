@@ -1,32 +1,32 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал
-http://str17.ottg.cc/9195/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/9195/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал HD
 http://cdn.ottg.app/5484/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="pervy-pl2" group-title="Каналы (+)",Первый канал +2
-http://str17.ottg.cc/9429/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/9429/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="pervy-pl4" group-title="Каналы (+)",Первый канал +4
-http://str17.ottg.cc/9664/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/9664/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="pervy-pl6" group-title="Каналы (+)",Первый канал +6
-http://str17.ottg.cc/8664/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/8664/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="pervy-pl8" group-title="Каналы (+)",Первый канал +8
-http://str17.ottg.cc/7295/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/7295/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1
-http://str17.ottg.cc/9226/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/9226/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1 HD 
 http://cdn.ottg.app/5963/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia1-pl2" group-title="Каналы (+)",Россия 1 +2
-http://str17.ottg.cc/4936/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/4936/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia1-pl4" group-title="Каналы (+)",Россия 1 +4
-http://str17.ottg.cc/5445/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/5445/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia1-pl6" group-title="Каналы (+)",Россия 1 +6
-http://str17.ottg.cc/5764/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/5764/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia1-pl8" group-title="Каналы (+)",Россия 1 +8
-http://str17.ottg.cc/1503/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/1503/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Бокс ТВ
 http://stream01.vnet.am/BoksTv/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
-http://str17.ottg.cc/2575/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/2575/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
 http://cdn.ottg.app/5292/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Матч! Арена HD
@@ -58,25 +58,25 @@ http://cdn.ottg.app/7762/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
-http://str17.ottg.cc/9413/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/9413/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ HD 
 http://cdn.ottg.app/8711/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="ntv-pl2" group-title="Каналы (+)",НТВ +2
-http://str17.ottg.cc/8004/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/8004/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="ntv-pl4" group-title="Каналы (+)",НТВ +4
-http://str17.ottg.cc/7454/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/7454/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="ntv-pl7" group-title="Каналы (+)",НТВ +7
-http://str17.ottg.cc/5040/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/5040/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
-http://str17.ottg.cc/4750/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/4750/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Каналы (+)",Пятый Канал +2
-http://str17.ottg.cc/4447/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/4447/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="Каналы (+)",Пятый канал +4
-http://str17.ottg.cc/8598/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/8598/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="5kanal-ru-pl7" group-title="Каналы (+)",Пятый канал +7
-http://str17.ottg.cc/5413/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/5413/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="rossia-24" group-title="Новости",Россия 24
-http://str17.ottg.cc/7146/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/7146/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="dumatv" group-title="Новости",Дума ТВ
 http://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="Новости",Известия
@@ -298,7 +298,7 @@ http://cdn.ottg.app/2159/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="nashehd" group-title="Фильмовые",Наше HD
 http://cdn.ottg.app/6359/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd" group-title="Фильмовые",Наше Мужское HD
-http://str17.ottg.cc/5365/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/5365/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="komedijnoe-hd" group-title="Фильмовые",Комедийное HD
 http://cdn.ottg.app/4010/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="Фильмовые",Криминальное HD
@@ -342,7 +342,7 @@ http://cdn.ottg.app/5425/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="pobeda" group-title="Фильмовые",Победа HD
 http://cdn.ottg.app/8934/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="domkino" group-title="Фильмовые",Дом Кино
-http://str17.ottg.cc/2851/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+http://cdn.ottg.app/2851/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
 http://cdn.ottg.app/6799/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал
