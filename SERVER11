@@ -388,7 +388,7 @@ http://cdn.ottg.app/2048/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные",Дикая охота HD
 http://cdn.ottg.app/9212/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные",Дикая рыбалка HD
-http://cdn.ottg.app/9250/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
+https://s25617.cdn.ngenix.net/mdrm/CH_DIKAYARYBALKAHD/manifest.mpd?token=MYNGY3NDA2NWYyZTZmY2NkNzA4OTRkNzk2OTg4ZDFlNjg
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
 http://cdn.ottg.app/3269/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:-1 tvg-id="eda-hd" group-title="Познавательные",FoodTime
