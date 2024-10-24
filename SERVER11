@@ -79,6 +79,8 @@ http://str02.ottg.tv/5413/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 http://str02.ottg.tv/7146/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="dumatv" group-title="Новости",Дума ТВ
 http://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 tvg-id="dozhd" group-title="Новости",Дождь HD
+http://str02.ottg.tv/7702/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="izvestia" group-title="Новости",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="Новости",ЛДПР ТВ
@@ -87,10 +89,14 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 tvg-id="mir-24" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости",Соловьев.Live
+http://str02.ottg.tv/9902/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="360-news" group-title="Новости",360 Новости
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="Новости",РБК 
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="Новости",EuroNews
+http://str02.ottg.tv/3882/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="karusel-pl2" group-title="Каналы (+)",Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:-1 tvg-id="karusel-pl4" group-title="Каналы (+)",Карусель +4
@@ -393,8 +399,18 @@ http://str02.ottg.tv/2503/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 http://str02.ottg.tv/9212/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные",Дикая рыбалка HD
 http://str02.ottg.tv/9250/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="Познавательные",Домашние животные
+http://str02.ottg.tv/3646/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+#EXTINF:-1 tvg-id="mir-uvlecheniy" group-title="Познавательные",КтоКуда
+http://str02.ottg.tv/4072/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+#EXTINF:-1 tvg-id="zagorodny" group-title="Познавательные",Загородный
+http://str02.ottg.tv/5180/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+#EXTINF:-1 tvg-id="zoopark" group-title="Познавательные",Зоопарк
+http://str02.ottg.tv/6767/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
 http://str02.ottg.tv/3269/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+#EXTINF:-1 tvg-id="psixologia-21" group-title="Познавательные",Психология
+http://str02.ottg.tv/8819/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="eda-hd" group-title="Познавательные",FoodTime
 http://str02.ottg.tv/9940/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
