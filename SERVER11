@@ -54,7 +54,7 @@ http://str02.ottg.tv/3271/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="kxl" group-title="Спортивные",KHL 
-http://str02.ottg.tv/7762/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+http://str02.ottg.tv/2957/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
@@ -134,7 +134,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний HD
-http://91.207.115.228:9001/play/a0e2/index.m3u8
+http://str02.ottg.tv/4131/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="domashny-pl2" group-title="Каналы (+)",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" group-title="Каналы (+)",Домашний +4
@@ -152,7 +152,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl7" group-title="Каналы (+)",ТВ3 +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница HD
 http://str02.ottg.tv/9657/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="piatnica-pl2" group-title="Каналы (+)",Пятница +2
@@ -286,7 +286,7 @@ http://str02.ottg.tv/8785/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Viju+ Serial HD
 http://str02.ottg.tv/1514/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="tvxxi" group-title="Фильмовые",TV XXI
-http://91.205.199.3/tvxxi/index.m3u8
+http://91.194.191.241:8081/chid265/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="Фильмовые",Душевное HD
 http://str02.ottg.tv/4416/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="kamedi" group-title="Фильмовые",Камеди HD
@@ -338,6 +338,8 @@ http://str02.ottg.tv/7023/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="fanhd" group-title="Фильмовые",FAN HD
 http://str02.ottg.tv/2006/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
+http://185.50.148.2:7706/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm-pl4" group-title="Фильмовые",Мосфильм. Золотая коллекция (+4)
 http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Фильмовые",Иллюзион+ 
 http://str02.ottg.tv/9804/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
@@ -462,7 +464,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" group-title="Развлекательные",ТВОЕ ТВ - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="Музыка",RU.TV HD
-http://str02.ottg.tv/3300/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка",Bridge TV
 http://str02.ottg.tv/1774/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыка",Bridge TV Classic
@@ -476,7 +478,9 @@ http://str02.ottg.tv/8966/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка",Bridge TV Русский Хит 
 http://str02.ottg.tv/5747/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка",Bridge TV Шлягер
-http://tv.newline.in.ua:8000/play/a00s
+http://91.194.191.241:8081/chid98/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыка",Bridge TV Фрэш
+http://91.194.191.241:8081/chid467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="baby-time" group-title="Музыка",Baby Time
 http://188.113.190.15/178/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка",Europa Plus TV
