@@ -499,6 +499,8 @@ http://str02.ottg.tv/9295/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 http://str02.ottg.tv/2209/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт 
 http://str02.ottg.tv/3483/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
+#EXTINF:-1 tvg-id="kinomult" group-title="Детские",Киномульт
+http://%64m%69%74%72%79-%74%76.ddns.net/hls/CH_KINOMULT.m3u8
 #EXTINF:-1 tvg-id="o_" group-title="Детские",О!
 http://str02.ottg.tv/4299/video.m3u8?token=1c5e9be374f7359db8ffcc6f790eecca
 #EXTINF:-1 tvg-id="multimania" group-title="Детские",Мультиландия
