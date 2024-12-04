@@ -348,7 +348,7 @@ http://str05.ottg.app/3574/video.m3u8?token=d3c3b86843131aa410e1d71fb394e3a0
 #EXTINF:-1 tvg-id="denpobedy" group-title="Фильмовые",День Победы HD
 http://str05.ottg.app/5425/video.m3u8?token=d3c3b86843131aa410e1d71fb394e3a0
 #EXTINF:-1 tvg-id="pobeda" group-title="Фильмовые",Победа HD
-http://str05.ottg.app/8934/video.m3u8?token=d3c3b86843131aa410e1d71fb394e3a0
+http://str05.ottg.app/2988/video.m3u8?token=d3c3b86843131aa410e1d71fb394e3a0
 #EXTINF:-1 tvg-id="domkino" group-title="Фильмовые",Дом Кино
 http://str05.ottg.app/2851/video.m3u8?token=d3c3b86843131aa410e1d71fb394e3a0
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
